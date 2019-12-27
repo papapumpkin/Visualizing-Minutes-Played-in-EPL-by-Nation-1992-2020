@@ -1,0 +1,1641 @@
+Rk,Nation,# Players,Min,List,Year
+1,eng England,188,120738,Jamie Vardy Marcus Rashford Tammy Abraham Harry Kane Raheem Sterling Danny Ings Jack Grealish James Maddison James Ward-Prowse Trent Alexander-Arnold ...,2019-2020
+2,fr France,31,24181,Neal Maupay Sébastien Haller Lucas Digne Moussa Sissoko Abdoulaye Doucouré Anthony Martial Kurt Zouma Frederic Guilbert Mattéo Guendouzi Lys Mousset ...,2019-2020
+3,es Spain,29,24379,Adama Traoré David Silva Gerard Deulofeu Jonny Castro David de Gea Kepa Arrizabalaga César Azpilicueta Diego Rico Vicente Guaita Rodri ...,2019-2020
+4,ie Ireland,23,11952,Enda Stevens John Egan Jeff Hendrick Matt Doherty David McGoldrick Conor Hourihane Ciaran Clark Séamus Coleman Aaron Connolly Callum Robinson ...,2019-2020
+5,br Brazil,21,19652,Richarlison Roberto Firmino Wesley Moraes Willian Gabriel Jesus Joelinton Ederson David Luiz Felipe Anderson Lucas Moura ...,2019-2020
+6,nl Netherlands,17,13219,Virgil van Dijk Anwar El Ghazi Davy Pröpper Nathan Aké Patrick van Aanholt Jetro Willems Erik Pieters Georginio Wijnaldum Tim Krul Daryl Janmaat ...,2019-2020
+7,sco Scotland,16,13208,Andrew Robertson John McGinn John Fleck Scott McTominay James McArthur Ryan Fraser Kenny McLean Robert Snodgrass Oliver McBurnie Phil Bardsley ...,2019-2020
+8,ar Argentina,15,7628,Sergio Agüero Emiliano Buendía Federico Fernández Nicolás Otamendi Paulo Gazzaniga Roberto Pereyra Manuel Lanzini Érik Lamela Pablo Zabaleta Giovani Lo Celso ...,2019-2020
+9,de Germany,14,8112,Bernd Leno Pascal Groß İlkay Gündoğan Tom Trybull Marco Stiepermann Mesut Özil Moritz Leitner Christoph Zimmermann Antonio Rüdiger Max Meyer ...,2019-2020
+10,pt Portugal,13,10699,João Moutinho Ricardo Pereira Bernardo Silva Rui Patrício Rúben Neves Diogo Jota Cédric Soares André Gomes João Cancelo Pedro Neto ...,2019-2020
+11,be Belgium,12,11216,Kevin De Bruyne Youri Tielemans Toby Alderweireld Leander Dendoncker Björn Engels Jan Vertonghen Leandro Trossard Christian Kabasele Divock Origi Dennis Praet ...,2019-2020
+12,wal Wales,11,5370,Daniel James Harry Wilson Paul Dummett Chris Mepham Neil Taylor Ben Davies Wayne Hennessey James Chester Danny Ward Kieron Freeman ...,2019-2020
+13,dk Denmark,7,6854,Kasper Schmeichel Philip Billing Pierre Højbjerg Christian Eriksen Jannik Vestergaard Andreas Christensen Jonas Lössl,2019-2020
+14,it Italy,7,4327,Jorginho Angelo Ogbonna Emerson Palmieri Adam Masina Patrick Cutrone Moise Kean Ezequiel Schelotto,2019-2020
+15,ng Nigeria,6,2756,Wilfred Ndidi Alex Iwobi Kelechi Iheanacho Isaac Success Leon Balogun Tom Dele-Bashiru,2019-2020
+16,ch Switzerland,6,2508,Granit Xhaka Fabian Schär Xherdan Shaqiri Josip Drmić Albian Ajeti Timm Klose,2019-2020
+17,nir Northern Ireland,5,5679,Jonny Evans Oliver Norwood Craig Cathcart Jamal Lewis Michael McGovern,2019-2020
+18,co Colombia,5,4776,Yerry Mina Jefferson Lerma Davinson Sánchez Steven Alzate Carlos Sánchez,2019-2020
+19,ci Ivory Coast,5,3863,Wilfried Zaha Nicolas Pépé Serge Aurier Jean-Philippe Gbamin Jonathan Kodjia,2019-2020
+20,sn Senegal,4,3294,Sadio Mané Cheikhou Kouyaté Ismaila Sarr Oumar Niasse,2019-2020
+21,at Austria,4,1838,Ashley Barnes Kevin Danso Christian Fuchs Sebastian Prödl,2019-2020
+22,gh Ghana,3,2824,Jordan Ayew Jeffrey Schlupp Christian Atsu,2019-2020
+23,eg Egypt,3,2533,Mohamed Salah Trézéguet Ahmed Elmohamady,2019-2020
+24,gr Greece,3,2326,Sokratis Papastathopoulos José Holebas Konstantinos Mavropanos,2019-2020
+25,pl Poland,3,2192,Jan Bednarek Łukasz Fabiański Artur Boruc,2019-2020
+26,no Norway,3,2116,Joshua King Alexander Tettey Ørjan Nyland,2019-2020
+27,se Sweden,3,1947,Victor Lindelöf Emil Krafth Ken Sema,2019-2020
+28,ba Bosnia and Herzegovina,3,1085,Sead Kolašinac Mario Vrančić Muhamed Bešić,2019-2020
+29,ro Romania,3,71,Florin Andone Tudor Băluță Mihai Dobre,2019-2020
+30,au Australia,2,2434,Mathew Ryan Aaron Mooy,2019-2020
+31,py Paraguay,2,2156,Miguel Almirón Fabián Balbuena,2019-2020
+32,hr Croatia,2,1914,Mateo Kovačić Dejan Lovren,2019-2020
+33,tr Turkey,2,1910,Çağlar Söyüncü Cenk Tosun,2019-2020
+34,rs Serbia,2,1676,Luka Milivojević Nemanja Matić,2019-2020
+35,mx Mexico,2,1672,Raúl Jiménez Javier Hernández,2019-2020
+36,is Iceland,2,1551,Gylfi Sigurðsson Jóhann Berg Guðmundsson,2019-2020
+37,us United States,2,1543,Christian Pulisic DeAndre Yedlin,2019-2020
+38,ma Morocco,2,1536,Romain Saïss Sofiane Boufal,2019-2020
+39,kr South Korea,2,1434,Son Heung-min Ki Sung-yueng,2019-2020
+40,ua Ukraine,2,1418,Andriy Yarmolenko Oleksandr Zinchenko,2019-2020
+41,ml Mali,2,823,Moussa Djenepo Yves Bissouma,2019-2020
+42,cm Cameroon,2,686,Joël Matip Gaëtan Bong,2019-2020
+43,jm Jamaica,2,686,Adrian Mariappa Wes Morgan,2019-2020
+44,jp Japan,2,669,Maya Yoshida Yoshinori Mutō,2019-2020
+45,cd Congo DR,2,472,Arthur Masuaku Beni Baningime,2019-2020
+46,sk Slovakia,1,1620,Martin Dúbravka,2019-2020
+47,ga Gabon,1,1608,Pierre-Emerick Aubameyang,2019-2020
+48,fi Finland,1,1607,Teemu Pukki,2019-2020
+49,nz New Zealand,1,1311,Chris Wood,2019-2020
+50,zw Zimbabwe,1,1006,Marvelous Nakamba,2019-2020
+51,uy Uruguay,1,809,Lucas Torreira,2019-2020
+52,dz Algeria,1,770,Riyad Mahrez,2019-2020
+53,cu Cuba,1,604,Onel Hernández,2019-2020
+54,am Armenia,1,111,Henrikh Mkhitaryan,2019-2020
+55,gn Guinea,1,104,Naby Keïta,2019-2020
+56,cl Chile,1,90,Claudio Bravo,2019-2020
+57,cz Czech Republic,1,83,Matěj Vydra,2019-2020
+58,ke Kenya,1,23,Victor Wanyama,2019-2020
+59,ir Iran,1,22,Alireza Jahanbakhsh,2019-2020
+60,cw Curaçao,1,,Cuco Martina,2019-2020
+61,lr Liberia,1,,Christain Saydee,2019-2020
+1,eng England,210,223314,Raheem Sterling Jamie Vardy Callum Wilson Harry Kane Nathan Redmond James Maddison Andros Townsend Troy Deeney Marcus Rashford Glenn Murray ...,2018-2019
+2,es Spain,35,51487,Ayoze Pérez César Azpilicueta David Silva Gerard Deulofeu David de Gea Marcos Alonso Víctor Camarasa Kepa Arrizabalaga Jonny Castro Pedro ...,2018-2019
+3,fr France,30,55568,Paul Pogba Alexandre Lacazette Abdoulaye Doucouré N'Golo Kanté Lucas Digne Aymeric Laporte Willy Boly Étienne Capoue Issa Diop Hugo Lloris ...,2018-2019
+4,br Brazil,19,35874,Roberto Firmino Felipe Anderson Richarlison David Luiz Ederson Alisson Lucas Moura Willian Fernandinho Bernard ...,2018-2019
+5,be Belgium,19,24522,Eden Hazard Romelu Lukaku Toby Alderweireld Denis Odoi Jan Vertonghen Youri Tielemans Leander Dendoncker Christian Kabasele Kevin De Bruyne Vincent Kompany ...,2018-2019
+6,ie Ireland,19,19360,Matt Doherty Shane Duffy Séamus Coleman Jeff Hendrick Harry Arter Cyrus Christie Shane Long Ciaran Clark Robbie Brady Greg Cunningham ...,2018-2019
+7,nl Netherlands,18,24636,Virgil van Dijk Nathan Aké Patrick van Aanholt Georginio Wijnaldum Terence Kongolo Davy Pröpper Ryan Babel Daryl Janmaat Jürgen Locadia Wesley Hoedt ...,2018-2019
+8,pt Portugal,16,25391,Bernardo Silva João Moutinho Ricardo Pereira Rúben Neves Diogo Jota Rui Patrício André Gomes Cédric Soares Hélder Costa Diogo Dalot ...,2018-2019
+9,ar Argentina,16,15487,Sergio Agüero Roberto Pereyra Pablo Zabaleta Federico Fernández Gonzalo Higuaín Érik Lamela Luciano Vietto Nicolás Otamendi Juan Foyth Manuel Lanzini ...,2018-2019
+10,de Germany,15,26463,Leroy Sané Christopher Schindler Antonio Rüdiger İlkay Gündoğan Bernd Leno Shkodran Mustafi Pascal Groß Mesut Özil Chris Löwe André Schürrle ...,2018-2019
+11,sco Scotland,11,23627,Ryan Fraser Andrew Robertson James McArthur Matt Ritchie Robert Snodgrass Callum Paterson Tom Cairney Stuart Armstrong Phil Bardsley Scott McTominay ...,2018-2019
+12,wal Wales,11,10948,David Brooks Aaron Ramsey Paul Dummett Ben Davies Wayne Hennessey Sam Vokes Chris Mepham Jazz Richards Rhys Healey Ethan Ampadu ...,2018-2019
+13,dk Denmark,9,19461,Christian Eriksen Kasper Schmeichel Pierre Højbjerg Jonas Lössl Mathias Jørgensen Philip Billing Jannik Vestergaard Kenneth Zohore Andreas Christensen,2018-2019
+14,it Italy,9,7762,Jorginho Angelo Ogbonna Adam Masina Emerson Palmieri Manolo Gabbiadini Matteo Darmian Davide Zappacosta Stefano Okaka Antonio Barreca,2018-2019
+15,ng Nigeria,8,7850,Wilfred Ndidi Alex Iwobi Kelechi Iheanacho Isaac Success Leon Balogun Victor Moses Nnamdi Ofoborh Bright Enobakhare,2018-2019
+16,sn Senegal,6,10972,Sadio Mané Idrissa Gana Gueye Mohamed Diamé Cheikhou Kouyaté Oumar Niasse Pape Souaré,2018-2019
+17,ci Ivory Coast,5,8964,Wilfried Zaha Sol Bamba Jean Seri Serge Aurier Eric Bailly,2018-2019
+18,co Colombia,5,6377,Jefferson Lerma Davinson Sánchez Yerry Mina José Izquierdo Carlos Sánchez,2018-2019
+19,no Norway,5,4709,Joshua King Mohamed Elyounoussi Håvard Nordtveit Stefan Johansen Alexander Sørloth,2018-2019
+20,us United States,5,4653,DeAndre Yedlin Tim Ream Danny Williams Emerson Hyndman Luca de la Torre,2018-2019
+21,at Austria,5,4607,Ashley Barnes Marko Arnautović Christian Fuchs Sebastian Prödl Markus Suttner,2018-2019
+22,rs Serbia,4,9186,Luka Milivojević Aleksandar Mitrović Nemanja Matić Lazar Marković,2018-2019
+23,ch Switzerland,4,6502,Granit Xhaka Fabian Schär Xherdan Shaqiri Stephan Lichtsteiner,2018-2019
+24,gh Ghana,4,4978,Jeffrey Schlupp Christian Atsu Jordan Ayew Daniel Amartey,2018-2019
+25,ga Gabon,3,7722,Pierre-Emerick Aubameyang Bruno Ecuele Manga Mario Lemina,2018-2019
+26,is Iceland,3,7157,Gylfi Sigurðsson Jóhann Berg Guðmundsson Aron Gunnarsson,2018-2019
+27,pl Poland,3,6650,Łukasz Fabiański Jan Bednarek Artur Boruc,2018-2019
+28,jm Jamaica,3,5267,Wes Morgan Bobby Reid Adrian Mariappa,2018-2019
+29,nir Northern Ireland,3,5189,Craig Cathcart Jonny Evans Steven Davis,2018-2019
+30,cm Cameroon,3,4855,Gaëtan Bong Joël Matip Andre-Frank Zambo Anguissa,2018-2019
+31,gr Greece,3,4741,José Holebas Sokratis Papastathopoulos Konstantinos Mavropanos,2018-2019
+32,eg Egypt,3,3716,Mohamed Salah Mohamed Elneny Ramadan Sobhi,2018-2019
+33,se Sweden,3,3356,Victor Lindelöf Ken Sema Viktor Gyökeres,2018-2019
+34,cd Congo DR,3,3037,Arthur Masuaku Elias Kachunga Neeskens Kebano,2018-2019
+35,hr Croatia,3,2729,Mateo Kovačić Dejan Lovren Nikola Tavares,2018-2019
+36,jp Japan,3,2305,Maya Yoshida Yoshinori Mutō Shinji Okazaki,2018-2019
+37,ml Mali,3,1849,Yves Bissouma Fousseni Diabaté Bakary Sako,2018-2019
+38,au Australia,2,5387,Mathew Ryan Aaron Mooy,2018-2019
+39,mx Mexico,2,4461,Raúl Jiménez Javier Hernández,2018-2019
+40,ba Bosnia and Herzegovina,2,4050,Sead Kolašinac Asmir Begović,2018-2019
+41,kr South Korea,2,3349,Son Heung-min Ki Sung-yueng,2018-2019
+42,py Paraguay,2,2777,Fabián Balbuena Miguel Almirón,2018-2019
+43,ve Venezuela,2,2608,Salomón Rondón Adalberto Peñaranda,2018-2019
+44,uy Uruguay,2,2564,Lucas Torreira Miguel Britos,2018-2019
+45,dz Algeria,2,2074,Riyad Mahrez Rachid Ghezzal,2018-2019
+46,cw Curaçao,2,1969,Juninho Bacuna Leandro Bacuna,2018-2019
+47,xk Kosovo,2,1840,Florent Hadergjonaj Arijanet Muric,2018-2019
+48,ua Ukraine,2,1613,Oleksandr Zinchenko Andriy Yarmolenko,2018-2019
+49,gn Guinea,2,1479,Naby Keïta Ibrahima Cissé,2018-2019
+50,tr Turkey,2,1421,Cenk Tosun Çağlar Söyüncü,2018-2019
+51,cz Czech Republic,2,896,Petr Čech Matěj Vydra,2018-2019
+52,cl Chile,2,877,Alexis Sánchez Claudio Bravo,2018-2019
+53,ph Philippines,1,3420,Neil Etheridge,2018-2019
+54,sk Slovakia,1,3420,Martin Dúbravka,2018-2019
+55,nz New Zealand,1,2595,Chris Wood,2018-2019
+56,ca Canada,1,2143,Junior Hoilett,2018-2019
+57,bj Benin,1,1776,Steve Mounié,2018-2019
+58,am Armenia,1,1644,Henrikh Mkhitaryan,2018-2019
+59,ma Morocco,1,1144,Romain Saïss,2018-2019
+60,gq Equatorial Guinea,1,1120,Pedro Obiang,2018-2019
+61,ir Iran,1,1021,Alireza Jahanbakhsh,2018-2019
+62,il Israel,1,933,Beram Kayal,2018-2019
+63,ro Romania,1,873,Florin Andone,2018-2019
+64,si Slovenia,1,717,Jon Gorenc Stanković,2018-2019
+65,ke Kenya,1,512,Victor Wanyama,2018-2019
+66,tg Togo,1,468,Floyd Ayité,2018-2019
+67,ec Ecuador,1,466,Antonio Valencia,2018-2019
+1,eng England,219,247898,Harry Kane Raheem Sterling Jamie Vardy Dele Alli Harry Maguire Andros Townsend Alfie Mawson Jack Cork Lewis Dunk Jay Rodriguez ...,2017-2018
+2,es Spain,32,47340,David Silva César Azpilicueta Marcos Alonso Ayoze Pérez Álvaro Morata Héctor Bellerín David de Gea Oriol Romeu Nacho Monreal Cesc Fàbregas ...,2017-2018
+3,fr France,27,40631,Abdoulaye Doucouré Alexandre Lacazette Paul Pogba Hugo Lloris N'Golo Kanté Kurt Zouma Anthony Martial Anthony Knockaert Tiemoué Bakayoko Yohan Cabaye ...,2017-2018
+4,nl Netherlands,26,32876,Nathan Aké Davy Pröpper Erik Pieters Patrick van Aanholt Georginio Wijnaldum Wesley Hoedt Rajiv van La Parra Virgil van Dijk Daryl Janmaat Mike van der Hoorn ...,2017-2018
+5,be Belgium,22,30771,Kevin De Bruyne Romelu Lukaku Eden Hazard Jan Vertonghen Thibaut Courtois Christian Benteke Christian Kabasele Laurent Depoitre Steven Defour Mousa Dembélé ...,2017-2018
+6,ie Ireland,19,19457,Shane Duffy Jeff Hendrick Stephen Ward Ciaran Clark Shane Long Kevin Long Robbie Brady James McClean Rob Elliot Séamus Coleman ...,2017-2018
+7,ar Argentina,17,19247,Sergio Agüero Pablo Zabaleta Nicolás Otamendi Manuel Lanzini Federico Fernández Roberto Pereyra Érik Lamela Julián Speroni Claudio Yacob Marcos Rojo ...,2017-2018
+8,wal Wales,17,17678,Joe Allen Aaron Ramsey Ben Davies Wayne Hennessey Ashley Williams Andy King Paul Dummett Sam Vokes James Collins Hal Robson-Kanu ...,2017-2018
+9,de Germany,16,24225,Leroy Sané Pascal Groß Christopher Schindler Mesut Özil Emre Can Shkodran Mustafi Antonio Rüdiger İlkay Gündoğan Loris Karius Collin Quaner ...,2017-2018
+10,sco Scotland,14,16698,Matt Ritchie James McArthur Ryan Fraser Andrew Robertson Matt Phillips Darren Fletcher Phil Bardsley Scott McTominay Oliver Burke Charlie Adam ...,2017-2018
+11,br Brazil,13,21878,Roberto Firmino Richarlison Fernandinho Ederson Gabriel Jesus Willian Philippe Coutinho Heurelho Gomes Danilo Kenedy ...,2017-2018
+12,dk Denmark,10,17618,Christian Eriksen Mathias Jørgensen Jonas Lössl Kasper Schmeichel Andreas Christensen Pierre Højbjerg Philip Billing Lasse Sørensen Jakob Haugaard Anders Lindegaard,2017-2018
+13,sn Senegal,10,15000,Sadio Mané Mame Biram Diouf Cheikhou Kouyaté Idrissa Gana Gueye Mohamed Diamé Oumar Niasse Badou Ndiaye Diafra Sakho Henri Saivet Pape Souaré,2017-2018
+14,pt Portugal,10,7500,Cédric Soares Bernardo Silva João Mário Adrien Silva José Fonte Renato Sanches Domingos Quina Eduardo Carvalho Joel Castro Pereira Rafael Camacho,2017-2018
+15,at Austria,9,12546,Marko Arnautović Ashley Barnes Christian Fuchs Sebastian Prödl Kevin Wimmer Moritz Bauer Markus Suttner Aleksandar Dragović Daniel Bachmann,2017-2018
+16,it Italy,7,7554,Angelo Ogbonna Manolo Gabbiadini Ezequiel Schelotto Davide Zappacosta Stefano Okaka Matteo Darmian Emerson Palmieri,2017-2018
+17,cd Congo DR,7,5547,Arthur Masuaku Elias Kachunga Yannick Bolasie Chancel Mbemba Benik Afobe Beni Baningime Dodi Lukebakio,2017-2018
+18,ng Nigeria,6,7668,Wilfred Ndidi Victor Moses Alex Iwobi Kelechi Iheanacho Ahmed Musa Isaac Success,2017-2018
+19,ci Ivory Coast,6,5939,Wilfried Zaha Serge Aurier Eric Bailly Wilfried Bony Yaya Touré Jeremie Boga,2017-2018
+20,rs Serbia,5,9100,Luka Milivojević Dušan Tadić Nemanja Matić Aleksandar Mitrović Marko Grujić,2017-2018
+21,gh Ghana,5,8713,Jordan Ayew André Ayew Christian Atsu Jeffrey Schlupp Daniel Amartey,2017-2018
+22,eg Egypt,5,8398,Mohamed Salah Ahmed Hegazi Ramadan Sobhi Mohamed Elneny Ali Gabr,2017-2018
+23,nir Northern Ireland,5,6692,Jonny Evans Chris Brunt Steven Davis Craig Cathcart Gareth McAuley,2017-2018
+24,au Australia,5,6488,Aaron Mooy Mathew Ryan Aiden O'Neill Harry Souttar Brad Smith,2017-2018
+25,us United States,5,5552,DeAndre Yedlin Geoff Cameron Danny Williams Emerson Hyndman Cameron Carter-Vickers,2017-2018
+26,pl Poland,5,5487,Łukasz Fabiański Grzegorz Krychowiak Jan Bednarek Artur Boruc Jarosław Jach,2017-2018
+27,se Sweden,5,4540,Martin Olsson Victor Lindelöf Zlatan Ibrahimović Kristoffer Nordfeldt Erdal Rakip,2017-2018
+28,cm Cameroon,4,8857,Eric Maxim Choupo-Moting Allan Nyom Gaëtan Bong Joël Matip,2017-2018
+29,ch Switzerland,4,7324,Xherdan Shaqiri Granit Xhaka Edimilson Fernandes Eldin Jakupović,2017-2018
+30,gr Greece,4,4204,José Holebas Orestis Karnezis Kostas Stafylidis Konstantinos Mavropanos,2017-2018
+31,ml Mali,4,1507,Bakary Sako Fousseni Diabaté Molla Wagué Massadio Haïdara,2017-2018
+32,ba Bosnia and Herzegovina,3,5613,Asmir Begović Sead Kolašinac Muhamed Bešić,2017-2018
+33,co Colombia,3,4899,José Izquierdo Davinson Sánchez David Ospina,2017-2018
+34,kr South Korea,3,4320,Son Heung-min Ki Sung-yueng Lee Chung-yong,2017-2018
+35,no Norway,3,2813,Joshua King Alexander Sørloth Fredrik Ulvestad,2017-2018
+36,ga Gabon,3,2777,Pierre-Emerick Aubameyang Mario Lemina Didier Ibrahim Ndong,2017-2018
+37,is Iceland,2,5092,Jóhann Berg Guðmundsson Gylfi Sigurðsson,2017-2018
+38,jm Jamaica,2,5027,Wes Morgan Adrian Mariappa,2017-2018
+39,jp Japan,2,3375,Maya Yoshida Shinji Okazaki,2017-2018
+40,dz Algeria,2,3331,Riyad Mahrez Islam Slimani,2017-2018
+41,nz New Zealand,2,3076,Chris Wood Winston Reid,2017-2018
+42,cz Czech Republic,2,3039,Petr Čech Jiří Skalák,2017-2018
+43,cl Chile,2,2772,Alexis Sánchez Claudio Bravo,2017-2018
+44,hr Croatia,2,2703,Dejan Lovren Nikola Vlašić,2017-2018
+45,il Israel,2,1594,Tomer Hemed Beram Kayal,2017-2018
+46,ma Morocco,2,1417,Sofiane Boufal Nordin Amrabat,2017-2018
+47,ve Venezuela,1,2767,Salomón Rondón,2017-2018
+48,ec Ecuador,1,2740,Antonio Valencia,2017-2018
+49,bj Benin,1,1855,Steve Mounié,2017-2018
+50,cw Curaçao,1,1830,Cuco Martina,2017-2018
+51,am Armenia,1,1716,Henrikh Mkhitaryan,2017-2018
+52,xk Kosovo,1,1674,Florent Hadergjonaj,2017-2018
+53,gq Equatorial Guinea,1,1563,Pedro Obiang,2017-2018
+54,mx Mexico,1,1548,Javier Hernández,2017-2018
+55,pe Peru,1,1540,André Carrillo,2017-2018
+56,ee Estonia,1,1451,Ragnar Klavan,2017-2018
+57,ca Canada,1,1333,Scott Arfield,2017-2018
+58,sk Slovakia,1,1080,Martin Dúbravka,2017-2018
+59,tr Turkey,1,986,Cenk Tosun,2017-2018
+60,ke Kenya,1,846,Victor Wanyama,2017-2018
+61,uy Uruguay,1,797,Miguel Britos,2017-2018
+62,ua Ukraine,1,532,Oleksandr Zinchenko,2017-2018
+63,bi Burundi,1,494,Saido Berahino,2017-2018
+64,tn Tunisia,1,90,Yohan Benalouane,2017-2018
+65,bm Bermuda,1,55,Nahki Wells,2017-2018
+66,fi Finland,1,,Niki Mäenpää,2017-2018
+67,me Montenegro,1,,Sead Haksabanović,2017-2018
+68,ro Romania,1,,Costel Pantilimon,2017-2018
+69,si Slovenia,1,,Jon Gorenc Stanković,2017-2018
+1,eng England,236,241227,Harry Kane Dele Alli Jermain Defoe Jamie Vardy Troy Deeney Ross Barkley James Milner Raheem Sterling Gary Cahill Charlie Daniels ...,2016-2017
+2,es Spain,37,56564,Diego Costa Álvaro Negredo Fernando Llorente César Azpilicueta Pedro David Silva Marcos Alonso Nacho Monreal Oriol Romeu David de Gea ...,2016-2017
+3,fr France,28,34581,Étienne Capoue Paul Pogba N'Golo Kanté Hugo Lloris Laurent Koscielny Yohan Cabaye Olivier Giroud Anthony Martial Dimitri Payet Gaël Clichy ...,2016-2017
+4,be Belgium,23,39323,Romelu Lukaku Kevin De Bruyne Eden Hazard Christian Benteke Thibaut Courtois Kevin Mirallas Nacer Chadli Jan Vertonghen Toby Alderweireld Simon Mignolet ...,2016-2017
+5,ie Ireland,21,27632,Stephen Ward Harry Arter Jeff Hendrick Séamus Coleman Glenn Whelan John O'Shea Damien Delaney Darren Randolph Jonathan Walters Shane Long ...,2016-2017
+6,nl Netherlands,20,28695,Georginio Wijnaldum Erik Pieters Bruno Martins Indi Marten de Roon Leroy Fer Patrick van Aanholt Daley Blind Virgil van Dijk Daryl Janmaat Maarten Stekelenburg ...,2016-2017
+7,sco Scotland,19,26180,Darren Fletcher Robert Snodgrass Matt Phillips George Boyd Andrew Robertson James McArthur Ryan Fraser James Morrison Charlie Adam David Marshall ...,2016-2017
+8,ar Argentina,17,21424,Sergio Agüero Manuel Lanzini Nicolás Otamendi Federico Fernández Claudio Yacob Marcos Rojo Ramiro Funes Mori Willy Caballero Roberto Pereyra Pablo Zabaleta ...,2016-2017
+9,wal Wales,17,19707,Joe Allen Ashley Williams Sam Vokes Wayne Hennessey Ben Davies James Collins Aaron Ramsey Andy King Joe Ledley Hal Robson-Kanu ...,2016-2017
+10,br Brazil,14,22685,Roberto Firmino Philippe Coutinho Heurelho Gomes David Luiz Fernandinho Willian Fábio Gabriel Jesus Gabriel Paulista Lucas Leiva ...,2016-2017
+11,de Germany,13,15202,Mesut Özil Robert Huth Emre Can Shkodran Mustafi Leroy Sané İlkay Gündoğan Loris Karius Ron-Robert Zieler Jan Kirchhoff Philipp Wollscheid ...,2016-2017
+12,sn Senegal,10,14667,Sadio Mané Idrissa Gana Gueye Cheikhou Kouyaté Mame Biram Diouf M'Baye Niang Papy Djilobodji Oumar Niasse Alfred N'Diaye Diafra Sakho Pape Souaré,2016-2017
+13,ng Nigeria,10,9813,Victor Moses Alex Iwobi Wilfred Ndidi Victor Anichebe Odion Ighalo Kelechi Iheanacho Ahmed Musa Isaac Success Ola Aina Josh Maja,2016-2017
+14,it Italy,8,9110,Fabio Borini Angelo Ogbonna Andrea Ranocchia Stefano Okaka Matteo Darmian Manolo Gabbiadini Vito Mannone Simone Zaza,2016-2017
+15,rs Serbia,7,10501,Nemanja Matić Dušan Tadić Aleksandar Kolarov Luka Milivojević Lazar Marković Branislav Ivanović Marko Grujić,2016-2017
+16,ci Ivory Coast,7,10451,Wilfried Zaha Lamine Koné Yaya Touré Eric Bailly Wilfried Bony Max Gradel Arouna Koné,2016-2017
+17,pl Poland,7,7713,Łukasz Fabiański Artur Boruc Kamil Grosicki Marcin Wasilewski Bartosz Kapustka Max Stryjek Mateusz Hewelt,2016-2017
+18,nir Northern Ireland,6,12412,Gareth McAuley Chris Brunt Jonny Evans Steven Davis Craig Cathcart Paddy McNair,2016-2017
+19,at Austria,6,10716,Marko Arnautović Christian Fuchs Sebastian Prödl Ashley Barnes Kevin Wimmer Alex Manninger,2016-2017
+20,ch Switzerland,6,9194,Granit Xhaka Xherdan Shaqiri Valon Behrami Eldin Jakupović Edimilson Fernandes Raphael Spiegel,2016-2017
+21,no Norway,6,6094,Joshua King Adama Diomande Håvard Nordtveit Markus Henriksen Omar Elabdellaoui Fredrik Ulvestad,2016-2017
+22,se Sweden,6,5849,Zlatan Ibrahimović Seb Larsson Martin Olsson Jonas Olsson Kristoffer Nordfeldt Joel Asoro,2016-2017
+23,pt Portugal,6,5539,José Fonte Cédric Soares Joel Castro Pereira Domingos Quina Eduardo Carvalho Mika,2016-2017
+24,dk Denmark,5,7562,Christian Eriksen Kasper Schmeichel Pierre Højbjerg Viktor Fischer Jakob Haugaard,2016-2017
+25,uy Uruguay,5,6691,Miguel Britos Abel Hernández Gastón Ramírez Cristhian Stuani Martín Cáceres,2016-2017
+26,gh Ghana,5,5238,André Ayew Daniel Amartey Jeffrey Schlupp Jordan Ayew Albert Adomah,2016-2017
+27,cd Congo DR,5,5041,Benik Afobe Yannick Bolasie Arthur Masuaku Dieumerci Mbokani Giannelli Imbula,2016-2017
+28,dz Algeria,4,6008,Riyad Mahrez Islam Slimani Sofiane Feghouli Adlène Guedioura,2016-2017
+29,us United States,4,2895,Geoff Cameron Brad Guzan Lynden Gooch Cameron Carter-Vickers,2016-2017
+30,au Australia,4,646,Brad Smith Adam Federici Mile Jedinak Aiden O'Neill,2016-2017
+31,eg Egypt,3,4072,Ahmed Elmohamady Ramadan Sobhi Mohamed Elneny,2016-2017
+32,ec Ecuador,3,3899,Antonio Valencia Enner Valencia Jefferson Montero,2016-2017
+33,kr South Korea,3,3824,Son Heung-min Ki Sung-yueng Lee Chung-yong,2016-2017
+34,co Colombia,3,1943,Bernardo Espinosa Juan Zúñiga David Ospina,2016-2017
+35,tn Tunisia,3,1766,Wahbi Khazri Yohan Benalouane Mouez Hassen,2016-2017
+36,cl Chile,2,5185,Alexis Sánchez Claudio Bravo,2016-2017
+37,cm Cameroon,2,5095,Allan Nyom Joël Matip,2016-2017
+38,is Iceland,2,4325,Gylfi Sigurðsson Jóhann Berg Guðmundsson,2016-2017
+39,jp Japan,2,3635,Maya Yoshida Shinji Okazaki,2016-2017
+40,ma Morocco,2,3195,Nordin Amrabat Sofiane Boufal,2016-2017
+41,cz Czech Republic,2,3100,Petr Čech Matěj Vydra,2016-2017
+42,jm Jamaica,2,2992,Wes Morgan Adrian Mariappa,2016-2017
+43,gr Greece,2,2905,José Holebas Dimitrios Konstantopoulos,2016-2017
+44,gq Equatorial Guinea,2,2083,Pedro Obiang Emilio Nsue,2016-2017
+45,ba Bosnia and Herzegovina,2,180,Asmir Begović Muhamed Bešić,2016-2017
+46,ro Romania,2,83,Costel Pantilimon Florin Gardoș,2016-2017
+47,sk Slovakia,2,5,Filip Lesniak Dušan Kuciak,2016-2017
+48,ke Kenya,1,3012,Victor Wanyama,2016-2017
+49,ve Venezuela,1,2891,Salomón Rondón,2016-2017
+50,nz New Zealand,1,2587,Winston Reid,2016-2017
+51,hr Croatia,1,2553,Dejan Lovren,2016-2017
+52,ga Gabon,1,2520,Didier Ibrahim Ndong,2016-2017
+53,ca Canada,1,2102,Scott Arfield,2016-2017
+54,ee Estonia,1,1410,Ragnar Klavan,2016-2017
+55,am Armenia,1,1348,Henrikh Mkhitaryan,2016-2017
+56,cr Costa Rica,1,1323,Bryan Oviedo,2016-2017
+57,gm Gambia,1,1145,Modou Barrow,2016-2017
+58,bi Burundi,1,963,Saido Berahino,2016-2017
+59,za South Africa,1,803,Steven Pienaar,2016-2017
+60,cw Curaçao,1,592,Cuco Martina,2016-2017
+61,bj Benin,1,533,Rudy Gestede,2016-2017
+62,tr Turkey,1,240,Gökhan Töre,2016-2017
+63,ml Mali,1,142,Bakary Sako,2016-2017
+64,af Afghanistan,1,,Noor Husin,2016-2017
+65,lt Lithuania,1,,Giedrius Arlauskis,2016-2017
+66,zw Zimbabwe,1,,Tendayi Darikwa,2016-2017
+1,eng England,233,223826,Jamie Vardy Harry Kane Troy Deeney Ross Barkley Mark Noble Dele Alli Charlie Daniels Jermain Defoe Danny Drinkwater Aaron Cresswell ...,2015-2016
+2,fr France,38,53946,Dimitri Payet Olivier Giroud Anthony Martial Moussa Sissoko Yann M'Vila N'Golo Kanté Hugo Lloris Yohan Cabaye Laurent Koscielny Étienne Capoue ...,2015-2016
+3,es Spain,38,52900,Diego Costa Cesc Fàbregas Juan Mata Héctor Bellerín César Azpilicueta Nacho Monreal David de Gea Alberto Moreno David Silva Pedro ...,2015-2016
+4,ie Ireland,25,31670,Robbie Brady Shane Long Damien Delaney Glenn Whelan Wes Hoolahan James McCarthy James McClean Séamus Coleman Jonathan Walters John O'Shea ...,2015-2016
+5,nl Netherlands,22,33407,Georginio Wijnaldum Patrick van Aanholt Virgil van Dijk Daley Blind Daryl Janmaat Erik Pieters Ibrahim Afellay Vurnon Anita Nathan Aké Jeremain Lens ...,2015-2016
+6,be Belgium,20,28250,Romelu Lukaku Toby Alderweireld Kevin De Bruyne Simon Mignolet Eden Hazard Mousa Dembélé Christian Benteke Jan Vertonghen Thibaut Courtois Kevin Mirallas ...,2015-2016
+7,sco Scotland,19,23159,Matt Ritchie Darren Fletcher Russell Martin James McArthur Alan Hutton James Morrison Steven Naismith Ikechi Anya Graham Dorrans Steven Fletcher ...,2015-2016
+8,ar Argentina,18,25659,Sergio Agüero Érik Lamela Federico Fernández Claudio Yacob Nicolás Otamendi Ramiro Funes Mori Manuel Lanzini Fabricio Coloccini Leonardo Ulloa Marcos Rojo ...,2015-2016
+9,wal Wales,18,22133,Ashley Williams Aaron Ramsey Neil Taylor Wayne Hennessey Boaz Myhill Paul Dummett Ben Davies James Collins Andy King Joe Ledley ...,2015-2016
+10,br Brazil,15,21840,Willian Roberto Firmino Heurelho Gomes Philippe Coutinho Fernandinho Oscar Lucas Leiva Fernando Gabriel Paulista Ramires ...,2015-2016
+11,sn Senegal,11,16416,Sadio Mané Cheikhou Kouyaté Idrissa Gana Gueye Pape Souaré Diafra Sakho Mame Biram Diouf Papiss Cissé Dame N'Doye Henri Saivet Oumar Niasse ...,2015-2016
+12,it Italy,11,10760,Graziano Pellè Fabio Borini Angelo Ogbonna Matteo Darmian Vito Mannone Alberto Paloschi Alessandro Diamanti Gabriele Angella Emanuele Giaccherini Marco Amelia ...,2015-2016
+13,ng Nigeria,10,8288,Odion Ighalo John Obi Mikel Kelechi Iheanacho Victor Moses Alex Iwobi Emmanuel Emenike Victor Anichebe Peter Odemwingie Ola Aina Brown Ideye,2015-2016
+14,de Germany,9,15698,Mesut Özil Robert Huth Philipp Wollscheid Emre Can Per Mertesacker Bastian Schweinsteiger Jan Kirchhoff Serge Gnabry Gerhard Tremmel,2015-2016
+15,ci Ivory Coast,9,11810,Yaya Touré Wilfried Zaha Arouna Koné Wilfried Bony Lamine Koné Cheick Tioté Max Gradel Kolo Touré Seydou Doumbia,2015-2016
+16,nir Northern Ireland,7,13414,Steven Davis Gareth McAuley Craig Cathcart Jonny Evans Chris Brunt Paddy McNair Kyle Lafferty,2015-2016
+17,ch Switzerland,7,6450,Xherdan Shaqiri Almen Abdi Valon Behrami Timm Klose Gökhan Inler Kevin Mbabu Raphael Spiegel,2015-2016
+18,cd Congo DR,6,9151,Chancel Mbemba Yannick Bolasie Dieumerci Mbokani Giannelli Imbula Benik Afobe Youssouf Mulumbu,2015-2016
+19,us United States,6,9075,Brad Guzan Geoff Cameron Tim Howard DeAndre Yedlin Matt Miazga Lynden Gooch,2015-2016
+20,pt Portugal,6,6222,José Fonte Cédric Soares Ivo Pinto Éder João Carlos Teixeira Tiago Ilori,2015-2016
+21,au Australia,6,2474,Mile Jedinak Adam Federici Brad Smith Jordan Lyden Jordan Holmes Mark Schwarzer,2015-2016
+22,rs Serbia,5,12011,Dušan Tadić Aleksandar Mitrović Branislav Ivanović Aleksandar Kolarov Nemanja Matić,2015-2016
+23,at Austria,5,8108,Marko Arnautović Christian Fuchs Sebastian Prödl Kevin Wimmer Daniel Bachmann,2015-2016
+24,dk Denmark,5,7838,Christian Eriksen Kasper Schmeichel Jores Okore Jakob Haugaard Anders Lindegaard,2015-2016
+25,gh Ghana,5,7783,André Ayew Jordan Ayew Jeffrey Schlupp Baba Rahman Daniel Amartey,2015-2016
+26,se Sweden,5,5091,Jonas Olsson Martin Olsson Ola Toivonen Seb Larsson Kristoffer Nordfeldt,2015-2016
+27,uy Uruguay,5,3648,Miguel Britos Sebastián Coates Guillermo Varela Gastón Ramírez Diego Poyet,2015-2016
+28,cz Czech Republic,5,3318,Petr Čech Libor Kozák Matěj Vydra Daniel Pudil Jindřich Staněk,2015-2016
+29,co Colombia,5,2059,Carlos Sánchez David Ospina Radamel Falcao Víctor Ibarbo Juan Cuadrado,2015-2016
+30,cm Cameroon,4,6109,Sébastien Bassong Allan Nyom Alex Song Clinton N'Jie,2015-2016
+31,no Norway,4,4492,Joshua King Alexander Tettey Brede Hangeland Martin Samuelsen,2015-2016
+32,ec Ecuador,4,3992,Enner Valencia Jefferson Montero Antonio Valencia Juan Carlos Paredes,2015-2016
+33,pl Poland,3,6513,Łukasz Fabiański Artur Boruc Marcin Wasilewski,2015-2016
+34,dz Algeria,3,3634,Riyad Mahrez Adlène Guedioura Nabil Bentaleb,2015-2016
+35,cw Curaçao,3,3502,Leandro Bacuna Cuco Martina Kenji Gorré,2015-2016
+36,kr South Korea,3,3347,Ki Sung-yueng Son Heung-min Lee Chung-yong,2015-2016
+37,hr Croatia,3,2270,Dejan Lovren Nikica Jelavić Andrej Kramarić,2015-2016
+38,cr Costa Rica,3,1908,Joel Campbell Bryan Oviedo Cristian Gamboa,2015-2016
+39,ml Mali,3,1651,Bakary Sako Massadio Haïdara Modibo Maïga,2015-2016
+40,jm Jamaica,2,3675,Wes Morgan Adrian Mariappa,2015-2016
+41,bj Benin,2,3421,Rudy Gestede Stéphane Sessègnon,2015-2016
+42,jp Japan,2,3074,Shinji Okazaki Maya Yoshida,2015-2016
+43,ba Bosnia and Herzegovina,2,1957,Asmir Begović Muhamed Bešić,2015-2016
+44,tn Tunisia,2,1139,Wahbi Khazri Yohan Benalouane,2015-2016
+45,ma Morocco,2,763,Nordin Amrabat Marouane Chamakh,2015-2016
+46,za South Africa,2,163,Steven Pienaar Tokelo Rantie,2015-2016
+47,mx Mexico,2,155,Miguel Layún Javier Hernández,2015-2016
+48,is Iceland,1,2914,Gylfi Sigurðsson,2015-2016
+49,ve Venezuela,1,2555,Salomón Rondón,2015-2016
+50,ke Kenya,1,2498,Victor Wanyama,2015-2016
+51,cl Chile,1,2436,Alexis Sánchez,2015-2016
+52,nz New Zealand,1,2135,Winston Reid,2015-2016
+53,sk Slovakia,1,1885,Martin Škrtel,2015-2016
+54,bi Burundi,1,1746,Saido Berahino,2015-2016
+55,ro Romania,1,1530,Costel Pantilimon,2015-2016
+56,gq Equatorial Guinea,1,1088,Pedro Obiang,2015-2016
+57,gr Greece,1,945,José Holebas,2015-2016
+58,eg Egypt,1,792,Mohamed Elneny,2015-2016
+59,gm Gambia,1,791,Modou Barrow,2015-2016
+60,tg Togo,1,619,Emmanuel Adebayor,2015-2016
+61,bf Burkina Faso,1,375,Bertrand Traoré,2015-2016
+62,hu Hungary,1,180,Ádám Bogdán,2015-2016
+63,py Paraguay,1,57,Juan Iturbe,2015-2016
+64,lt Lithuania,1,24,Giedrius Arlauskis,2015-2016
+65,xk Kosovo,1,14,Bersant Celina,2015-2016
+66,bm Bermuda,1,,Djair Parfitt-Williams,2015-2016
+67,ca Canada,1,,Doneil Henry,2015-2016
+68,tr Turkey,1,,Daniel Barlaser,2015-2016
+1,eng England,229,261026,Charlie Austin Harry Kane Jordan Henderson Stewart Downing Wayne Rooney Danny Ings Raheem Sterling Jack Colback Jason Puncheon Aaron Cresswell ...,2014-2015
+2,fr France,37,47377,Steven Nzonzi Moussa Sissoko Olivier Giroud Hugo Lloris Morgan Schneiderlin Laurent Koscielny Gaël Clichy Eliaquim Mangala Bafétimbi Gomis Yoan Gouffran ...,2014-2015
+3,es Spain,31,45259,Cesc Fàbregas Santi Cazorla David Silva Diego Costa Juan Mata Adrián David de Gea Ayoze Pérez Jesús Navas Ander Herrera ...,2014-2015
+4,ie Ireland,30,34385,Séamus Coleman Jonathan Walters John O'Shea James McCarthy Shane Long Damien Delaney Ciaran Clark Glenn Whelan Marc Wilson Stephen Quinn ...,2014-2015
+5,wal Wales,24,23015,Ashley Williams Neil Taylor Aaron Ramsey Joe Ledley Paul Dummett James Chester James Collins Joe Allen Andy King Ben Davies ...,2014-2015
+6,ar Argentina,23,34911,Sergio Agüero Leonardo Ulloa Julián Speroni Érik Lamela Pablo Zabaleta Esteban Cambiasso Fabricio Coloccini Ángel Di María Martín Demichelis Santiago Vergini ...,2014-2015
+7,sco Scotland,19,28460,George Boyd James Morrison Matt Phillips James McArthur Steven Naismith Alan Hutton Steven Fletcher Allan McGregor Charlie Adam Phil Bardsley ...,2014-2015
+8,be Belgium,17,32603,Eden Hazard Romelu Lukaku Nacer Chadli Christian Benteke Simon Mignolet Thibaut Courtois Jan Vertonghen Marouane Fellaini Toby Alderweireld Kevin Mirallas ...,2014-2015
+9,nl Netherlands,16,22324,Daryl Janmaat Robin van Persie Leroy Fer Patrick van Aanholt Erik Pieters Tim Krul Daley Blind Ron Vlaar Vurnon Anita Eljero Elia ...,2014-2015
+10,br Brazil,16,17537,Philippe Coutinho Oscar Willian Fernandinho Fernando Ramires Lucas Leiva Sandro Filipe Luís Rafael ...,2014-2015
+11,nir Northern Ireland,10,13800,Chris Brunt Steven Davis Gareth McAuley Michael Duff Alex Bruce Jonny Evans Paddy McNair Chris Baird Daniel Lafferty Cameron Dummigan,2014-2015
+12,ci Ivory Coast,10,9278,Yaya Touré Wilfried Bony Wilfried Zaha Didier Drogba Cheick Tioté Arouna Koné Kolo Touré Guy Demel Yannick Sagbo Jeremie Boga,2014-2015
+13,sn Senegal,9,13654,Mame Biram Diouf Sadio Mané Cheikhou Kouyaté Diafra Sakho Papiss Cissé Dame N'Doye Mohamed Diamé Armand Traoré Pape Souaré,2014-2015
+14,de Germany,9,9943,Per Mertesacker Mesut Özil Emre Can Robert Huth Philipp Wollscheid André Schürrle Gerhard Tremmel Lukas Podolski Lewis Holtby,2014-2015
+15,ng Nigeria,9,5960,Victor Moses Brown Ideye Victor Anichebe Sone Aluko John Obi Mikel Peter Odemwingie Shola Ameobi Manny Onariase Semi Ajayi,2014-2015
+16,us United States,7,8356,Brad Guzan Tim Howard Geoff Cameron Jozy Altidore DeAndre Yedlin Sebastian Lletget Brad Friedel,2014-2015
+17,rs Serbia,6,11351,Branislav Ivanović Nemanja Matić Dušan Tadić Aleksandar Kolarov Lazar Marković Filip Đuričić,2014-2015
+18,dk Denmark,6,7314,Christian Eriksen Kasper Schmeichel Jores Okore Andreas Christensen Thomas Sørensen Anders Lindegaard,2014-2015
+19,it Italy,6,5825,Graziano Pellè Mario Balotelli Vito Mannone Fabio Borini Emanuele Giaccherini Davide Santon,2014-2015
+20,au Australia,6,2915,Mile Jedinak Mark Schwarzer Brad Jones Jason Davidson Chris Herd Mark Schwarzer,2014-2015
+21,dz Algeria,5,5063,Riyad Mahrez Nabil Bentaleb Mehdi Abeid Adlène Guedioura Saphir Taïder,2014-2015
+22,pt Portugal,5,4323,José Fonte Nélson Oliveira Silvestre Varela Ricardo Vaz Tê Nani,2014-2015
+23,hr Croatia,4,5538,Nikica Jelavić Dejan Lovren Niko Kranjčar Andrej Kramarić,2014-2015
+24,co Colombia,4,5210,Carlos Sánchez Radamel Falcao David Ospina Juan Cuadrado,2014-2015
+25,uy Uruguay,4,3242,Abel Hernández Gastón Ramírez Sebastián Coates Diego Poyet,2014-2015
+26,ma Morocco,4,1677,Marouane Chamakh Oussama Assaidi Adel Taarabt Karim El Ahmadi,2014-2015
+27,pl Poland,3,6795,Łukasz Fabiański Marcin Wasilewski Wojciech Szczęsny,2014-2015
+28,cl Chile,3,6454,Alexis Sánchez Mauricio Isla Eduardo Vargas,2014-2015
+29,ec Ecuador,3,6258,Antonio Valencia Enner Valencia Jefferson Montero,2014-2015
+30,at Austria,3,6109,Ashley Barnes Marko Arnautović Andreas Weimann,2014-2015
+31,ba Bosnia and Herzegovina,3,5366,Asmir Begović Edin Džeko Muhamed Bešić,2014-2015
+32,kr South Korea,3,4503,Ki Sung-yueng Yun Suk-young Lee Chung-yong,2014-2015
+33,ca Canada,3,4088,Scott Arfield Junior Hoilett Michael Petrasso,2014-2015
+34,ro Romania,3,3802,Costel Pantilimon Vlad Chiricheș Florin Gardoș,2014-2015
+35,ch Switzerland,3,861,Philippe Senderos Eldin Jakupović Cabral,2014-2015
+36,cr Costa Rica,3,603,Cristian Gamboa Bryan Oviedo Joel Campbell,2014-2015
+37,jm Jamaica,2,4129,Wes Morgan Adrian Mariappa,2014-2015
+38,se Sweden,2,3876,Seb Larsson Jonas Olsson,2014-2015
+39,cd Congo DR,2,3668,Yannick Bolasie Youssouf Mulumbu,2014-2015
+40,eg Egypt,2,3452,Ahmed Elmohamady Mohamed Salah,2014-2015
+41,cm Cameroon,2,3032,Alex Song Samuel Eto'o,2014-2015
+42,sk Slovakia,2,2970,Martin Škrtel Ľubomír Šatka,2014-2015
+43,gh Ghana,2,2644,Jeffrey Schlupp Christian Atsu,2014-2015
+44,nz New Zealand,2,2616,Winston Reid Chris Wood,2014-2015
+45,jp Japan,2,1692,Maya Yoshida Shinji Kagawa,2014-2015
+46,no Norway,2,1240,Brede Hangeland Fredrik Ulvestad,2014-2015
+47,cz Czech Republic,2,1190,Tomáš Rosický Petr Čech,2014-2015
+48,hn Honduras,2,209,Maynor Figueroa Wilson Palacios,2014-2015
+49,gr Greece,2,72,Georgios Samaras Charalampos Mavrias,2014-2015
+50,bi Burundi,1,2924,Saido Berahino,2014-2015
+51,is Iceland,1,2682,Gylfi Sigurðsson,2014-2015
+52,ke Kenya,1,2360,Victor Wanyama,2014-2015
+53,bj Benin,1,1761,Stéphane Sessègnon,2014-2015
+54,ml Mali,1,1101,Massadio Haïdara,2014-2015
+55,cw Curaçao,1,983,Leandro Bacuna,2014-2015
+56,tg Togo,1,813,Emmanuel Adebayor,2014-2015
+57,me Montenegro,1,784,Stevan Jovetić,2014-2015
+58,py Paraguay,1,527,Antolín Alcaraz,2014-2015
+59,za South Africa,1,317,Steven Pienaar,2014-2015
+60,gm Gambia,1,286,Modou Barrow,2014-2015
+61,zm Zambia,1,54,Emmanuel Mayuka,2014-2015
+62,mx Mexico,1,45,Javier Hernández,2014-2015
+63,fi Finland,1,28,Jussi Jääskeläinen,2014-2015
+64,ms Montserrat,1,11,Brandon Comley,2014-2015
+65,si Slovenia,1,9,Haris Vučkić,2014-2015
+66,kn Saint Kitts and Nevis,1,,Raheem Hanley,2014-2015
+1,eng England,167,240792,Steven Gerrard Rickie Lambert Wayne Rooney Daniel Sturridge Adam Lallana Jay Rodriguez Jordan Henderson Steve Sidwell Peter Crouch Mark Noble ...,2013-2014
+2,fr France,35,55638,Olivier Giroud Moussa Sissoko Samir Nasri Loïc Rémy Yoan Gouffran Hugo Lloris Steven Nzonzi Patrice Evra Bacary Sagna Morgan Schneiderlin ...,2013-2014
+3,es Spain,32,46055,Santi Cazorla David Silva David de Gea Juan Mata Chico Roberto Soldado Álvaro Negredo Àngel Rangel Jesús Navas Mikel Arteta ...,2013-2014
+4,ie Ireland,26,36184,Séamus Coleman Damien Delaney James McCarthy Shane Long John O'Shea Jonathan Walters Marc Wilson Glenn Whelan David Meyler Ciaran Clark ...,2013-2014
+5,wal Wales,21,23349,Aaron Ramsey Ashley Williams Ben Davies Danny Gabbidon James Collins James Chester Joe Allen Craig Bellamy Joe Ledley Declan John ...,2013-2014
+6,sco Scotland,20,27632,David Marshall Robert Snodgrass Charlie Adam James Morrison Russell Martin Phil Bardsley Allan McGregor Steven Naismith Steven Whittaker Steven Fletcher ...,2013-2014
+7,nl Netherlands,19,26873,Tim Krul Erik Pieters Jonathan de Guzmán Robin van Persie Ron Vlaar Leroy Fer Vurnon Anita Michel Vorm Maarten Stekelenburg Ricky van Wolfswinkel ...,2013-2014
+8,be Belgium,15,25436,Eden Hazard Romelu Lukaku Kevin Mirallas Simon Mignolet Christian Benteke Vincent Kompany Adnan Januzaj Jan Vertonghen Mousa Dembélé Nacer Chadli ...,2013-2014
+9,br Brazil,14,20662,Philippe Coutinho Fernandinho Paulinho Oscar Ramires Willian Lucas Leiva Rafael David Luiz Fábio ...,2013-2014
+10,ar Argentina,12,17000,Pablo Zabaleta Sergio Agüero Julián Speroni Martín Demichelis Fabricio Coloccini Claudio Yacob Santiago Vergini Paulo Gazzaniga Érik Lamela Jonás Gutiérrez ...,2013-2014
+11,de Germany,10,14494,Mesut Özil Per Mertesacker Sascha Riether André Schürrle Lukas Podolski Lewis Holtby Gerhard Tremmel Robert Huth Serge Gnabry Nick Proschwitz,2013-2014
+12,ci Ivory Coast,9,14431,Yaya Touré Wilfried Bony Cheick Tioté Guy Demel Yannick Sagbo Kolo Touré Wilfried Zaha Arouna Koné Lacina Traoré,2013-2014
+13,se Sweden,9,11126,Martin Olsson Jonas Olsson Seb Larsson Johan Elmander Alexander Kačaniklić Kim Källström Markus Rosenberg John Guidetti Muamer Tanković,2013-2014
+14,dk Denmark,9,4887,Christian Eriksen Daniel Agger William Kvist Nicklas Bendtner Thomas Sørensen Jores Okore Andreas Cornelius Anders Lindegaard Nicklas Helenius,2013-2014
+15,it Italy,8,9977,Fabio Borini Vito Mannone Davide Santon Emanuele Giaccherini Dani Osvaldo Andrea Dossena Antonio Nocerino Marco Borriello,2013-2014
+16,nir Northern Ireland,7,13466,Steven Davis Gareth McAuley Chris Brunt George McCartney Alex Bruce Jonny Evans Aaron Hughes,2013-2014
+17,us United States,7,12227,Geoff Cameron Brad Guzan Tim Howard Jozy Altidore Clint Dempsey Brad Friedel Brek Shea,2013-2014
+18,ng Nigeria,7,7968,Peter Odemwingie Victor Anichebe Shola Ameobi Sone Aluko John Obi Mikel Victor Moses Joseph Yobo,2013-2014
+19,no Norway,7,6481,Brede Hangeland Alexander Tettey John Arne Riise Jonathan Parr Mats Møller Dæhli Magnus Wolff Eikrem Jo Inge Berget,2013-2014
+20,rs Serbia,6,9667,Branislav Ivanović Aleksandar Kolarov Nemanja Vidić Nemanja Matić Matija Nastasić Miloš Veljković,2013-2014
+21,cz Czech Republic,6,7604,Petr Čech Tomáš Rosický Ondřej Čelůstka Matěj Vydra Libor Kozák Tomáš Kalas,2013-2014
+22,ml Mali,5,2517,Modibo Maïga Yacouba Sylla Massadio Haïdara Mahamadou Diarra Jimmy Kébé,2013-2014
+23,ma Morocco,4,6179,Marouane Chamakh Karim El Ahmadi Oussama Assaidi Adel Taarabt,2013-2014
+24,sn Senegal,4,4799,Mohamed Diamé Papiss Cissé Demba Ba Abdoulaye Faye,2013-2014
+25,pt Portugal,4,4007,José Fonte Nani Ricardo Vaz Tê João Carlos Teixeira,2013-2014
+26,au Australia,4,3949,Mile Jedinak Mark Schwarzer Chris Herd Brad Smith,2013-2014
+27,ch Switzerland,4,3016,Pajtim Kasami Philippe Senderos Eldin Jakupović Cabral,2013-2014
+28,pl Poland,3,5997,Wojciech Szczęsny Artur Boruc Łukasz Fabiański,2013-2014
+29,hr Croatia,3,4542,Dejan Lovren Nikica Jelavić Mladen Petrić,2013-2014
+30,uy Uruguay,3,4144,Luis Suárez Diego Lugano Gastón Ramírez,2013-2014
+31,kr South Korea,3,4070,Ki Sung-yueng Kim Bo-kyung Ji Dong-won,2013-2014
+32,eg Egypt,3,3858,Ahmed Elmohamady Mohamed Salah Mohamed Gedo,2013-2014
+33,ro Romania,3,3177,Vlad Chiricheș Răzvan Raț Costel Pantilimon,2013-2014
+34,jp Japan,3,1816,Shinji Kagawa Maya Yoshida Ryo Miyaichi,2013-2014
+35,gr Greece,3,962,Giorgos Karagounis Kostas Mitroglou Charalampos Mavrias,2013-2014
+36,cd Congo DR,2,5110,Youssouf Mulumbu Yannick Bolasie,2013-2014
+37,at Austria,2,4896,Andreas Weimann Marko Arnautović,2013-2014
+38,ba Bosnia and Herzegovina,2,4866,Edin Džeko Asmir Begović,2013-2014
+39,cm Cameroon,2,3675,Sébastien Bassong Samuel Eto'o,2013-2014
+40,za South Africa,2,3574,Kagisho Dikgacoi Steven Pienaar,2013-2014
+41,hn Honduras,2,3230,Maynor Figueroa Wilson Palacios,2013-2014
+42,is Iceland,2,2815,Aron Gunnarsson Gylfi Sigurðsson,2013-2014
+43,bg Bulgaria,2,2165,Dimitar Berbatov Aleksandar Tonev,2013-2014
+44,jm Jamaica,2,2146,Adrian Mariappa Jamar Loza,2013-2014
+45,bj Benin,2,2120,Stéphane Sessègnon Rudy Gestede,2013-2014
+46,cr Costa Rica,2,1489,Bryan Ruiz Bryan Oviedo,2013-2014
+47,dz Algeria,2,1389,Nabil Bentaleb Adlène Guedioura,2013-2014
+48,co Colombia,2,950,Hugo Rodallega Pablo Armero,2013-2014
+49,me Montenegro,2,793,Stevan Jovetić Elsad Zverotić,2013-2014
+50,gh Ghana,2,303,Derek Boateng Michael Essien,2013-2014
+51,sk Slovakia,1,3221,Martin Škrtel,2013-2014
+52,cl Chile,1,2862,Gary Medel,2013-2014
+53,cw Curaçao,1,2599,Leandro Bacuna,2013-2014
+54,ec Ecuador,1,1948,Antonio Valencia,2013-2014
+55,ve Venezuela,1,1847,Fernando Amorebieta,2013-2014
+56,tg Togo,1,1805,Emmanuel Adebayor,2013-2014
+57,nz New Zealand,1,1678,Winston Reid,2013-2014
+58,ke Kenya,1,1659,Victor Wanyama,2013-2014
+59,fi Finland,1,1620,Jussi Jääskeläinen,2013-2014
+60,bi Burundi,1,1418,Saido Berahino,2013-2014
+61,ir Iran,1,1300,Ashkan Dejagah,2013-2014
+62,si Slovenia,1,1138,Robert Koren,2013-2014
+63,tt Trinidad and Tobago,1,967,Kenwyne Jones,2013-2014
+64,mx Mexico,1,854,Javier Hernández,2013-2014
+65,py Paraguay,1,495,Antolín Alcaraz,2013-2014
+66,hu Hungary,1,488,Zoltán Gera,2013-2014
+67,cg Congo,1,252,Thievy Bifouma,2013-2014
+68,gy Guyana,1,89,Matthew Briggs,2013-2014
+69,mk North Macedonia,1,83,Goran Popov,2013-2014
+70,gw Guinea-Bissau,1,19,Mesca,2013-2014
+1,eng England,175,234366,Rickie Lambert Steven Gerrard Theo Walcott Leighton Baines Kevin Nolan Wayne Rooney Adam Johnson Aaron Lennon Matthew Lowton Leon Osman ...,2012-2013
+2,fr France,30,41372,Patrice Evra Morgan Schneiderlin Olivier Giroud Steven Nzonzi Sylvain Distin Yohan Cabaye Samir Nasri Gaël Clichy Hugo Lloris Bacary Sagna ...,2012-2013
+3,ie Ireland,29,44202,Jonathan Walters James McCarthy Joey O'Brien Damien Duff Shane Long John O'Shea Wes Hoolahan Glenn Whelan Anthony Pilkington James McClean ...,2012-2013
+4,es Spain,28,48415,Santi Cazorla Michu Juan Mata Fernando Torres Mikel Arteta David Silva Javier Garrido Àngel Rangel Pablo Hernández José Enrique ...,2012-2013
+5,sco Scotland,19,29994,Shaun Maloney Robert Snodgrass James Morrison Steven Fletcher Russell Martin James McArthur Charlie Adam Gary Caldwell Graham Dorrans Jamie Mackie ...,2012-2013
+6,nl Netherlands,16,21574,Robin van Persie Jonathan de Guzmán Ron Vlaar Michel Vorm Tim Krul Jos Hooiveld Vurnon Anita John Heitinga Dwight Tiendalli Ronnie Stam ...,2012-2013
+7,wal Wales,14,22901,Gareth Bale Ashley Williams Ben Davies James Collins Aaron Ramsey Hal Robson-Kanu Joe Allen Chris Gunter Ryan Giggs David Vaughan ...,2012-2013
+8,br Brazil,14,20159,Oscar Ramires David Luiz Rafael Júlio César Sandro Lucas Leiva Philippe Coutinho Fábio Anderson ...,2012-2013
+9,be Belgium,12,25590,Christian Benteke Eden Hazard Marouane Fellaini Romelu Lukaku Jan Vertonghen Simon Mignolet Mousa Dembélé Kevin Mirallas Vincent Kompany Thomas Vermaelen ...,2012-2013
+10,ar Argentina,11,18279,Carlos Tevez Sergio Agüero Pablo Zabaleta Jonás Gutiérrez Franco Di Santo Claudio Yacob Fabricio Coloccini Alejandro Faurlín Paulo Gazzaniga Luciano Becchio ...,2012-2013
+11,nir Northern Ireland,10,14305,Gareth McAuley Chris Brunt Steven Davis Jonny Evans Aaron Hughes Chris Baird George McCartney Shane Ferguson Lee Camp Ben Reeves,2012-2013
+12,de Germany,9,13335,Lukas Podolski Sascha Riether Per Mertesacker Robert Huth Gerhard Tremmel Lewis Holtby Thomas Hitzlsperger Marko Marin Serge Gnabry,2012-2013
+13,us United States,8,13343,Brad Guzan Tim Howard Clint Dempsey Geoff Cameron Eric Lichaj Brad Friedel Brek Shea Maurice Edu,2012-2013
+14,ci Ivory Coast,7,11920,Arouna Koné Yaya Touré Guy Demel Cheick Tioté Gervinho Kolo Touré Abdul Razak,2012-2013
+15,pt Portugal,7,6574,José Fonte Ricardo Vaz Tê José Bosingwa Nani Raul Meireles Daniel Carriço Paulo Ferreira,2012-2013
+16,sn Senegal,6,11525,Papiss Cissé Demba Ba Mohamed Diamé Armand Traoré Alfred N'Diaye Kader Mangane,2012-2013
+17,ng Nigeria,6,6986,Victor Anichebe Peter Odemwingie John Obi Mikel Victor Moses Shola Ameobi Hope Akpan,2012-2013
+18,ml Mali,6,4085,Jimmy Kébé Samba Diakité Modibo Maïga Yacouba Sylla Mahamadou Diarra Massadio Haïdara,2012-2013
+19,jm Jamaica,5,8341,Jobi McAnuff Adrian Mariappa Garath McCleary Shaun Cummings Simon Dawkins,2012-2013
+20,au Australia,5,7937,Mark Schwarzer Adam Federici Brett Holman Chris Herd Brad Jones,2012-2013
+21,se Sweden,4,8033,Seb Larsson Jonas Olsson Alexander Kačaniklić Markus Rosenberg,2012-2013
+22,rs Serbia,4,7439,Branislav Ivanović Matija Nastasić Nemanja Vidić Aleksandar Kolarov,2012-2013
+23,cm Cameroon,4,7205,Sébastien Bassong Stéphane Mbia Benoît Assou-Ekotto Eyong Enoh,2012-2013
+24,it Italy,4,4552,Davide Santon Vito Mannone Mario Balotelli Fabio Borini,2012-2013
+25,ma Morocco,4,3647,Adel Taarabt Karim El Ahmadi Marouane Chamakh Oussama Assaidi,2012-2013
+26,no Norway,3,7479,Brede Hangeland John Arne Riise Alexander Tettey,2012-2013
+27,uy Uruguay,3,4868,Luis Suárez Gastón Ramírez Sebastián Coates,2012-2013
+28,pl Poland,3,4365,Wojciech Szczęsny Artur Boruc Łukasz Fabiański,2012-2013
+29,jp Japan,3,4222,Maya Yoshida Shinji Kagawa Ryo Miyaichi,2012-2013
+30,at Austria,3,3655,Andreas Weimann Paul Scharner Emanuel Pogatetz,2012-2013
+31,hn Honduras,3,3473,Maynor Figueroa Roger Espinoza Wilson Palacios,2012-2013
+32,cl Chile,3,2873,Jean Beausejour Ángelo Henríquez Gonzalo Jara,2012-2013
+33,tr Turkey,3,2279,Jem Karacan Nuri Şahin Kerim Frei,2012-2013
+34,il Israel,3,1200,Itay Shechter Yossi Benayoun Tal Ben Haim,2012-2013
+35,ba Bosnia and Herzegovina,2,5242,Asmir Begović Edin Džeko,2012-2013
+36,nz New Zealand,2,5025,Winston Reid Ryan Nelsen,2012-2013
+37,dk Denmark,2,3998,Daniel Agger Anders Lindegaard,2012-2013
+38,cz Czech Republic,2,3804,Petr Čech Tomáš Rosický,2012-2013
+39,bb Barbados,2,3532,Emmerson Boyce Nick Blackman,2012-2013
+40,kr South Korea,2,3387,Ki Sung-yueng Park Ji-sung,2012-2013
+41,hr Croatia,2,3313,Nikica Jelavić Mladen Petrić,2012-2013
+42,bg Bulgaria,2,3273,Dimitar Berbatov Stanislav Manolev,2012-2013
+43,cr Costa Rica,2,2623,Bryan Ruiz Bryan Oviedo,2012-2013
+44,sk Slovakia,2,2260,Martin Škrtel Ján Mucha,2012-2013
+45,ru Russia,2,2104,Pavel Pogrebnyak Andrey Arshavin,2012-2013
+46,ca Canada,2,1861,Junior Hoilett Simeon Jackson,2012-2013
+47,ch Switzerland,2,1708,Philippe Senderos Pajtim Kasami,2012-2013
+48,gr Greece,2,1599,Giorgos Karagounis Apostolos Vellios,2012-2013
+49,fi Finland,1,3420,Jussi Jääskeläinen,2012-2013
+50,za South Africa,1,3057,Steven Pienaar,2012-2013
+51,bj Benin,1,2886,Stéphane Sessègnon,2012-2013
+52,ag Antigua and Barbuda,1,2645,Mikele Leigertwood,2012-2013
+53,om Oman,1,2610,Ali Al-Habsi,2012-2013
+54,cd Congo DR,1,2515,Youssouf Mulumbu,2012-2013
+55,ec Ecuador,1,2207,Antonio Valencia,2012-2013
+56,tg Togo,1,1598,Emmanuel Adebayor,2012-2013
+57,co Colombia,1,1515,Hugo Rodallega,2012-2013
+58,lv Latvia,1,1260,Kaspars Gorkšs,2012-2013
+59,is Iceland,1,1235,Gylfi Sigurðsson,2012-2013
+60,ir Iran,1,1194,Ashkan Dejagah,2012-2013
+61,hu Hungary,1,1120,Zoltán Gera,2012-2013
+62,tt Trinidad and Tobago,1,1049,Kenwyne Jones,2012-2013
+63,mx Mexico,1,952,Javier Hernández,2012-2013
+64,cg Congo,1,900,Christopher Samba,2012-2013
+65,mk North Macedonia,1,890,Goran Popov,2012-2013
+66,gd Grenada,1,705,Jason Roberts,2012-2013
+67,py Paraguay,1,691,Antolín Alcaraz,2012-2013
+68,sl Sierra Leone,1,658,Kei Kamara,2012-2013
+69,ro Romania,1,634,Gabriel Tamaș,2012-2013
+70,cw Curaçao,1,578,Kemy Agustien,2012-2013
+71,bi Burundi,1,413,Gaël Bigirimana,2012-2013
+72,gy Guyana,1,297,Matthew Briggs,2012-2013
+73,zm Zambia,1,233,Emmanuel Mayuka,2012-2013
+74,gh Ghana,1,223,Emmanuel Frimpong,2012-2013
+75,eg Egypt,1,24,Ahmed Elmohamady,2012-2013
+1,eng England,188,269031,Wayne Rooney Scott Sinclair Theo Walcott Danny Graham Peter Crouch Matt Jarvis Grant Holt Gabby Agbonlahor Frank Lampard Nigel Reo-Coker ...,2011-2012
+2,ie Ireland,36,55723,Jonathan Walters Stephen Ward Kevin Doyle Wes Hoolahan James McCarthy Shane Long Marc Wilson Paddy Kenny Shay Given Anthony Pilkington ...,2011-2012
+3,fr France,29,41643,Yohan Cabaye Patrice Evra Samir Nasri Steven Nzonzi Laurent Koscielny Younès Kaboul Gaël Clichy Charles N'Zogbia David N'Gog Hatem Ben Arfa ...,2011-2012
+4,sco Scotland,21,32059,Steven Fletcher Gary Caldwell Russell Martin James Morrison Jamie Mackie Charlie Adam Alan Hutton Christophe Berra Phil Bardsley James McArthur ...,2011-2012
+5,wal Wales,19,34988,Gareth Bale Joe Allen Ashley Williams Steve Morison Neil Taylor Aaron Ramsey Wayne Hennessey James Collins Ryan Giggs David Edwards ...,2011-2012
+6,es Spain,19,29156,David Silva Juan Mata Mikel Arteta José Enrique Pepe Reina Àngel Rangel Fernando Torres David de Gea Jordi Gómez Carlos Cuéllar ...,2011-2012
+7,br Brazil,12,10105,Ramires David Luiz Sandro André Santos Rafael Lucas Leiva Anderson Doni Fábio Alex ...,2011-2012
+8,nl Netherlands,11,20874,Robin van Persie Rafael van der Vaart Tim Krul Michel Vorm John Heitinga Dirk Kuyt Royston Drenthe Ronnie Stam Nigel de Jong Dorus de Vries ...,2011-2012
+9,ar Argentina,11,18591,Sergio Agüero Jonás Gutiérrez Fabricio Coloccini Franco Di Santo Mauro Formica Alejandro Faurlín Pablo Zabaleta Maxi Rodríguez Carlos Tevez Denis Stracqualursi ...,2011-2012
+10,ng Nigeria,9,12879,Yakubu Aiyegbeni Victor Moses Peter Odemwingie Shola Ameobi Taye Taiwo John Obi Mikel Dickson Etuhu Victor Anichebe Carl Ikeme,2011-2012
+11,be Belgium,8,15382,Marouane Fellaini Mousa Dembélé Vincent Kompany Thomas Vermaelen Simon Mignolet Dedryck Boyata Ritchie De Laet Romelu Lukaku,2011-2012
+12,us United States,8,14813,Clint Dempsey Tim Howard Brad Friedel Zak Whitbread Tim Ream Eric Lichaj Landon Donovan Brad Guzan,2011-2012
+13,ci Ivory Coast,8,9963,Yaya Touré Gervinho Cheick Tioté Didier Drogba Kolo Touré Salomon Kalou Steve Gohouri Abdul Razak,2011-2012
+14,nir Northern Ireland,7,10596,Gareth McAuley Chris Brunt Jonny Evans Aaron Hughes Chris Baird Shane Ferguson Johnny Gorman,2011-2012
+15,pt Portugal,7,7024,Nani Raul Meireles José Bosingwa Orlando Sá Paulo Ferreira Henrique Hilário Bruno Andrade,2011-2012
+16,au Australia,6,6724,Tim Cahill Mark Schwarzer Chris Herd Brett Emerton Brad Jones Vince Grella,2011-2012
+17,se Sweden,5,9018,Seb Larsson Jonas Olsson Martin Olsson Marcus Olsson Alexander Kačaniklić,2011-2012
+18,cm Cameroon,5,7815,Alex Song Benoît Assou-Ekotto Sébastien Bassong Somen Tchoyi George Elokobi,2011-2012
+19,sn Senegal,5,7252,Demba Ba Papiss Cissé Armand Traoré Mohamed Diamé Salif Diao,2011-2012
+20,dk Denmark,5,6727,Nicklas Bendtner Daniel Agger Thomas Sørensen Anders Lindegaard Peter Løvenkrands,2011-2012
+21,hr Croatia,5,6447,Luka Modrić Ivan Klasnić Nikica Jelavić Niko Kranjčar Vedran Ćorluka,2011-2012
+22,cz Czech Republic,5,5683,Petr Čech Tomáš Rosický Radek Černý Zdeněk Grygera Marcel Gecov,2011-2012
+23,rs Serbia,5,5311,Branislav Ivanović Aleksandar Kolarov Radosav Petrović Nenad Milijaš Nemanja Vidić,2011-2012
+24,jm Jamaica,5,1958,Darren Pratley Ricardo Fuller Ricardo Gardner Tyrone Mears Jermaine Beckford,2011-2012
+25,is Iceland,4,4703,Gylfi Sigurðsson Heiðar Helguson Grétar Steinsson Eggert Jónsson,2011-2012
+26,it Italy,4,3041,Mario Balotelli Davide Santon Federico Macheda Marcello Trotta,2011-2012
+27,hu Hungary,4,2962,Ádám Bogdán Ákos Buzsáky Zoltán Gera Márton Fülöp,2011-2012
+28,ru Russia,4,2322,Pavel Pogrebnyak Andrey Arshavin Diniyar Bilyaletdinov Roman Pavlyuchenko,2011-2012
+29,gh Ghana,4,1797,Michael Essien Emmanuel Frimpong Asamoah Gyan Patrick Agyemang,2011-2012
+30,kr South Korea,4,1413,Park Ji-sung Ji Dong-won Lee Chung-yong Park Chu-young,2011-2012
+31,no Norway,3,9387,Morten Gamst Pedersen John Arne Riise Brede Hangeland,2011-2012
+32,bg Bulgaria,3,5411,Martin Petrov Stiliyan Petrov Dimitar Berbatov,2011-2012
+33,de Germany,3,4750,Robert Huth Per Mertesacker Gerhard Tremmel,2011-2012
+34,ch Switzerland,3,3259,Philippe Senderos Johan Djourou Pajtim Kasami,2011-2012
+35,at Austria,3,2163,Paul Scharner Andreas Weimann Stefan Maierhofer,2011-2012
+36,cl Chile,3,1715,Jean Beausejour David Pizarro Gonzalo Jara,2011-2012
+37,gr Greece,3,455,Apostolos Vellios Sotirios Kyrgiakos Vangelis Moras,2011-2012
+38,hn Honduras,2,4156,Maynor Figueroa Wilson Palacios,2011-2012
+39,ca Canada,2,3893,Junior Hoilett Simeon Jackson,2011-2012
+40,ba Bosnia and Herzegovina,2,3507,Edin Džeko Asmir Begović,2011-2012
+41,uy Uruguay,2,3031,Luis Suárez Sebastián Coates,2011-2012
+42,cd Congo DR,2,2866,Youssouf Mulumbu Gaël Kakuta,2011-2012
+43,bb Barbados,2,2274,Emmerson Boyce Nick Blackman,2011-2012
+44,ma Morocco,2,2184,Adel Taarabt Marouane Chamakh,2011-2012
+45,mx Mexico,2,1535,Javier Hernández Giovani dos Santos,2011-2012
+46,ml Mali,2,1421,Mahamadou Diarra Samba Diakité,2011-2012
+47,tr Turkey,2,1075,Kerim Frei Tuncay Şanlı,2011-2012
+48,me Montenegro,2,927,Stefan Savić Simon Vukčević,2011-2012
+49,om Oman,1,3420,Ali Al-Habsi,2011-2012
+50,pl Poland,1,3420,Wojciech Szczęsny,2011-2012
+51,bj Benin,1,3126,Stéphane Sessègnon,2011-2012
+52,sk Slovakia,1,2994,Martin Škrtel,2011-2012
+53,tg Togo,1,2827,Emmanuel Adebayor,2011-2012
+54,py Paraguay,1,2172,Antolín Alcaraz,2011-2012
+55,ec Ecuador,1,2124,Antonio Valencia,2011-2012
+56,fi Finland,1,1620,Jussi Jääskeläinen,2011-2012
+57,cr Costa Rica,1,1514,Bryan Ruiz,2011-2012
+58,cg Congo,1,1349,Christopher Samba,2011-2012
+59,co Colombia,1,1256,Hugo Rodallega,2011-2012
+60,za South Africa,1,1253,Steven Pienaar,2011-2012
+61,tt Trinidad and Tobago,1,980,Kenwyne Jones,2011-2012
+62,il Israel,1,906,Yossi Benayoun,2011-2012
+63,eg Egypt,1,785,Ahmed Elmohamady,2011-2012
+64,cw Curaçao,1,713,Kemy Agustien,2011-2012
+65,jp Japan,1,683,Ryo Miyaichi,2011-2012
+66,ro Romania,1,664,Gabriel Tamaș,2011-2012
+67,gd Grenada,1,467,Jason Roberts,2011-2012
+68,dz Algeria,1,301,Adlène Guedioura,2011-2012
+69,nz New Zealand,1,206,Ryan Nelsen,2011-2012
+70,si Slovenia,1,170,Haris Vučkić,2011-2012
+71,gy Guyana,1,91,Matthew Briggs,2011-2012
+72,cn China PR,1,45,Nico Yennaris,2011-2012
+1,eng England,188,259327,Leighton Baines Darren Bent Stewart Downing Ashley Young Kevin Davies Wayne Rooney Joey Barton Matt Jarvis Kevin Nolan Jordan Henderson ...,2010-2011
+2,ie Ireland,31,43622,Stephen Carr Rory Delap Jonathan Walters Barry Ferguson Kevin Foley Kevin Doyle Richard Dunne Séamus Coleman Stephen Ward Damien Duff ...,2010-2011
+3,fr France,30,48859,Florent Malouda Charles N'Zogbia Sylvain Distin Samir Nasri Nicolas Anelka Bacary Sagna Frédéric Piquionne Gaël Clichy Patrice Evra Laurent Koscielny ...,2010-2011
+4,sco Scotland,20,29286,Charlie Adam Phil Bardsley Christophe Berra James Morrison Stephen Crainey Darren Fletcher Steven Fletcher Gary Caldwell Alan Hutton Graham Dorrans ...,2010-2011
+5,es Spain,17,23174,Fernando Torres David Silva Pepe Reina José Enrique Míchel Salgado Cesc Fàbregas Mikel Arteta Carlos Cuéllar Jordi Gómez Pablo Ibáñez ...,2010-2011
+6,wal Wales,16,24801,David Vaughan Gareth Bale James Collins Simon Davies Neal Eardley Ryan Giggs Danny Gabbidon Wayne Hennessey Danny Collins Sam Ricketts ...,2010-2011
+7,nl Netherlands,12,19260,Dirk Kuyt Rafael van der Vaart Robin van Persie Edwin van der Sar Nigel de Jong John Heitinga Tim Krul Ronnie Stam Boudewijn Zenden Ryan Babel ...,2010-2011
+8,br Brazil,12,15118,Lucas Leiva Heurelho Gomes Ramires Anderson Alex Rafael Sandro David Luiz Fábio Denílson ...,2010-2011
+9,us United States,10,16230,Clint Dempsey Brad Friedel Tim Howard Stuart Holden Jermaine Jones Marcus Hahnemann Jonathan Spector Eric Lichaj Eddie Johnson Michael Bradley,2010-2011
+10,ci Ivory Coast,9,15405,Didier Drogba Yaya Touré Salomon Kalou Cheick Tioté Steve Gohouri Kolo Touré Abdoulaye Méïté Emmanuel Eboué Abdul Razak,2010-2011
+11,ar Argentina,9,14057,Carlos Tevez Jonás Gutiérrez Fabricio Coloccini Maxi Rodríguez Pablo Zabaleta Franco Di Santo Mauro Boselli Javier Mascherano Marcos Angeleri,2010-2011
+12,ng Nigeria,9,12681,Peter Odemwingie Shola Ameobi Dickson Etuhu John Obi Mikel Victor Obinna Victor Moses Yakubu Aiyegbeni Victor Anichebe Obafemi Martins,2010-2011
+13,be Belgium,9,10141,Vincent Kompany Mousa Dembélé Simon Mignolet Marouane Fellaini Thomas Vermaelen Jelle Van Damme Dedryck Boyata Ruud Boffin Geoffrey Mujangi Bia,2010-2011
+14,sn Senegal,8,8818,Mohamed Diamé Mame Biram Diouf El Hadji Diouf Demba Ba Abdoulaye Faye Diomansy Kamara Salif Diao Habib Beye,2010-2011
+15,nir Northern Ireland,7,12519,Chris Brunt Aaron Hughes Chris Baird Craig Cathcart Jonny Evans Shane Ferguson Ryan McGivern,2010-2011
+16,rs Serbia,6,11155,Nemanja Vidić Branislav Ivanović Nenad Milijaš Nikola Žigić Aleksandar Kolarov Milan Jovanović,2010-2011
+17,gh Ghana,6,9567,Michael Essien Asamoah Gyan Richard Kingson John Paintsil John Mensah Sulley Muntari,2010-2011
+18,cm Cameroon,6,9496,Alex Song Benoît Assou-Ekotto George Elokobi Somen Tchoyi Sébastien Bassong Jean Makoun,2010-2011
+19,pt Portugal,6,9057,Nani Raul Meireles Luís Boa Morte José Bosingwa Paulo Ferreira Bebé,2010-2011
+20,au Australia,6,7915,Tim Cahill Brett Emerton Mark Schwarzer David Carney Vince Grella Chris Herd,2010-2011
+21,dk Denmark,6,6690,Peter Løvenkrands Lars Jacobsen Daniel Agger Thomas Sørensen Nicklas Bendtner Christian Poulsen,2010-2011
+22,cz Czech Republic,5,5904,Petr Čech Tomáš Rosický Martin Jiránek Radoslav Kováč Roman Bednář,2010-2011
+23,hr Croatia,5,5732,Luka Modrić Nikola Kalinić Vedran Ćorluka Ivan Klasnić Niko Kranjčar,2010-2011
+24,mx Mexico,5,4569,Javier Hernández Carlos Salcido Carlos Vela Pablo Barrera Giovani dos Santos,2010-2011
+25,jm Jamaica,5,3167,Jermaine Beckford Ricardo Fuller Ricardo Gardner Giles Barnes Jason Euell,2010-2011
+26,se Sweden,4,10421,Johan Elmander Seb Larsson Martin Olsson Jonas Olsson,2010-2011
+27,no Norway,4,7036,Brede Hangeland Morten Gamst Pedersen John Carew Bjørn Helge Riise,2010-2011
+28,de Germany,4,5428,Robert Huth Thomas Hitzlsperger Jérôme Boateng Jens Lehmann,2010-2011
+29,ru Russia,4,5316,Andrey Arshavin Roman Pavlyuchenko Diniyar Bilyaletdinov Yuri Zhirkov,2010-2011
+30,py Paraguay,4,4187,Antolín Alcaraz Cristian Riveros Roque Santa Cruz Paulo da Silva,2010-2011
+31,cd Congo DR,4,4126,Youssouf Mulumbu Hérita Ilunga Gaël Kakuta Kazenga LuaLua,2010-2011
+32,it Italy,4,2050,Mario Balotelli Carlo Cudicini Federico Macheda Alessandro Diamanti,2010-2011
+33,il Israel,4,1646,Tal Ben Haim Tamir Cohen Dekel Keinan Yossi Benayoun,2010-2011
+34,hn Honduras,3,5915,Maynor Figueroa Hendry Thomas Wilson Palacios,2010-2011
+35,bg Bulgaria,3,5736,Dimitar Berbatov Stiliyan Petrov Martin Petrov,2010-2011
+36,cg Congo,3,3075,Christopher Samba Steven Mouyokolo Amine Linganzi,2010-2011
+37,pl Poland,3,3060,Wojciech Szczęsny Łukasz Fabiański Tomasz Kuszczak,2010-2011
+38,nz New Zealand,3,2829,Ryan Nelsen Winston Reid Chris Wood,2010-2011
+39,ch Switzerland,3,2575,Johan Djourou Valon Behrami Philippe Senderos,2010-2011
+40,za South Africa,3,2146,Steven Pienaar Benni McCarthy Kagisho Dikgacoi,2010-2011
+41,sk Slovakia,2,4636,Martin Škrtel Marek Čech,2010-2011
+42,ba Bosnia and Herzegovina,2,3374,Asmir Begović Edin Džeko,2010-2011
+43,kr South Korea,2,3265,Lee Chung-yong Park Ji-sung,2010-2011
+44,ma Morocco,2,3138,Marouane Chamakh Manuel da Costa,2010-2011
+45,fi Finland,2,3123,Jussi Jääskeläinen Shefki Kuqi,2010-2011
+46,cl Chile,2,3001,Gonzalo Jara Jean Beausejour,2010-2011
+47,at Austria,2,2745,Paul Scharner Andreas Weimann,2010-2011
+48,is Iceland,2,2468,Grétar Steinsson Eiður Guðjohnsen,2010-2011
+49,hu Hungary,2,1441,Zoltán Gera Ádám Bogdán,2010-2011
+50,by Belarus,2,1268,Alexander Hleb Sergei Kornilenko,2010-2011
+51,gr Greece,2,1118,Sotirios Kyrgiakos Apostolos Vellios,2010-2011
+52,dz Algeria,2,384,Adlène Guedioura Rafik Halliche,2010-2011
+53,om Oman,1,3060,Ali Al-Habsi,2010-2011
+54,co Colombia,1,3025,Hugo Rodallega,2010-2011
+55,tt Trinidad and Tobago,1,2782,Kenwyne Jones,2010-2011
+56,eg Egypt,1,2455,Ahmed Elmohamady,2010-2011
+57,ro Romania,1,2041,Gabriel Tamaș,2010-2011
+58,bb Barbados,1,1669,Emmerson Boyce,2010-2011
+59,ca Canada,1,1494,Junior Hoilett,2010-2011
+60,gd Grenada,1,1490,Jason Roberts,2010-2011
+61,bj Benin,1,1183,Stéphane Sessègnon,2010-2011
+62,uy Uruguay,1,1100,Luis Suárez,2010-2011
+63,ec Ecuador,1,742,Antonio Valencia,2010-2011
+64,tr Turkey,1,718,Tuncay Şanlı,2010-2011
+65,zw Zimbabwe,1,662,Benjani Mwaruwari,2010-2011
+66,tg Togo,1,244,Emmanuel Adebayor,2010-2011
+67,gy Guyana,1,195,Matthew Briggs,2010-2011
+68,ml Mali,1,40,Mamady Sidibé,2010-2011
+1,eng England,174,244423,Frank Lampard Darren Bent Wayne Rooney James Milner Jermain Defoe Kevin Davies Ashley Young Gabby Agbonlahor Steven Gerrard Leighton Baines ...,2009-2010
+2,ie Ireland,37,54551,Kevin Doyle Richard Dunne Damien Duff Barry Ferguson Stephen Hunt Stephen Carr Shay Given Rory Delap Glenn Whelan Marc Wilson ...,2009-2010
+3,fr France,27,52503,Nicolas Anelka Florent Malouda Charles N'Zogbia Louis Saha Patrice Evra Gaël Givet Abou Diaby Julien Faubert Steven Nzonzi Bacary Sagna ...,2009-2010
+4,sco Scotland,20,27131,Steven Fletcher Graham Alexander Darren Fletcher James McFadden Christophe Berra Craig Gordon Phil Bardsley Kevin McDonald Gary Caldwell Danny Fox ...,2009-2010
+5,wal Wales,16,22971,Craig Bellamy Ryan Giggs James Collins Gareth Bale Boaz Myhill Danny Collins Sam Ricketts Jack Collison David Edwards Aaron Ramsey ...,2009-2010
+6,es Spain,14,18830,Cesc Fàbregas Fernando Torres Carlos Cuéllar Pepe Reina Manuel Almunia Mikel Arteta Míchel Salgado Jordi Gómez Albert Riera Javier Garrido ...,2009-2010
+7,br Brazil,14,14888,Lucas Leiva Heurelho Gomes Denílson Geovanni Alex Anderson Ilan Rafael Robinho Fábio Aurélio ...,2009-2010
+8,nl Netherlands,13,19517,Dirk Kuyt Mario Melchiot John Heitinga Nigel de Jong Robin van Persie George Boateng Jan Vennegoor of Hesselink Edwin van der Sar Ryan Babel Boudewijn Zenden ...,2009-2010
+9,sn Senegal,10,11423,Mohamed Diamé Abdoulaye Faye El Hadji Diouf Salif Diao Ibrahima Sonko Armand Traoré Papa Bouba Diop Diomansy Kamara Habib Beye Mame Biram Diouf,2009-2010
+10,us United States,9,15970,Brad Friedel Tim Howard Clint Dempsey Marcus Hahnemann Jonathan Spector Jozy Altidore Landon Donovan Stuart Holden Eddie Johnson,2009-2010
+11,nir Northern Ireland,9,11659,Aaron Hughes Chris Baird Martin Paterson George McCartney Jonny Evans Michael Duff Maik Taylor David Healy Damien Johnson,2009-2010
+12,ng Nigeria,9,9310,John Obi Mikel Yakubu Aiyegbeni Dickson Etuhu John Utaka Joseph Yobo Seyi Olofinjana Nwankwo Kanu Victor Moses Victor Anichebe,2009-2010
+13,pt Portugal,8,7266,Nani Ricardo Carvalho Deco Paulo Ferreira Ricardo Rocha José Bosingwa Henrique Hilário Luís Boa Morte,2009-2010
+14,it Italy,8,4367,Alessandro Diamanti Alberto Aquilani Stefano Okaka Carlo Cudicini Vito Mannone Federico Macheda Andrea Dossena Fabio Borini,2009-2010
+15,no Norway,7,9207,John Carew Morten Gamst Pedersen Brede Hangeland Erik Nevland Bjørn Helge Riise Christian Kalvenes Abdisalam Ibrahim,2009-2010
+16,be Belgium,7,8135,Thomas Vermaelen Marouane Fellaini Vincent Kompany Anthony Vanden Borre Ritchie De Laet Dedryck Boyata Geoffrey Mujangi Bia,2009-2010
+17,ar Argentina,6,12804,Carlos Tevez Emiliano Insúa Javier Mascherano Pablo Zabaleta Maxi Rodríguez Franco Di Santo,2009-2010
+18,au Australia,6,10588,Tim Cahill Mark Schwarzer Brett Emerton Richard Garcia Lucas Neill Vince Grella,2009-2010
+19,hr Croatia,6,10260,Niko Kranjčar Vedran Ćorluka Luka Modrić Ivan Klasnić Eduardo da Silva Nikola Kalinić,2009-2010
+20,ci Ivory Coast,6,9771,Didier Drogba Kolo Touré Aruna Dindane Salomon Kalou Emmanuel Eboué Steve Gohouri,2009-2010
+21,gh Ghana,6,6693,Kevin-Prince Boateng John Paintsil Michael Essien John Mensah Quincy Owusu-Abeyie Lennard Sowah,2009-2010
+22,se Sweden,6,5995,Seb Larsson Martin Olsson Johan Elmander David Elm Erik Edman Fredrik Stoor,2009-2010
+23,cm Cameroon,5,10886,Benoît Assou-Ekotto Sébastien Bassong Alex Song André Bikey George Elokobi,2009-2010
+24,dk Denmark,5,10452,Brian Jensen Thomas Sørensen Nicklas Bendtner Daniel Agger Lars Jacobsen,2009-2010
+25,jm Jamaica,5,7490,Tyrone Mears Ricardo Fuller Ricardo Gardner Nyron Nosworthy Marlon King,2009-2010
+26,rs Serbia,5,5743,Branislav Ivanović Nemanja Vidić Nenad Milijaš Vladimir Stojković Nemanja Matić,2009-2010
+27,ch Switzerland,5,2873,Valon Behrami Fabio Daprelà Philipp Degen Philippe Senderos Johan Djourou,2009-2010
+28,za South Africa,4,5843,Steven Pienaar Aaron Mokoena Benni McCarthy Kagisho Dikgacoi,2009-2010
+29,ru Russia,4,5386,Andrey Arshavin Diniyar Bilyaletdinov Roman Pavlyuchenko Yuri Zhirkov,2009-2010
+30,ec Ecuador,4,5127,Antonio Valencia Christian Benítez Segundo Castillo Fernando Guerrero,2009-2010
+31,is Iceland,4,4342,Grétar Steinsson Hermann Hreiðarsson Eiður Guðjohnsen Joey Guðjónsson,2009-2010
+32,dz Algeria,4,3924,Nadir Belhadj Hassan Yebda Adlène Guedioura Kamel Ghilas,2009-2010
+33,kr South Korea,4,3495,Lee Chung-yong Park Ji-sung Cho Won-hee Seol Ki-hyeon,2009-2010
+34,hn Honduras,3,7950,Maynor Figueroa Wilson Palacios Hendry Thomas,2009-2010
+35,cz Czech Republic,3,6588,Petr Čech Radoslav Kováč Tomáš Rosický,2009-2010
+36,de Germany,3,6158,Michael Ballack Robert Huth Jimmy Bullard,2009-2010
+37,bg Bulgaria,3,6088,Dimitar Berbatov Stiliyan Petrov Martin Petrov,2009-2010
+38,il Israel,3,5854,Yossi Benayoun Tamir Cohen Tal Ben Haim,2009-2010
+39,tt Trinidad and Tobago,3,4771,Kenwyne Jones Jason Scotland Jlloyd Samuel,2009-2010
+40,cg Congo,3,4313,Christopher Samba Steven Mouyokolo Amine Linganzi,2009-2010
+41,fi Finland,3,3824,Jussi Jääskeläinen Teemu Tainio Toni Kallio,2009-2010
+42,hu Hungary,3,3263,Zoltán Gera Márton Fülöp Péter Kurucz,2009-2010
+43,mx Mexico,3,1614,Guillermo Franco Carlos Vela Giovani dos Santos,2009-2010
+44,at Austria,2,2702,Paul Scharner Stefan Maierhofer,2009-2010
+45,gr Greece,2,1969,Sotirios Kyrgiakos Angelos Basinas,2009-2010
+46,py Paraguay,2,1810,Paulo da Silva Roque Santa Cruz,2009-2010
+47,sk Slovakia,2,1806,Martin Škrtel Vladimír Weiss,2009-2010
+48,tr Turkey,2,1333,Tuncay Şanlı Yıldıray Baştürk,2009-2010
+49,cd Congo DR,2,1238,Hérita Ilunga Gaël Kakuta,2009-2010
+50,ca Canada,2,1193,Junior Hoilett David Edgar,2009-2010
+51,ma Morocco,2,1186,Manuel da Costa Nabil El Zhar,2009-2010
+52,pl Poland,2,1080,Tomasz Kuszczak Łukasz Fabiański,2009-2010
+53,eg Egypt,2,718,Mido Amr Zaki,2009-2010
+54,ua Ukraine,2,214,Andriy Voronin Andriy Shevchenko,2009-2010
+55,co Colombia,1,3310,Hugo Rodallega,2009-2010
+56,al Albania,1,2598,Lorik Cana,2009-2010
+57,nz New Zealand,1,2271,Ryan Nelsen,2009-2010
+58,tg Togo,1,2207,Emmanuel Adebayor,2009-2010
+59,bb Barbados,1,2034,Emmerson Boyce,2009-2010
+60,gn Guinea,1,1869,Kamil Zayatte,2009-2010
+61,gd Grenada,1,1556,Jason Roberts,2009-2010
+62,ml Mali,1,1519,Mamady Sidibé,2009-2010
+63,gy Guyana,1,1291,Leon Cort,2009-2010
+64,ba Bosnia and Herzegovina,1,1062,Asmir Begović,2009-2010
+65,bo Bolivia,1,724,Marcelo Martins Moreno,2009-2010
+66,cl Chile,1,658,Luis Jiménez,2009-2010
+67,zw Zimbabwe,1,252,Benjani Mwaruwari,2009-2010
+68,ga Gabon,1,79,Daniel Cousin,2009-2010
+69,pe Peru,1,76,Diego Penny,2009-2010
+70,cf Central African Republic,1,47,Frédéric Nimani,2009-2010
+71,fo Faroe Islands,1,18,Gunnar Nielsen,2009-2010
+72,mt Malta,1,2,Michael Johnson,2009-2010
+1,eng England,178,271026,Frank Lampard Steven Gerrard Gabby Agbonlahor Kevin Davies Peter Crouch Ashley Young Gareth Barry Matthew Taylor Danny Murphy James Milner ...,2008-2009
+2,fr France,32,47779,Nicolas Anelka Steed Malbranque Sylvain Distin Djibril Cissé Samir Nasri Bacary Sagna Florent Malouda Gaël Clichy Charles N'Zogbia Jérémie Aliadière ...,2008-2009
+3,ie Ireland,26,35726,Stephen Ireland Robbie Keane Rory Delap Shay Given Andy O'Brien Damien Duff Richard Dunne Keith Andrews Andy Reid John O'Shea ...,2008-2009
+4,br Brazil,17,25024,Robinho Denílson Geovanni Heurelho Gomes Elano Afonso Alves Jô Alex Fábio Aurélio Lucas Leiva ...,2008-2009
+5,es Spain,15,27615,Pepe Reina Mikel Arteta Fernando Torres Xabi Alonso Cesc Fàbregas Manuel Almunia Álvaro Arbeloa Borja Valero Albert Riera Carlos Cuéllar ...,2008-2009
+6,nl Netherlands,15,23526,Dirk Kuyt Robin van Persie André Ooijer Mario Melchiot Gianni Zuiverloon Edwin van der Sar George Boateng Nigel de Jong Ryan Donk Ryan Babel ...,2008-2009
+7,wal Wales,14,20080,Simon Davies Danny Collins Sam Ricketts Boaz Myhill Craig Bellamy Ryan Giggs Jack Collison James Collins Gareth Bale Jason Koumas ...,2008-2009
+8,pt Portugal,13,10977,Cristiano Ronaldo José Bosingwa Deco Luís Boa Morte Ricardo Carvalho Nani Ariza Makukula Filipe Teixeira Paulo Ferreira Ricardo Quaresma ...,2008-2009
+9,ng Nigeria,12,14928,John Obi Mikel Obafemi Martins Joseph Yobo Shola Ameobi Dickson Etuhu Yakubu Aiyegbeni Seyi Olofinjana John Utaka Danny Shittu Victor Anichebe ...,2008-2009
+10,sn Senegal,10,14312,Abdoulaye Faye El Hadji Diouf Habib Beye Salif Diao Amdy Faye Papa Bouba Diop Armand Traoré Diomansy Kamara Henri Camara Ibrahima Sonko,2008-2009
+11,ar Argentina,9,14297,Fabricio Coloccini Pablo Zabaleta Carlos Tevez Javier Mascherano Jonás Gutiérrez Julio Arca Emiliano Insúa Juan Carlos Menseguez Franco Di Santo,2008-2009
+12,au Australia,8,14978,Tim Cahill Mark Schwarzer Lucas Neill Brett Emerton Brad Jones Richard Garcia Vince Grella Mark Viduka,2008-2009
+13,sco Scotland,8,10468,James Morrison Phil Bardsley Darren Fletcher Richard Hughes Craig Gordon Alan Hutton Graham Dorrans Craig Beattie,2008-2009
+14,dk Denmark,8,9103,Thomas Sørensen Nicklas Bendtner Martin Laursen Daniel Agger Peter Løvenkrands Lars Jacobsen Kasper Schmeichel Leon Andreasen,2008-2009
+15,ci Ivory Coast,6,10319,Salomon Kalou Kolo Touré Didier Drogba Didier Zokora Emmanuel Eboué Abdoulaye Méïté,2008-2009
+16,nir Northern Ireland,6,8985,Aaron Hughes Chris Brunt Jonny Evans George McCartney David Healy Chris Baird,2008-2009
+17,tt Trinidad and Tobago,6,8342,Jlloyd Samuel Kenwyne Jones Justin Hoyte Carlos Edwards Dwight Yorke Gavin Hoyte,2008-2009
+18,it Italy,6,3809,David Di Michele Andrea Dossena Carlo Cudicini Federico Macheda Vito Mannone Rodrigo Possebon,2008-2009
+19,us United States,5,9902,Tim Howard Clint Dempsey Brad Friedel Jonathan Spector Brad Guzan,2008-2009
+20,se Sweden,5,5473,Johan Elmander Jonas Olsson Martin Olsson Fredrik Stoor Erik Edman,2008-2009
+21,no Norway,4,8140,Brede Hangeland Morten Gamst Pedersen John Carew Erik Nevland,2008-2009
+22,jm Jamaica,4,8062,Ricardo Fuller Marlon King Ricardo Gardner Nyron Nosworthy,2008-2009
+23,cm Cameroon,4,7909,Benoît Assou-Ekotto Sébastien Bassong Alex Song Geremi,2008-2009
+24,bg Bulgaria,4,6299,Dimitar Berbatov Stiliyan Petrov Martin Petrov Valeri Bojinov,2008-2009
+25,de Germany,4,6165,Michael Ballack Robert Huth Jimmy Bullard Dietmar Hamann,2008-2009
+26,be Belgium,4,6122,Vincent Kompany Marouane Fellaini Carl Hoefkens Ritchie De Laet,2008-2009
+27,fi Finland,4,6117,Jussi Jääskeläinen Teemu Tainio Sami Hyypiä Toni Kallio,2008-2009
+28,gh Ghana,4,4423,John Paintsil Michael Essien Richard Kingson Kevin-Prince Boateng,2008-2009
+29,ch Switzerland,4,3713,Valon Behrami Johan Djourou Gelson Fernandes Johann Vogel,2008-2009
+30,cd Congo DR,4,3531,Hérita Ilunga Youssouf Mulumbu Arnold Mvuemba Kazenga LuaLua,2008-2009
+31,kr South Korea,4,2739,Park Ji-sung Kim Do-heon Seol Ki-hyeon Cho Won-hee,2008-2009
+32,sk Slovakia,4,2200,Martin Škrtel Marek Čech Miroslav Stoch Vladimír Weiss,2008-2009
+33,hr Croatia,3,7551,Luka Modrić Vedran Ćorluka Niko Kranjčar,2008-2009
+34,cz Czech Republic,3,5065,Petr Čech Roman Bednář Radoslav Kováč,2008-2009
+35,is Iceland,3,4993,Grétar Steinsson Hermann Hreiðarsson Heiðar Helguson,2008-2009
+36,za South Africa,3,4767,Steven Pienaar Benni McCarthy Aaron Mokoena,2008-2009
+37,hu Hungary,3,4620,Márton Fülöp Zoltán Gera Péter Halmosi,2008-2009
+38,eg Egypt,3,4287,Amr Zaki Mido Mohamed Shawky,2008-2009
+39,rs Serbia,3,4102,Nemanja Vidić Branislav Ivanović Zoran Tošić,2008-2009
+40,ec Ecuador,3,3984,Antonio Valencia Felipe Caicedo Segundo Castillo,2008-2009
+41,il Israel,3,3305,Yossi Benayoun Tal Ben Haim Tamir Cohen,2008-2009
+42,pl Poland,3,1021,Łukasz Fabiański Tomasz Kuszczak Euzebiusz Smolarek,2008-2009
+43,gr Greece,3,259,Angelos Basinas Stelios Giannakopoulos Theofanis Gekas,2008-2009
+44,hn Honduras,2,6135,Maynor Figueroa Wilson Palacios,2008-2009
+45,at Austria,2,4714,Emanuel Pogatetz Paul Scharner,2008-2009
+46,tr Turkey,2,4222,Tuncay Şanlı Tugay Kerimoğlu,2008-2009
+47,nz New Zealand,2,3119,Ryan Nelsen Chris Wood,2008-2009
+48,ru Russia,2,2441,Andrey Arshavin Roman Pavlyuchenko,2008-2009
+49,mx Mexico,2,665,Carlos Vela Giovani dos Santos,2008-2009
+50,ma Morocco,2,251,Nabil El Zhar Adel Taarabt,2008-2009
+51,uy Uruguay,2,64,Nacho González Walter López,2008-2009
+52,cg Congo,1,3046,Christopher Samba,2008-2009
+53,si Slovenia,1,2990,Robert Koren,2008-2009
+54,gn Guinea,1,2740,Kamil Zayatte,2008-2009
+55,bb Barbados,1,2321,Emmerson Boyce,2008-2009
+56,dz Algeria,1,1930,Nadir Belhadj,2008-2009
+57,tg Togo,1,1876,Emmanuel Adebayor,2008-2009
+58,gd Grenada,1,1728,Jason Roberts,2008-2009
+59,ga Gabon,1,1580,Daniel Cousin,2008-2009
+60,py Paraguay,1,1486,Roque Santa Cruz,2008-2009
+61,ml Mali,1,1338,Mamady Sidibé,2008-2009
+62,co Colombia,1,983,Hugo Rodallega,2008-2009
+63,gy Guyana,1,845,Leon Cort,2008-2009
+64,ao Angola,1,674,Manucho,2008-2009
+65,cl Chile,1,651,Carlos Villanueva,2008-2009
+66,ca Canada,1,601,David Edgar,2008-2009
+67,cw Curaçao,1,550,Shelton Martis,2008-2009
+68,zw Zimbabwe,1,550,Benjani Mwaruwari,2008-2009
+69,ge Georgia,1,304,Zurab Khizanishvili,2008-2009
+70,mt Malta,1,260,Michael Johnson,2008-2009
+71,ug Uganda,1,246,Savio Nsereko,2008-2009
+72,ba Bosnia and Herzegovina,1,180,Asmir Begović,2008-2009
+73,cv Cape Verde,1,145,Pelé,2008-2009
+74,ir Iran,1,10,Andranik Teymourian,2008-2009
+1,eng England,159,249577,Ashley Young Gareth Barry Gabby Agbonlahor Stewart Downing David Bentley Steven Gerrard Wayne Rooney Nicky Shorey Joleon Lescott James Harper ...,2007-2008
+2,ie Ireland,28,45314,Robbie Keane Stephen Hunt Kevin Doyle Stephen Kelly Stephen Ireland Lee Carsley Kevin Kilbane Richard Dunne Andy O'Brien Daryl Murphy ...,2007-2008
+3,fr France,27,43826,Nicolas Anelka Gaël Clichy Steed Malbranque Sylvain Distin Pascal Chimbonda Mathieu Flamini William Gallas Jérémie Aliadière Charles N'Zogbia Patrice Evra ...,2007-2008
+4,wal Wales,18,18925,Simon Davies Danny Collins Ryan Giggs Jason Koumas Robbie Savage John Oster Gary Speed Robert Earnshaw Craig Bellamy Gareth Bale ...,2007-2008
+5,sco Scotland,16,21247,Kenny Miller Craig Gordon Graeme Murty James McFadden Jay McEveley Stephen Pearson Ross Wallace Shaun Maloney Alan Hutton Gary Teale ...,2007-2008
+6,br Brazil,14,17791,Elano Fábio Rochemback Alex Juliano Belletti Anderson Caçapa Lucas Leiva Gilberto Silva Afonso Alves Fábio Aurélio ...,2007-2008
+7,es Spain,13,24041,Fernando Torres Cesc Fàbregas Pepe Reina Mikel Arteta Manuel Almunia Álvaro Arbeloa Iván Campo Javier Garrido Xabi Alonso José Enrique ...,2007-2008
+8,us United States,12,21711,Brad Friedel Marcus Hahnemann Clint Dempsey Tim Howard Eddie Lewis Carlos Bocanegra Brian McBride Jonathan Spector Bobby Convey Kasey Keller ...,2007-2008
+9,nl Netherlands,12,19960,Wilfred Bouma Dirk Kuyt George Boateng Mario Melchiot Edwin van der Sar Ryan Babel André Ooijer Robin van Persie Denny Landzaat Daniël de Ridder ...,2007-2008
+10,ng Nigeria,11,15805,Yakubu Aiyegbeni Obafemi Martins Joseph Yobo John Utaka Nwankwo Kanu John Obi Mikel Dickson Etuhu Victor Anichebe Julius Aghahowa Kelvin Etuhu ...,2007-2008
+11,pt Portugal,11,12319,Cristiano Ronaldo Nani Ricardo Carvalho Luís Boa Morte Pedro Mendes Paulo Ferreira Manuel Fernandes Nuno Valente Ricardo Rocha Henrique Hilário ...,2007-2008
+12,nir Northern Ireland,9,17621,George McCartney Maik Taylor Aaron Hughes Steven Davis David Healy Chris Baird Damien Johnson Jonny Evans Roy Carroll,2007-2008
+13,au Australia,9,14074,Lucas Neill Mark Schwarzer Brett Emerton Mark Viduka Tim Cahill Harry Kewell Mile Sterjovski Josip Skoko Brad Jones,2007-2008
+14,sn Senegal,9,12342,El Hadji Diouf Habib Beye Papa Bouba Diop Diomansy Kamara Abdoulaye Faye Ibrahima Sonko Henri Camara Armand Traoré Lamine Diatta,2007-2008
+15,se Sweden,9,9971,Seb Larsson Olof Mellberg Freddie Ljungberg Andreas Granqvist Andreas Isaksson Erik Edman Rade Prica Christian Wilhelmsson Martin Olsson,2007-2008
+16,jm Jamaica,8,12989,Nyron Nosworthy Darren Moore Ricardo Gardner Tyrone Mears Giles Barnes Claude Davis Marlon King Michael Johnson,2007-2008
+17,ci Ivory Coast,7,12221,Salomon Kalou Kolo Touré Didier Drogba Didier Zokora Emmanuel Eboué Abdoulaye Méïté Emerse Faé,2007-2008
+18,no Norway,7,9195,John Carew Morten Gamst Pedersen John Arne Riise Brede Hangeland Erik Nevland Daniel Braaten Erik Hagen,2007-2008
+19,de Germany,7,7148,Dietmar Hamann Michael Ballack Jimmy Bullard Robert Huth Jens Lehmann Moritz Volz Stefan Wessels,2007-2008
+20,tt Trinidad and Tobago,7,6683,Kenwyne Jones Dwight Yorke Jlloyd Samuel Carlos Edwards Tony Warner Justin Hoyte Stern John,2007-2008
+21,cm Cameroon,7,5193,Geremi André Bikey Lauren Alex Song Salomon Olembé Benoît Assou-Ekotto Franck Songo'o,2007-2008
+22,fi Finland,6,9269,Mikael Forssell Jussi Jääskeläinen Sami Hyypiä Antti Niemi Teemu Tainio Shefki Kuqi,2007-2008
+23,ar Argentina,6,8441,Carlos Tevez Javier Mascherano Julio Arca Emanuel Villa Mauro Zárate Emiliano Insúa,2007-2008
+24,cz Czech Republic,6,7797,Petr Čech Tomáš Rosický David Rozehnal Radek Černý Marek Matějovský Milan Baroš,2007-2008
+25,dk Denmark,6,6352,Martin Laursen Nicklas Bendtner Leon Andreasen Kasper Schmeichel Daniel Agger Thomas Gravesen,2007-2008
+26,is Iceland,5,8744,Ívar Ingimarsson Hermann Hreiðarsson Brynjar Gunnarsson Grétar Steinsson Heiðar Helguson,2007-2008
+27,gh Ghana,5,5830,Sulley Muntari Michael Essien John Paintsil Kevin-Prince Boateng Richard Kingson,2007-2008
+28,ch Switzerland,5,5108,Gelson Fernandes Philippe Senderos Johan Djourou Johann Vogel Bruno Berner,2007-2008
+29,bg Bulgaria,4,7853,Dimitar Berbatov Martin Petrov Stiliyan Petrov Valeri Bojinov,2007-2008
+30,kr South Korea,4,3202,Lee Young-pyo Park Ji-sung Seol Ki-hyeon Lee Dong-gook,2007-2008
+31,ml Mali,4,1962,Kalifa Cissé Mohamed Sissoko Jimmy Kébé Djimi Traoré,2007-2008
+32,hr Croatia,3,6785,Niko Kranjčar Vedran Ćorluka Eduardo da Silva,2007-2008
+33,za South Africa,3,4524,Benni McCarthy Steven Pienaar Aaron Mokoena,2007-2008
+34,tr Turkey,3,3931,Tuncay Şanlı Tugay Kerimoğlu Emre Belözoğlu,2007-2008
+35,ec Ecuador,3,3273,Antonio Valencia Ulises de la Cruz Felipe Caicedo,2007-2008
+36,il Israel,3,2896,Yossi Benayoun Tal Ben Haim Tamir Cohen,2007-2008
+37,eg Egypt,3,2102,Hossam Ghaly Mido Mohamed Shawky,2007-2008
+38,pl Poland,3,1297,Tomasz Kuszczak Grzegorz Rasiak Łukasz Fabiański,2007-2008
+39,at Austria,2,5443,Paul Scharner Emanuel Pogatetz,2007-2008
+40,rs Serbia,2,3835,Nemanja Vidić Dejan Stefanović,2007-2008
+41,tn Tunisia,2,3385,Mehdi Nafti Radhi Jaïdi,2007-2008
+42,cg Congo,2,3061,Christopher Samba Lucien Aubey,2007-2008
+43,tg Togo,2,2972,Emmanuel Adebayor Moustapha Salifou,2007-2008
+44,pe Peru,2,1962,Nolberto Solano Claudio Pizarro,2007-2008
+45,ua Ukraine,2,1865,Andriy Voronin Andriy Shevchenko,2007-2008
+46,hn Honduras,2,1820,Wilson Palacios Maynor Figueroa,2007-2008
+47,sk Slovakia,2,1687,Martin Škrtel Ľubomír Michalík,2007-2008
+48,it Italy,2,1669,Rolando Bianchi Carlo Cudicini,2007-2008
+49,ca Canada,2,1556,Paul Stalteri David Edgar,2007-2008
+50,gr Greece,2,556,Stelios Giannakopoulos Georgios Samaras,2007-2008
+51,cd Congo DR,2,339,Arnold Mvuemba Kazenga LuaLua,2007-2008
+52,py Paraguay,1,3185,Roque Santa Cruz,2007-2008
+53,zw Zimbabwe,1,2896,Benjani Mwaruwari,2007-2008
+54,by Belarus,1,2425,Alexander Hleb,2007-2008
+55,bb Barbados,1,2203,Emmerson Boyce,2007-2008
+56,nz New Zealand,1,1936,Ryan Nelsen,2007-2008
+57,mt Malta,1,1930,Michael Johnson,2007-2008
+58,gd Grenada,1,1264,Jason Roberts,2007-2008
+59,dz Algeria,1,1188,Hameur Bouazza,2007-2008
+60,ru Russia,1,989,Alexey Smertin,2007-2008
+61,ge Georgia,1,955,Zurab Khizanishvili,2007-2008
+62,om Oman,1,900,Ali Al-Habsi,2007-2008
+63,cn China PR,1,817,Sun Jihai,2007-2008
+64,be Belgium,1,743,Émile Mpenza,2007-2008
+65,mx Mexico,1,296,Nery Castillo,2007-2008
+66,ma Morocco,1,129,Adel Taarabt,2007-2008
+67,hu Hungary,1,90,Márton Fülöp,2007-2008
+68,ir Iran,1,79,Andranik Teymourian,2007-2008
+69,gn Guinea,1,62,Mo Camara,2007-2008
+70,gy Guyana,1,23,Neil Danns,2007-2008
+1,eng England,163,267183,Wayne Rooney Frank Lampard Gabby Agbonlahor David Bentley Gareth Barry Steven Gerrard Darren Bent Steve Sidwell Andrew Johnson Stewart Downing ...,2006-2007
+2,ie Ireland,24,40630,Lee Carsley Kevin Doyle Richard Dunne Stephen Hunt Steve Finnan Kevin Kilbane Paddy Kenny Robbie Keane Matt Holland Derek Geary ...,2006-2007
+3,fr France,24,36215,Nicolas Anelka Sylvain Distin Pascal Chimbonda Franck Queudrue Louis Saha Thierry Henry Gaël Clichy Claude Makélélé Patrice Evra William Gallas ...,2006-2007
+4,sco Scotland,19,18245,Lee McCulloch Nick Montgomery Graeme Murty James Morrison Darren Fletcher Phil Bardsley Malky Mackay Gary Naysmith James McFadden Richard Hughes ...,2006-2007
+5,nl Netherlands,16,23908,Dirk Kuyt George Boateng Robin van Persie Edwin van der Sar Denny Landzaat Arjen Robben Wilfred Bouma Arjan de Zeeuw André Ooijer Jimmy Floyd Hasselbaink ...,2006-2007
+6,pt Portugal,12,16980,Cristiano Ronaldo Ricardo Carvalho Pedro Mendes Luís Boa Morte Paulo Ferreira Manuel Fernandes Abel Xavier Henrique Hilário Nuno Valente Ricardo Rocha ...,2006-2007
+7,us United States,11,22332,Brian McBride Brad Friedel Marcus Hahnemann Tim Howard Jay DeMerit Carlos Bocanegra Jonathan Spector DaMarcus Beasley Bobby Convey Oguchi Onyewu ...,2006-2007
+8,ng Nigeria,11,18370,Yakubu Aiyegbeni Obafemi Martins Nwankwo Kanu Joseph Yobo Danny Shittu John Obi Mikel Shola Ameobi Victor Anichebe Celestine Babayaro Julius Aghahowa ...,2006-2007
+9,wal Wales,11,18336,Gary Speed Simon Davies Ryan Giggs Craig Bellamy Robbie Savage Ben Thatcher Danny Gabbidon James Collins John Oster David Cotterill ...,2006-2007
+10,es Spain,11,17327,Mikel Arteta Cesc Fàbregas Iván Campo Pepe Reina Xabi Alonso Luis García Álvaro Arbeloa Gaizka Mendieta Kepa Blanco Albert Luque ...,2006-2007
+11,au Australia,11,17163,Mark Viduka Mark Schwarzer Brett Emerton Lucas Neill Josip Skoko Tim Cahill Craig Moore John Filan Brad Jones Harry Kewell ...,2006-2007
+12,jm Jamaica,10,11012,Damien Francis Lloyd Doyley Marlon King Adrian Mariappa Claude Davis Ricardo Gardner Jason Euell Lee Williamson Luton Shelton Kevin Lisbie,2006-2007
+13,br Brazil,8,7438,Gilberto Silva Fábio Rochemback Júlio Baptista Fábio Aurélio Douglas Rinaldi Denílson Anderson Silva Júlio César,2006-2007
+14,sn Senegal,7,14196,El Hadji Diouf Abdoulaye Faye Amdy Faye Henri Camara Ibrahima Sonko Papa Bouba Diop Souleymane Diawara,2006-2007
+15,de Germany,7,9572,Jens Lehmann Michael Ballack Moritz Volz Dietmar Hamann Robert Huth Jimmy Bullard Sergio Peter,2006-2007
+16,cm Cameroon,7,5472,Benoît Assou-Ekotto Geremi Alex Song Lauren André Bikey Roudolphe Douala Eric Djemba-Djemba,2006-2007
+17,it Italy,7,3381,Bernardo Corradi Carlo Cudicini Vincenzo Montella Giuseppe Rossi Massimo Maccarone Gabriel Paletta Daniele Padelli,2006-2007
+18,ci Ivory Coast,6,15524,Didier Drogba Kolo Touré Abdoulaye Méïté Salomon Kalou Emmanuel Eboué Didier Zokora,2006-2007
+19,dk Denmark,6,9439,Thomas Sørensen Daniel Agger Dennis Rommedahl Claus Jensen Henrik Pedersen Martin Laursen,2006-2007
+20,se Sweden,6,6672,Olof Mellberg Freddie Ljungberg Andreas Isaksson Henrik Larsson Andreas Johansson Björn Runström,2006-2007
+21,nir Northern Ireland,5,7862,Keith Gillespie Steven Davis George McCartney Aaron Hughes Roy Carroll,2006-2007
+22,no Norway,5,7618,Morten Gamst Pedersen John Arne Riise Ole Gunnar Solskjær John Carew Thomas Myhre,2006-2007
+23,ar Argentina,5,5766,Carlos Tevez Julio Arca Gabriel Heinze Javier Mascherano Emiliano Insúa,2006-2007
+24,cz Czech Republic,5,5089,Tomáš Rosický Petr Čech Milan Baroš Jan Laštůvka Pavel Srníček,2006-2007
+25,ch Switzerland,5,3301,Johan Djourou Stéphane Henchoz Philippe Senderos Bruno Berner Reto Ziegler,2006-2007
+26,fi Finland,4,9806,Jussi Jääskeläinen Antti Niemi Sami Hyypiä Teemu Tainio,2006-2007
+27,is Iceland,4,8630,Ívar Ingimarsson Hermann Hreiðarsson Heiðar Helguson Brynjar Gunnarsson,2006-2007
+28,bg Bulgaria,4,6329,Dimitar Berbatov Stiliyan Petrov Radostin Kishishev Svetoslav Todorov,2006-2007
+29,il Israel,4,5534,Yossi Benayoun Tal Ben Haim Idan Tal Ben Sahar,2006-2007
+30,za South Africa,4,5465,Benni McCarthy Aaron Mokoena Quinton Fortune Matty Pattison,2006-2007
+31,kr South Korea,4,4644,Seol Ki-hyeon Lee Young-pyo Park Ji-sung Lee Dong-gook,2006-2007
+32,tr Turkey,3,5540,Tugay Kerimoğlu Emre Belözoğlu Colin Kazim-Richards,2006-2007
+33,rs Serbia,3,3865,Nemanja Vidić Dejan Stefanović Ognjen Koroman,2006-2007
+34,gh Ghana,3,3603,Michael Essien John Paintsil Lloyd Sam,2006-2007
+35,ma Morocco,3,3311,Talal El Karkouri Nabil El Zhar Adel Taarabt,2006-2007
+36,cd Congo DR,3,2715,Shabani Nonda Lomana LuaLua Arnold Mvuemba,2006-2007
+37,ca Canada,3,2658,Tomasz Radzinski David Edgar Paul Stalteri,2006-2007
+38,eg Egypt,3,2247,Hossam Ghaly Mido Ahmed Fathi Mohamed,2006-2007
+39,cn China PR,3,1911,Zheng Zhi Sun Jihai Dong Fangzhuo,2006-2007
+40,at Austria,2,5055,Emanuel Pogatetz Paul Scharner,2006-2007
+41,ml Mali,2,2840,Djimi Traoré Mohamed Sissoko,2006-2007
+42,gr Greece,2,2627,Georgios Samaras Stelios Giannakopoulos,2006-2007
+43,dz Algeria,2,2571,Hameur Bouazza Madjid Bougherra,2006-2007
+44,ec Ecuador,2,2130,Antonio Valencia Ulises de la Cruz,2006-2007
+45,tt Trinidad and Tobago,2,1710,Justin Hoyte Jlloyd Samuel,2006-2007
+46,ag Antigua and Barbuda,2,1432,Mikele Leigertwood Moses Ashikodi,2006-2007
+47,hu Hungary,2,1202,Tamás Priskin Gábor Király,2006-2007
+48,sl Sierra Leone,2,1104,Al Bangura Albert Jarrett,2006-2007
+49,pl Poland,2,720,Tomasz Kuszczak Jerzy Dudek,2006-2007
+50,bb Barbados,1,3022,Emmerson Boyce,2006-2007
+51,by Belarus,1,2362,Alexander Hleb,2006-2007
+52,pe Peru,1,2154,Nolberto Solano,2006-2007
+53,zw Zimbabwe,1,2041,Benjani Mwaruwari,2006-2007
+54,tg Togo,1,1985,Emmanuel Adebayor,2006-2007
+55,ua Ukraine,1,1807,Andriy Shevchenko,2006-2007
+56,ge Georgia,1,1567,Zurab Khizanishvili,2006-2007
+57,co Colombia,1,1494,Juan Pablo Ángel,2006-2007
+58,tn Tunisia,1,1370,Hatem Trabelsi,2006-2007
+59,hr Croatia,1,1282,Niko Kranjčar,2006-2007
+60,cl Chile,1,1216,Mark González,2006-2007
+61,cg Congo,1,1137,Christopher Samba,2006-2007
+62,nz New Zealand,1,1080,Ryan Nelsen,2006-2007
+63,gd Grenada,1,1026,Jason Roberts,2006-2007
+64,mt Malta,1,900,Michael Johnson,2006-2007
+65,be Belgium,1,826,Émile Mpenza,2006-2007
+66,ir Iran,1,819,Andranik Teymourian,2006-2007
+67,ru Russia,1,533,Alexey Smertin,2006-2007
+68,sk Slovakia,1,339,Ľubomír Michalík,2006-2007
+69,ee Estonia,1,90,Mart Poom,2006-2007
+70,uy Uruguay,1,58,Omar Pouso,2006-2007
+71,gy Guyana,1,13,Matthew Briggs,2006-2007
+1,eng England,160,258517,Wayne Rooney Frank Lampard Darren Bent Kevin Davies Darius Vassell Marlon Harewood Kevin Nolan Steven Gerrard Dean Whitehead Alan Shearer ...,2005-2006
+2,fr France,35,49835,Thierry Henry Steed Malbranque Pascal Chimbonda William Gallas Charles N'Zogbia Robert Pirès Mikaël Silvestre Sylvain Distin Djibril Cissé Jean-Alain Boumsong ...,2005-2006
+3,ie Ireland,29,47043,Robbie Keane Shay Given Steve Finnan Steven Reid Gary Breen John O'Shea Richard Dunne Graham Kavanagh Andy O'Brien Kenny Cunningham ...,2005-2006
+4,sco Scotland,21,24109,Lee McCulloch David Weir James McFadden Darren Fletcher James Morrison Steven Caldwell Gary Teale Paul Dickov Richard Hughes Andy Gray ...,2005-2006
+5,nl Netherlands,18,28284,Ruud van Nistelrooy Edwin van der Sar Collins John Arjan de Zeeuw George Boateng Edgar Davids Arjen Robben Jimmy Floyd Hasselbaink Kiki Musampa Mario Melchiot ...,2005-2006
+6,wal Wales,16,23222,Craig Bellamy Robbie Savage Gary Speed Ryan Giggs Danny Gabbidon Danny Collins Simon Davies Ben Thatcher James Collins Mark Delaney ...,2005-2006
+7,es Spain,13,21871,Xabi Alonso Cesc Fàbregas José Antonio Reyes Mikel Arteta Pepe Reina Fernando Morientes Asier del Horno Luis García Gaizka Mendieta Albert Riera ...,2005-2006
+8,au Australia,13,18631,Tim Cahill Lucas Neill Mark Viduka Harry Kewell Mark Schwarzer Brett Emerton John Filan Stan Lazaridis Brad Jones Craig Moore ...,2005-2006
+9,dk Denmark,10,15586,Thomas Sørensen Martin Albrechtsen Brian Priske Dennis Rommedahl Henrik Pedersen Niclas Jensen Stephan Andersen Claus Jensen Thomas Gaardsøe Daniel Agger,2005-2006
+10,pt Portugal,9,13685,Luís Boa Morte Cristiano Ronaldo Ricardo Carvalho Paulo Ferreira Pedro Mendes Nuno Valente Ricardo Vaz Tê Abel Xavier Maniche,2005-2006
+11,sn Senegal,9,11698,Henri Camara Abdoulaye Faye Papa Bouba Diop Diomansy Kamara El Hadji Diouf Amdy Faye Salif Diao Khalilou Fadiga Aliou Cissé,2005-2006
+12,nir Northern Ireland,7,14760,Aaron Hughes Steven Davis Maik Taylor Damien Johnson Roy Carroll George McCartney Alex Bruce,2005-2006
+13,ng Nigeria,7,12895,Yakubu Aiyegbeni Shola Ameobi Joseph Yobo Celestine Babayaro Nwankwo Kanu Jay-Jay Okocha Victor Anichebe,2005-2006
+14,fi Finland,7,12088,Jussi Jääskeläinen Sami Hyypiä Shefki Kuqi Teemu Tainio Mikael Forssell Antti Niemi Jonatan Johansson,2005-2006
+15,us United States,7,11269,Brian McBride Brad Friedel Claudio Reyna Carlos Bocanegra Jonathan Spector Tim Howard Jemal Johnson,2005-2006
+16,de Germany,6,10604,Jimmy Bullard Jens Lehmann Moritz Volz Dietmar Hamann Robert Huth Sergio Peter,2005-2006
+17,jm Jamaica,6,7035,Ricardo Gardner Nyron Nosworthy Damien Francis Jason Euell Darren Moore Kevin Lisbie,2005-2006
+18,cz Czech Republic,5,8822,Milan Baroš Petr Čech Jiří Jarošík Tomáš Řepka Martin Latka,2005-2006
+19,no Norway,5,8048,Morten Gamst Pedersen John Arne Riise Thomas Myhre Eirik Bakke Azar Karadas,2005-2006
+20,ar Argentina,5,6081,Hernán Crespo Julio Arca Andrés D'Alessandro Lionel Scaloni Gabriel Heinze,2005-2006
+21,se Sweden,5,5244,Olof Mellberg Freddie Ljungberg Andreas Johansson Erik Edman Seb Larsson,2005-2006
+22,it Italy,5,1701,Massimo Maccarone Matteo Ferrari Carlo Cudicini Giuseppe Rossi Arturo Lupoli,2005-2006
+23,ci Ivory Coast,4,7129,Didier Drogba Kolo Touré Emmanuel Eboué Olivier Tébily,2005-2006
+24,tt Trinidad and Tobago,4,6487,Justin Hoyte Tony Warner Shaka Hislop Jlloyd Samuel,2005-2006
+25,ch Switzerland,4,5082,Stéphane Henchoz Philippe Senderos Johan Djourou Reto Ziegler,2005-2006
+26,rs Serbia,4,3867,Dejan Stefanović Nemanja Vidić Zvonimir Vukić Ognjen Koroman,2005-2006
+27,pl Poland,4,3282,Tomasz Kuszczak Jerzy Dudek Grzegorz Rasiak Jarosław Fojut,2005-2006
+28,cm Cameroon,4,3084,Lauren Geremi Alex Song Eric Djemba-Djemba,2005-2006
+29,uy Uruguay,4,2421,Darío Silva Walter Pandiani Gonzalo Sorondo Williams Martínez,2005-2006
+30,br Brazil,3,6486,Gilberto Silva Fábio Rochemback Doriva,2005-2006
+31,is Iceland,3,5992,Hermann Hreiðarsson Heiðar Helguson Eiður Guðjohnsen,2005-2006
+32,il Israel,3,5692,Yossi Benayoun Tal Ben Haim Yaniv Katan,2005-2006
+33,tr Turkey,3,4336,Emre Belözoğlu Tugay Kerimoğlu Muzzy Izzet,2005-2006
+34,gh Ghana,3,2578,Michael Essien Lloyd Sam Quincy Owusu-Abeyie,2005-2006
+35,sk Slovakia,3,687,Ján Kozák Szilárd Németh Vratislav Greško,2005-2006
+36,ca Canada,2,5248,Paul Stalteri Tomasz Radzinski,2005-2006
+37,kr South Korea,2,4723,Lee Young-pyo Park Ji-sung,2005-2006
+38,bg Bulgaria,2,3918,Radostin Kishishev Svetoslav Todorov,2005-2006
+39,nz New Zealand,2,3706,Ryan Nelsen Simon Elliott,2005-2006
+40,gr Greece,2,3486,Stelios Giannakopoulos Georgios Samaras,2005-2006
+41,at Austria,2,3261,Emanuel Pogatetz Paul Scharner,2005-2006
+42,jp Japan,2,2802,Junichi Inamoto Hidetoshi Nakata,2005-2006
+43,ml Mali,2,2763,Mohamed Sissoko Djimi Traoré,2005-2006
+44,co Colombia,2,2424,Juan Pablo Ángel Jhon Viáfara,2005-2006
+45,za South Africa,2,1345,Shaun Bartlett Aaron Mokoena,2005-2006
+46,ma Morocco,2,668,Talal El Karkouri Noureddine Naybet,2005-2006
+47,gd Grenada,1,3012,Jason Roberts,2005-2006
+48,pe Peru,1,2342,Nolberto Solano,2005-2006
+49,ge Georgia,1,2156,Zurab Khizanishvili,2005-2006
+50,eg Egypt,1,2110,Mido,2005-2006
+51,cd Congo DR,1,2108,Lomana LuaLua,2005-2006
+52,ru Russia,1,1527,Alexey Smertin,2005-2006
+53,by Belarus,1,1480,Alexander Hleb,2005-2006
+54,zw Zimbabwe,1,1281,Benjani Mwaruwari,2005-2006
+55,tn Tunisia,1,1229,Radhi Jaïdi,2005-2006
+56,hu Hungary,1,1087,Zoltán Gera,2005-2006
+57,tg Togo,1,1005,Emmanuel Adebayor,2005-2006
+58,mx Mexico,1,543,Jared Borgetti,2005-2006
+59,ec Ecuador,1,404,Ulises de la Cruz,2005-2006
+60,be Belgium,1,360,Nico Vaesen,2005-2006
+1,eng England,155,233333,Frank Lampard Andrew Johnson Emile Heskey Shaun Wright-Phillips Danny Murphy Wayne Routledge Stewart Downing Robbie Fowler Jermain Defoe Andy Cole ...,2004-2005
+2,fr France,33,51239,Thierry Henry Robert Pirès Patrick Vieira Claude Makélélé Antoine Sibierski Sylvain Distin Franck Queudrue Bruno N'Gotty Mikaël Silvestre Olivier Bernard ...,2004-2005
+3,ie Ireland,25,51094,Robbie Keane Kevin Kilbane Lee Carsley Rory Delap Damien Duff Richard Dunne Dean Kiely Shay Given Kenny Cunningham Matt Holland ...,2004-2005
+4,sco Scotland,19,21337,Paul Dickov David Weir Paul Telfer Dominic Matteo Duncan Ferguson Gary Holt Darren Fletcher Nigel Quashie Richard Hughes Dougie Freedman ...,2004-2005
+5,nl Netherlands,16,30405,Jimmy Floyd Hasselbaink Dennis Bergkamp Boudewijn Zenden Arjan de Zeeuw Mario Melchiot Edwin van der Sar George Boateng Arjen Robben Paul Bosvelt Patrick Kluivert ...,2004-2005
+6,wal Wales,13,22394,Gary Speed Ryan Giggs Mark Pembridge Robert Earnshaw Craig Bellamy Robbie Savage Mark Delaney Andy Johnson Simon Davies Ben Thatcher ...,2004-2005
+7,es Spain,12,16708,José Antonio Reyes Luis García Cesc Fàbregas Xabi Alonso Iván Campo Fernando Hierro Fernando Morientes Mikel Arteta Josemi Antonio Núñez ...,2004-2005
+8,dk Denmark,11,16441,Thomas Sørensen Thomas Gravesen Thomas Gaardsøe Henrik Pedersen Martin Albrechtsen Dennis Rommedahl Thomas Helveg Jesper Grønkjær Martin Laursen Claus Jensen ...,2004-2005
+9,au Australia,9,17849,Tim Cahill Brett Emerton Lucas Neill Mark Schwarzer Tony Popovic Harry Kewell Mark Viduka Stan Lazaridis Brad Jones,2004-2005
+10,nir Northern Ireland,9,16683,Maik Taylor Michael Hughes Damien Johnson Roy Carroll Steven Davis Aaron Hughes Philip Mulryne Paul McVeigh Alan Blayney,2004-2005
+11,se Sweden,9,16247,Freddie Ljungberg Olof Mellberg Erik Edman Anders Svensson Andreas Jakobsson Nils-Eric Johansson Mattias Jonson Mathias Svensson Mikael Nilsson,2004-2005
+12,pt Portugal,8,13718,Luís Boa Morte Cristiano Ronaldo Paulo Ferreira Tiago Mendes Ricardo Carvalho Pedro Mendes Ricardo Vaz Tê Nuno Morais,2004-2005
+13,sn Senegal,8,11036,El Hadji Diouf Papa Bouba Diop Amdy Faye Diomansy Kamara Henri Camara Aliou Cissé Salif Diao Khalilou Fadiga,2004-2005
+14,us United States,8,10806,Brad Friedel Carlos Bocanegra Brian McBride Claudio Reyna Tim Howard Kasey Keller Jonathan Spector Jemal Johnson,2004-2005
+15,fi Finland,7,14194,Jussi Jääskeläinen Sami Hyypiä Aki Riihilahti Antti Niemi Joonas Kolkka Jonatan Johansson Mikael Forssell,2004-2005
+16,ng Nigeria,7,11203,Yakubu Aiyegbeni Jay-Jay Okocha Nwankwo Kanu Shola Ameobi Joseph Yobo Celestine Babayaro Blessing Kaku,2004-2005
+17,jm Jamaica,6,10065,Damien Francis Ricardo Gardner Ricardo Fuller Kevin Lisbie Jason Euell Darren Moore,2004-2005
+18,cm Cameroon,6,6934,Lauren Joseph-Désiré Job Timothée Atouba Eric Djemba-Djemba Geremi Valéry Mézague,2004-2005
+19,de Germany,5,9437,Moritz Volz Dietmar Hamann Jens Lehmann Thomas Hitzlsperger Robert Huth,2004-2005
+20,cz Czech Republic,5,5986,Petr Čech Milan Baroš Jiří Jarošík Vladimír Šmicer Radek Černý,2004-2005
+21,br Brazil,5,3965,Doriva Gilberto Silva Edu Gaspar José Kléberson Júlio César,2004-2005
+22,no Norway,4,7780,John Arne Riise Claus Lundekvam Morten Gamst Pedersen Ronny Johnsen,2004-2005
+23,ci Ivory Coast,4,5546,Kolo Touré Didier Drogba Olivier Tébily Emmanuel Eboué,2004-2005
+24,tt Trinidad and Tobago,4,5120,Jlloyd Samuel Shaka Hislop Justin Hoyte Dwight Yorke,2004-2005
+25,za South Africa,4,4886,Shaun Bartlett Aaron Mokoena Quinton Fortune Mark Fish,2004-2005
+26,gr Greece,4,4294,Stelios Giannakopoulos Giannis Skopelitis Vasilis Lakis Kostas Chalkias,2004-2005
+27,it Italy,4,3541,Alessandro Pistone Lorenzo Amoruso Carlo Cudicini Nicola Ventola,2004-2005
+28,hu Hungary,3,5987,Zoltán Gera Gábor Király Sándor Torghelle,2004-2005
+29,ma Morocco,3,5908,Talal El Karkouri Noureddine Naybet Youssef Safri,2004-2005
+30,rs Serbia,3,3805,Dejan Stefanović Mateja Kežman Goran Bunjevčević,2004-2005
+31,ar Argentina,3,3739,Gabriel Heinze Mauricio Pellegrino Julián Speroni,2004-2005
+32,ch Switzerland,3,2937,Reto Ziegler Philippe Senderos Bernt Haas,2004-2005
+33,uy Uruguay,3,2414,Walter Pandiani Gonzalo Sorondo Diego Forlán,2004-2005
+34,gh Ghana,3,122,Quincy Owusu-Abeyie Elvis Hammond Lloyd Sam,2004-2005
+35,is Iceland,2,5468,Eiður Guðjohnsen Hermann Hreiðarsson,2004-2005
+36,ml Mali,2,3759,Frédéric Kanouté Djimi Traoré,2004-2005
+37,ec Ecuador,2,2919,Ulises de la Cruz Iván Kaviedes,2004-2005
+38,ca Canada,2,2811,Tomasz Radzinski Jim Brennan,2004-2005
+39,tn Tunisia,2,2443,Radhi Jaïdi Mehdi Nafti,2004-2005
+40,pl Poland,2,2408,Jerzy Dudek Tomasz Kuszczak,2004-2005
+41,ag Antigua and Barbuda,2,2244,Mikele Leigertwood Dexter Blackstock,2004-2005
+42,il Israel,2,2196,Tal Ben Haim Eyal Berkovic,2004-2005
+43,tr Turkey,2,2084,Tugay Kerimoğlu Muzzy Izzet,2004-2005
+44,sk Slovakia,2,1840,Szilárd Németh Vratislav Greško,2004-2005
+45,ro Romania,2,348,Cosmin Contra Adrian Mutu,2004-2005
+46,pe Peru,1,2788,Nolberto Solano,2004-2005
+47,co Colombia,1,2718,Juan Pablo Ángel,2004-2005
+48,bb Barbados,1,2342,Emmerson Boyce,2004-2005
+49,bg Bulgaria,1,2190,Radostin Kishishev,2004-2005
+50,cd Congo DR,1,1733,Lomana LuaLua,2004-2005
+51,pk Pakistan,1,1466,Zesh Rehman,2004-2005
+52,nz New Zealand,1,1350,Ryan Nelsen,2004-2005
+53,ru Russia,1,782,Alexey Smertin,2004-2005
+54,hr Croatia,1,728,Igor Bišćan,2004-2005
+55,be Belgium,1,391,Jelle Van Damme,2004-2005
+56,eg Egypt,1,381,Mido,2004-2005
+57,mk North Macedonia,1,178,Artim Šakiri,2004-2005
+58,jp Japan,1,119,Junichi Inamoto,2004-2005
+59,si Slovenia,1,118,Aleksandar Rodić,2004-2005
+1,eng England,159,245477,Alan Shearer Frank Lampard James Beattie Kevin Davies Alan Smith Michael Owen Andy Cole Kevin Phillips Kevin Nolan Gareth Barry ...,2003-2004
+2,fr France,44,65895,Thierry Henry Steed Malbranque Robert Pirès Nicolas Anelka Louis Saha Laurent Robert Sylvain Distin Olivier Bernard Bruno N'Gotty Youri Djorkaeff ...,2003-2004
+3,ie Ireland,34,62029,Robbie Keane Matt Holland Paul Butler Shay Given Gary Kelly Dean Kiely Kenny Cunningham Mark Kennedy Stephen Carr John O'Shea ...,2003-2004
+4,sco Scotland,27,30785,Paul Dickov Alex Rae Gary Naysmith Dominic Matteo Paul Telfer Colin Cameron Paul Gallagher Duncan Ferguson Kenny Miller Nigel Quashie ...,2003-2004
+5,wal Wales,15,21222,Ryan Giggs Gary Speed Robbie Savage Ben Thatcher Paul Jones Mark Delaney Simon Davies Craig Bellamy Mark Pembridge Nathan Blake ...,2003-2004
+6,nl Netherlands,13,23776,Ruud van Nistelrooy Jimmy Floyd Hasselbaink Arjan de Zeeuw Boudewijn Zenden Edwin van der Sar George Boateng Dennis Bergkamp Mario Melchiot Paul Bosvelt Collins John ...,2003-2004
+7,de Germany,9,17981,Michael Tarnat Jens Lehmann Thomas Hitzlsperger Moritz Volz Markus Babbel Dietmar Hamann Steffen Freund Robert Huth Christian Ziege,2003-2004
+8,au Australia,9,17463,Brett Emerton Harry Kewell Mark Viduka Mark Schwarzer Stan Lazaridis Lucas Neill Hayden Foxe Danny Tiatto Brad Jones,2003-2004
+9,nir Northern Ireland,9,11782,Damien Johnson Aaron Hughes Maik Taylor Gerry Taggart Keith Gillespie Mark Clyde Roy Carroll Chris Baird Alan Blayney,2003-2004
+10,jm Jamaica,9,6663,Jason Euell Ricardo Gardner Barry Hayles Frank Sinclair Kevin Lisbie Trevor Benjamin Jamal Campbell-Ryce Deon Burton Darren Pratley,2003-2004
+11,se Sweden,8,12578,Freddie Ljungberg Olof Mellberg Michael Svensson Tobias Linderoth Anders Svensson Marcus Allbäck Nils-Eric Johansson Mathias Svensson,2003-2004
+12,br Brazil,8,11475,Juninho Paulista Gilberto Silva Emerson Thome Edu Gaspar Doriva José Kléberson Roque Júnior Mário Jardel,2003-2004
+13,no Norway,8,9701,Claus Lundekvam John Arne Riise Ronny Johnsen Steffen Iversen Martin Andresen Ole Gunnar Solskjær Eirik Bakke Jo Tessem,2003-2004
+14,it Italy,8,9151,Paolo Di Canio Carlo Cudicini Massimo Maccarone Alessandro Pistone Lorenzo Amoruso Marco Ambrosio Dino Baggio Corrado Grabbi,2003-2004
+15,fi Finland,7,14708,Mikael Forssell Sami Hyypiä Jussi Jääskeläinen Antti Niemi Jonatan Johansson Petri Pasanen Peter Enckelman,2003-2004
+16,dk Denmark,7,14009,Thomas Sørensen Claus Jensen Thomas Gravesen Henrik Pedersen Jesper Grønkjær Per Frandsen Kevin Stuhr Ellegaard,2003-2004
+17,us United States,7,13053,Kasey Keller Brad Friedel Tim Howard Claudio Reyna Carlos Bocanegra Brian McBride Jovan Kirovski,2003-2004
+18,ng Nigeria,7,11579,Yakubu Aiyegbeni Jay-Jay Okocha Shola Ameobi Joseph Yobo Celestine Babayaro Isaac Okoronkwo Nwankwo Kanu,2003-2004
+19,pt Portugal,7,6053,Luís Boa Morte Cristiano Ronaldo Hélder Postiga Hugo Viana Silas Ricardo Vaz Tê Filipe Oliveira,2003-2004
+20,sn Senegal,6,7774,Henri Camara Amdy Faye El Hadji Diouf Lamine Sakho Aliou Cissé Salif Diao,2003-2004
+21,ar Argentina,6,4335,Mauricio Taricco Hernán Crespo Juan Sebastián Verón Facundo Sava Carlos Marinelli Luciano Figueroa,2003-2004
+22,tt Trinidad and Tobago,5,8829,Jlloyd Samuel Shaka Hislop Dwight Yorke Stern John Justin Hoyte,2003-2004
+23,cm Cameroon,5,7794,Lauren Joseph-Désiré Job Geremi Eric Djemba-Djemba Salomon Olembé,2003-2004
+24,za South Africa,5,5632,Mark Fish Quinton Fortune Shaun Bartlett Lucas Radebe Mbulelo Mabizela,2003-2004
+25,es Spain,4,6746,Iván Campo Gaizka Mendieta José Antonio Reyes Javi Moreno,2003-2004
+26,hr Croatia,4,4241,Igor Bišćan Boris Živković Ivica Mornar Mario Stanić,2003-2004
+27,tr Turkey,3,5871,Muzzy Izzet Tugay Kerimoğlu Alpay Özalan,2003-2004
+28,is Iceland,3,4980,Hermann Hreiðarsson Eiður Guðjohnsen Joey Guðjónsson,2003-2004
+29,cz Czech Republic,3,2076,Vladimír Šmicer Milan Baroš Pavel Srníček,2003-2004
+30,ci Ivory Coast,2,4737,Kolo Touré Olivier Tébily,2003-2004
+31,sk Slovakia,2,3508,Szilárd Németh Vratislav Greško,2003-2004
+32,gr Greece,2,3158,Stelios Giannakopoulos Nikos Dabizas,2003-2004
+33,rs Serbia,2,3138,Dejan Stefanović Goran Bunjevčević,2003-2004
+34,cn China PR,2,2960,Sun Jihai Li Tie,2003-2004
+35,ml Mali,2,2411,Frédéric Kanouté Djimi Traoré,2003-2004
+36,ro Romania,2,2398,Adrian Mutu Ionel Ganea,2003-2004
+37,uy Uruguay,2,2030,Diego Forlán Gus Poyet,2003-2004
+38,ec Ecuador,2,1893,Ulises de la Cruz Agustín Delgado,2003-2004
+39,gy Guyana,2,1171,Carl Cort Neil Danns,2003-2004
+40,gd Grenada,2,491,Jason Roberts Delroy Facey,2003-2004
+41,be Belgium,2,461,Daniel Van Buyten Jonathan Blondel,2003-2004
+42,ma Morocco,2,93,Hassan Kachloul Mustapha Hadji,2003-2004
+43,co Colombia,1,2770,Juan Pablo Ángel,2003-2004
+44,pl Poland,1,2687,Jerzy Dudek,2003-2004
+45,bg Bulgaria,1,2585,Radostin Kishishev,2003-2004
+46,ca Canada,1,2564,Tomasz Radzinski,2003-2004
+47,ru Russia,1,2066,Alexey Smertin,2003-2004
+48,pe Peru,1,1655,Nolberto Solano,2003-2004
+49,ch Switzerland,1,1401,Stéphane Henchoz,2003-2004
+50,jp Japan,1,1295,Junichi Inamoto,2003-2004
+51,cr Costa Rica,1,1195,Paulo Wanchope,2003-2004
+52,cd Congo DR,1,1165,Lomana LuaLua,2003-2004
+53,il Israel,1,961,Eyal Berkovic,2003-2004
+54,tg Togo,1,810,Yoann Folly,2003-2004
+55,gh Ghana,1,644,Alex Nyarko,2003-2004
+56,lv Latvia,1,584,Marians Pahars,2003-2004
+57,ua Ukraine,1,392,Oleh Luzhny,2003-2004
+58,cy Cyprus,1,91,Alexis Nicolas,2003-2004
+59,pk Pakistan,1,1,Zesh Rehman,2003-2004
+1,eng England,154,239285,James Beattie Michael Owen Alan Shearer Teddy Sheringham Paul Scholes Danny Murphy Trevor Sinclair Andy Cole Jermain Defoe Frank Lampard ...,2002-2003
+2,fr France,36,69341,Thierry Henry Nicolas Anelka Youri Djorkaeff Sylvain Wiltord Steed Malbranque Mikaël Silvestre William Gallas Sylvain Legwinski Fabrice Fernandes Robert Pirès ...,2002-2003
+3,ie Ireland,35,55799,Robbie Keane Damien Duff Shay Given Dean Kiely Jeff Kenna Steve Finnan Kevin Kilbane Clinton Morrison Stephen Carr Ian Harte ...,2002-2003
+4,sco Scotland,19,21603,David Weir Derek McInnes Paul Telfer Gary Naysmith Paul Devlin Christian Dailly Dominic Matteo Scott Dobie Steven Caldwell Scot Gemmill ...,2002-2003
+5,wal Wales,16,26261,Ryan Giggs Simon Davies Robbie Savage Craig Bellamy Jason Koumas Andy Johnson Andy Melville Gary Speed Mark Pembridge Paul Jones ...,2002-2003
+6,no Norway,13,20421,John Arne Riise Ole Gunnar Solskjær Claus Lundekvam Eirik Bakke Tore André Flo Ronny Johnsen Øyvind Leonhardsen Henning Berg Jo Tessem Egil Østenstad ...,2002-2003
+7,se Sweden,13,17522,Olof Mellberg Michael Svensson Anders Svensson Freddie Ljungberg Nils-Eric Johansson Joachim Björklund Marcus Allbäck Teddy Lučić Mathias Svensson Niclas Alexandersson ...,2002-2003
+8,dk Denmark,11,21178,Claus Jensen Thomas Gravesen Per Frandsen Henrik Pedersen Niclas Jensen Peter Schmeichel Jesper Grønkjær Thomas Sørensen Bjarne Goldbæk Stig Tøfting ...,2002-2003
+9,nl Netherlands,11,17098,Ruud van Nistelrooy Jimmy Floyd Hasselbaink Dennis Bergkamp Mario Melchiot George Boateng Edwin van der Sar Boudewijn Zenden Giovanni van Bronckhorst Stefan Postma Gerard Wiekens ...,2002-2003
+10,au Australia,10,17267,Harry Kewell Mark Viduka Mark Schwarzer Lucas Neill Stan Lazaridis Paul Okon Tony Vidmar Danny Tiatto Luke Wilkshire Jacob Burns,2002-2003
+11,nir Northern Ireland,9,15183,Aaron Hughes Damien Johnson Steve Lomas Kevin Horlock Maik Taylor George McCartney Keith Gillespie Roy Carroll Chris Baird,2002-2003
+12,jm Jamaica,8,11850,Jason Euell Kevin Lisbie Ricardo Gardner Darren Moore Barry Hayles Michael Johnson Darryl Powell Jermaine Johnson,2002-2003
+13,cm Cameroon,6,11681,Marc-Vivien Foé Geremi Joseph-Désiré Job Lauren Pierre Womé Lucien Mettomo,2002-2003
+14,it Italy,6,10633,Gianfranco Zola Massimo Maccarone Carlo Cudicini Paolo Di Canio Alessandro Pistone Corrado Grabbi,2002-2003
+15,ng Nigeria,6,8017,Jay-Jay Okocha Joseph Yobo Nwankwo Kanu Shola Ameobi Celestine Babayaro Ifeanyi Udeze,2002-2003
+16,de Germany,6,6932,Dietmar Hamann Thomas Hitzlsperger Steffen Freund Christian Ziege Robert Huth Markus Babbel,2002-2003
+17,ar Argentina,6,5750,Juan Sebastián Verón Mauricio Taricco Facundo Sava Julio Arca Carlos Marinelli Martín Herrera,2002-2003
+18,fi Finland,5,12784,Sami Hyypiä Jussi Jääskeläinen Peter Enckelman Antti Niemi Jonatan Johansson,2002-2003
+19,us United States,5,8760,Kasey Keller Brad Friedel Brian McBride Claudio Reyna Jovan Kirovski,2002-2003
+20,br Brazil,5,5215,Gilberto Silva Edu Gaspar Juninho Paulista Doriva Rodrigo Beckham,2002-2003
+21,es Spain,5,4906,Iván Campo Enrique de Lucas Raúl Bravo Albert Ferrer Salva Ballesta,2002-2003
+22,pt Portugal,5,3663,Luís Boa Morte Hugo Viana Abel Xavier Ricardo Filipe Oliveira,2002-2003
+23,is Iceland,4,7735,Eiður Guðjohnsen Guðni Bergsson Lárus Sigurðsson Joey Guðjónsson,2002-2003
+24,tt Trinidad and Tobago,4,7162,Dwight Yorke Jlloyd Samuel Stern John Justin Hoyte,2002-2003
+25,za South Africa,4,6086,Shaun Bartlett Mark Fish Lucas Radebe Quinton Fortune,2002-2003
+26,cz Czech Republic,4,5274,Tomáš Řepka Milan Baroš Vladimír Šmicer Patrik Berger,2002-2003
+27,sn Senegal,4,5052,El Hadji Diouf Aliou Cissé Salif Diao Ferdinand Coly,2002-2003
+28,sk Slovakia,4,4707,Igor Bališ Szilárd Németh Vratislav Greško Vladimír Labant,2002-2003
+29,tr Turkey,4,3890,Tugay Kerimoğlu Hakan Şükür Alpay Özalan Bülent Akın,2002-2003
+30,ma Morocco,4,2395,Abdeslam Ouaddou Talal El Karkouri Mustapha Hadji Tahar El Khalej,2002-2003
+31,hr Croatia,3,2407,Mario Stanić Alen Bokšić Igor Bišćan,2002-2003
+32,lv Latvia,3,694,Marians Pahars Igors Stepanovs Andrejs Štolcers,2002-2003
+33,ml Mali,2,3804,Djimi Traoré Frédéric Kanouté,2002-2003
+34,gd Grenada,2,2903,Jason Roberts Delroy Facey,2002-2003
+35,pl Poland,2,2738,Jerzy Dudek Piotr Świerczewski,2002-2003
+36,uy Uruguay,2,2697,Gus Poyet Diego Forlán,2002-2003
+37,be Belgium,2,2433,Nico Vaesen Jonathan Blondel,2002-2003
+38,dz Algeria,2,2389,Ali Benarbia Djamel Belmadi,2002-2003
+39,cn China PR,2,2315,Sun Jihai Li Tie,2002-2003
+40,ci Ivory Coast,2,1870,Kolo Touré Olivier Tébily,2002-2003
+41,ec Ecuador,2,1434,Ulises de la Cruz Agustín Delgado,2002-2003
+42,gr Greece,2,1159,Nikos Dabizas Stathis Tavlaridis,2002-2003
+43,jp Japan,2,992,Junichi Inamoto Kazuyuki Toda,2002-2003
+44,gy Guyana,2,49,Neil Danns Carl Cort,2002-2003
+45,rs Serbia,1,2747,Goran Bunjevčević,2002-2003
+46,ca Canada,1,2309,Tomasz Radzinski,2002-2003
+47,pe Peru,1,2295,Nolberto Solano,2002-2003
+48,bg Bulgaria,1,2206,Radostin Kishishev,2002-2003
+49,il Israel,1,2162,Eyal Berkovic,2002-2003
+50,ch Switzerland,1,1615,Stéphane Henchoz,2002-2003
+51,bm Bermuda,1,1315,Shaun Goater,2002-2003
+52,at Austria,1,1143,Jürgen Macho,2002-2003
+53,ua Ukraine,1,1064,Oleh Luzhny,2002-2003
+54,co Colombia,1,737,Juan Pablo Ángel,2002-2003
+55,si Slovenia,1,494,Milenko Ačimovič,2002-2003
+56,cd Congo DR,1,489,Lomana LuaLua,2002-2003
+57,gh Ghana,1,404,Elvis Hammond,2002-2003
+58,ee Estonia,1,360,Mart Poom,2002-2003
+59,cl Chile,1,150,Clarence Acuña,2002-2003
+60,gn Guinea,1,62,Titi Camara,2002-2003
+61,kn Saint Kitts and Nevis,1,52,Calum Willock,2002-2003
+62,xc Commonwealth of Independent States,1,34,Andrei Kanchelskis,2002-2003
+1,eng England,152,252500,Alan Shearer Kevin Phillips Matt Jansen Michael Owen Darius Vassell Teddy Sheringham David Beckham Frank Lampard Trevor Sinclair Danny Murphy ...,2001-2002
+2,fr France,37,61026,Thierry Henry Laurent Robert Robert Pirès Steed Malbranque Sylvain Wiltord Louis Saha Sébastien Schemmel Patrick Vieira Mikaël Silvestre Sylvain Legwinski ...,2001-2002
+3,ie Ireland,30,44687,Ian Harte Matt Holland Damien Duff Steve Finnan Shay Given Dean Kiely Roy Keane Andy O'Brien Steve Staunton Niall Quinn ...,2001-2002
+4,sco Scotland,22,37638,David Weir Christian Dailly Scot Gemmill Matt Elliott Callum Davidson John Collins Dominic Matteo Paul Telfer Neil Sullivan Robbie Stockdale ...,2001-2002
+5,wal Wales,15,23872,Ryan Giggs Robbie Savage Paul Jones Gary Speed Andy Melville Mark Delaney John Robinson Simon Davies Mark Crossley Mark Pembridge ...,2001-2002
+6,nl Netherlands,13,23254,Jimmy Floyd Hasselbaink Ruud van Nistelrooy Dennis Bergkamp George Boateng Mario Melchiot Edwin van der Sar Martijn Reuser Boudewijn Zenden Giovanni van Bronckhorst Fabian Wilnis ...,2001-2002
+7,no Norway,12,18453,Ole Gunnar Solskjær John Arne Riise Henning Berg Claus Lundekvam Eirik Bakke Stig Inge Bjørnebye Steffen Iversen Jo Tessem Ronny Johnsen Øyvind Leonhardsen ...,2001-2002
+8,dk Denmark,12,15587,Thomas Sørensen Per Frandsen Peter Schmeichel Thomas Gravesen Claus Jensen Jesper Grønkjær Bo Hansen Jacob Laursen Bjarne Goldbæk Henrik Pedersen ...,2001-2002
+9,it Italy,11,18521,Fabrizio Ravanelli Paolo Di Canio Benito Carbone Carlo Cudicini Gianfranco Zola Alessandro Pistone Samuele Dalla Bona Matteo Sereni Corrado Grabbi Gianluca Festa ...,2001-2002
+10,se Sweden,10,15456,Anders Svensson Freddie Ljungberg Niclas Alexandersson Olof Mellberg Stefan Schwarz Nils-Eric Johansson Joachim Björklund Jesper Blomqvist Mathias Svensson Tobias Linderoth,2001-2002
+11,au Australia,10,11233,Mark Viduka Harry Kewell Lucas Neill Mark Schwarzer Luke Wilkshire Mark Bosnich Hayden Foxe Paul Okon Richard Garcia Scott McDonald,2001-2002
+12,nir Northern Ireland,10,9613,Aaron Hughes Keith Gillespie Jim Magilton Steve Lomas Roy Carroll Damien Johnson George McCartney Maik Taylor Grant McCann Gerry Taggart,2001-2002
+13,jm Jamaica,9,15668,Jason Euell Barry Hayles Frank Sinclair Ricardo Gardner Darryl Powell Kevin Lisbie Deon Burton Trevor Benjamin Jermaine Johnson,2001-2002
+14,ar Argentina,8,11506,Juan Sebastián Verón Mauricio Taricco Julio Arca Luciano Zavagno Sixto Peralta Carlos Marinelli Horacio Carbonari Christian Bassedas,2001-2002
+15,fi Finland,7,10995,Sami Hyypiä Jussi Jääskeläinen Jonatan Johansson Jari Litmanen Mikael Forssell Peter Enckelman Simo Valakari,2001-2002
+16,de Germany,6,8188,Christian Ziege Dietmar Hamann Steffen Freund Fredi Bobic Uwe Rösler Markus Babbel,2001-2002
+17,us United States,6,6383,Brad Friedel Claudio Reyna Joe-Max Moore Kasey Keller Ian Feuer Eddie Lewis,2001-2002
+18,ng Nigeria,5,6000,Finidi George Ade Akinbiyi Celestine Babayaro Nwankwo Kanu Shola Ameobi,2001-2002
+19,is Iceland,4,8332,Eiður Guðjohnsen Hermann Hreiðarsson Guðni Bergsson Arnar Gunnlaugsson,2001-2002
+20,tr Turkey,4,7360,Tugay Kerimoğlu Muzzy Izzet Alpay Özalan Hakan Ünsal,2001-2002
+21,ma Morocco,4,4408,Mustapha Hadji Hassan Kachloul Tahar El Khalej Abdeslam Ouaddou,2001-2002
+22,hr Croatia,4,3770,Alen Bokšić Mario Stanić Igor Bišćan Boško Balaban,2001-2002
+23,cm Cameroon,4,3590,Lauren Patrick M'Boma Rigobert Song Joseph-Désiré Job,2001-2002
+24,cz Czech Republic,3,5226,Tomáš Řepka Vladimír Šmicer Patrik Berger,2001-2002
+25,pt Portugal,3,5040,Jorge Costa Abel Xavier Luís Boa Morte,2001-2002
+26,za South Africa,3,3601,Mark Fish Shaun Bartlett Quinton Fortune,2001-2002
+27,lv Latvia,3,3355,Marians Pahars Igors Stepanovs Andrejs Štolcers,2001-2002
+28,tt Trinidad and Tobago,3,3159,Jlloyd Samuel Shaka Hislop Dwight Yorke,2001-2002
+29,sk Slovakia,3,2460,Szilárd Németh Vladimír Labant Stanislav Varga,2001-2002
+30,ch Switzerland,2,5689,Stéphane Henchoz Bernt Haas,2001-2002
+31,gr Greece,2,3078,Nikos Dabizas Kostas Konstantinidis,2001-2002
+32,uy Uruguay,2,2869,Gus Poyet Diego Forlán,2001-2002
+33,co Colombia,2,2696,Juan Pablo Ángel Hamilton Ricard,2001-2002
+34,ua Ukraine,2,2302,Oleh Luzhny Serhiy Rebrov,2001-2002
+35,br Brazil,2,1776,Emerson Thome Edu Gaspar,2001-2002
+36,es Spain,2,607,Pablo Couñago Albert Ferrer,2001-2002
+37,bg Bulgaria,2,235,Svetoslav Todorov Radostin Kishishev,2001-2002
+38,pe Peru,1,3158,Nolberto Solano,2001-2002
+39,pl Poland,1,3115,Jerzy Dudek,2001-2002
+40,ml Mali,1,2196,Frédéric Kanouté,2001-2002
+41,ca Canada,1,2106,Tomasz Radzinski,2001-2002
+42,ee Estonia,1,1472,Mart Poom,2001-2002
+43,cg Congo,1,1469,Youl Mawéné,2001-2002
+44,ge Georgia,1,1398,Georgi Kinkladze,2001-2002
+45,cl Chile,1,978,Clarence Acuña,2001-2002
+46,be Belgium,1,666,Branko Strupar,2001-2002
+47,cd Congo DR,1,584,Lomana LuaLua,2001-2002
+48,gy Guyana,1,446,Carl Cort,2001-2002
+49,rs Serbia,1,417,Goran Bunjevčević,2001-2002
+50,at Austria,1,360,Jürgen Macho,2001-2002
+51,il Israel,1,192,Idan Tal,2001-2002
+52,ec Ecuador,1,65,Agustín Delgado,2001-2002
+53,ro Romania,1,55,Dan Petrescu,2001-2002
+54,sc Seychelles,1,6,Kevin Betsy,2001-2002
+1,eng England,174,274381,Kevin Phillips David Beckham Lee Bowyer Paul Merson Emile Heskey Graham Stuart Alan Smith Teddy Sheringham Dennis Wise Steve Howey ...,2000-2001
+2,sco Scotland,34,42544,Don Hutchison David Weir Stuart McCall Matt Elliott Neil Sullivan Gary McAllister Paul Telfer Dominic Matteo Scot Gemmill Craig Burley ...,2000-2001
+3,ie Ireland,30,52433,Matt Holland Ian Harte Niall Quinn Rory Delap Roy Keane Shay Given Kevin Kilbane Stephen Carr Mark Kinsella Gary Breen ...,2000-2001
+4,fr France,23,36125,Thierry Henry Patrick Vieira Robert Pirès Olivier Dacourt Christian Karembeu Marcel Desailly Sylvain Wiltord Fabien Barthez Gilles Grimandi Laurent Charvet ...,2000-2001
+5,no Norway,17,20482,Alf-Inge Håland Claus Lundekvam Ole Gunnar Solskjær Jo Tessem Øyvind Leonhardsen Eirik Bakke Steffen Iversen Bjørn Otto Bragstad Tore André Flo Gunnar Halle ...,2000-2001
+6,nl Netherlands,16,25077,Jimmy Floyd Hasselbaink Sander Westerveld Gerard Wiekens Mario Melchiot George Boateng Fabian Wilnis Dennis Bergkamp Martijn Reuser Robert Molenaar Jaap Stam ...,2000-2001
+7,wal Wales,15,21551,Gary Speed Ryan Giggs Robbie Savage Paul Jones John Robinson Mark Pembridge John Hartson Mark Delaney Simon Davies Matt Jones ...,2000-2001
+8,nir Northern Ireland,12,16666,Jim Magilton Aaron Hughes Jeff Whitley Gerry Taggart Steve Lomas Neil Lennon Ian Nolan Kevin Horlock Owen Morrison Aidan Davison ...,2000-2001
+9,it Italy,11,18048,Paolo Di Canio Gianfranco Zola Benito Carbone Samuele Dalla Bona Stefano Eranio Carlo Cudicini Gianluca Festa Roberto Di Matteo Christian Panucci Alessandro Pistone ...,2000-2001
+10,au Australia,11,14495,Mark Viduka Danny Tiatto Mark Schwarzer Paul Okon Harry Kewell John Aloisi Saša Ilić Hayden Foxe Jacob Burns Con Blatsis ...,2000-2001
+11,de Germany,8,9591,Markus Babbel Dietmar Hamann Steffen Freund Christian Ziege Uwe Rösler Stefan Schnoor Stefan Malz Thomas Hitzlsperger,2000-2001
+12,jm Jamaica,7,9138,Deon Burton Darryl Powell Jamie Lawrence Frank Sinclair Trevor Benjamin David Johnson Kevin Lisbie,2000-2001
+13,se Sweden,7,8022,Freddie Ljungberg Mathias Svensson Stefan Schwarz Niclas Alexandersson Magnus Hedman Martin Pringle Bojan Djordjic,2000-2001
+14,ar Argentina,7,7983,Julio Arca Horacio Carbonari Christian Bassedas Daniel Cordone Nelson Vivas Carlos Marinelli Mauricio Taricco,2000-2001
+15,ng Nigeria,5,8513,Ade Akinbiyi Celestine Babayaro Nwankwo Kanu Taribo West Shola Ameobi,2000-2001
+16,fi Finland,5,7275,Jonatan Johansson Sami Hyypiä Simo Valakari Jari Litmanen Hannu Tihinen,2000-2001
+17,za South Africa,5,5699,Shaun Bartlett Mark Fish Lucas Radebe Quinton Fortune Paul Evans,2000-2001
+18,hr Croatia,5,5603,Alen Bokšić Igor Štimac Davor Šuker Mario Stanić Igor Bišćan,2000-2001
+19,dk Denmark,4,9527,Claus Jensen Thomas Gravesen Thomas Sørensen Jesper Grønkjær,2000-2001
+20,ma Morocco,4,8882,Hassan Kachloul Mustapha Hadji Tahar El Khalej Youssef Chippo,2000-2001
+21,is Iceland,4,5516,Hermann Hreiðarsson Eiður Guðjohnsen Arnar Gunnlaugsson Þórður Guðjónsson,2000-2001
+22,be Belgium,4,2082,Branko Strupar Cédric Roussel Gilles De Bilde Luc Nilis,2000-2001
+23,br Brazil,3,4981,Emerson Thome Sylvinho Edu Gaspar,2000-2001
+24,tt Trinidad and Tobago,3,4590,Shaka Hislop Dwight Yorke Jlloyd Samuel,2000-2001
+25,cm Cameroon,3,3830,Rigobert Song Lauren Joseph-Désiré Job,2000-2001
+26,lv Latvia,3,3155,Marians Pahars Igors Stepanovs Imants Bleidelis,2000-2001
+27,tr Turkey,2,5092,Muzzy Izzet Alpay Özalan,2000-2001
+28,ua Ukraine,2,3825,Serhiy Rebrov Oleh Luzhny,2000-2001
+29,ch Switzerland,2,3612,Stéphane Henchoz Ramon Vega,2000-2001
+30,pe Peru,2,3375,Nolberto Solano Ysrael Zúñiga,2000-2001
+31,ml Mali,2,3356,Frédéric Kanouté Djimi Traoré,2000-2001
+32,bg Bulgaria,2,2517,Radostin Kishishev Svetoslav Todorov,2000-2001
+33,cz Czech Republic,2,2405,Vladimír Šmicer Patrik Berger,2000-2001
+34,co Colombia,2,2296,Hamilton Ricard Juan Pablo Ángel,2000-2001
+35,cl Chile,2,2216,Clarence Acuña Javier Margas,2000-2001
+36,es Spain,2,1452,Albert Ferrer Marcelino Elena,2000-2001
+37,at Austria,2,1392,Alex Manninger Jürgen Macho,2000-2001
+38,ge Georgia,2,1384,Georgi Kinkladze Rati Aleksidze,2000-2001
+39,us United States,2,1140,Joe-Max Moore Steve Potts,2000-2001
+40,gn Guinea,2,970,Kaba Diawara Titi Camara,2000-2001
+41,pt Portugal,2,906,Abel Xavier José Dominguez,2000-2001
+42,ca Canada,2,373,Craig Forrest Terry Dunfield,2000-2001
+43,ee Estonia,1,2960,Mart Poom,2000-2001
+44,cr Costa Rica,1,2203,Paulo Wanchope,2000-2001
+45,uy Uruguay,1,2017,Gus Poyet,2000-2001
+46,ro Romania,1,1965,Dan Petrescu,2000-2001
+47,bm Bermuda,1,1747,Shaun Goater,2000-2001
+48,gh Ghana,1,1665,Alex Nyarko,2000-2001
+49,il Israel,1,1119,Idan Tal,2000-2001
+50,gy Guyana,1,1098,Carl Cort,2000-2001
+51,sk Slovakia,1,811,Stanislav Varga,2000-2001
+52,gr Greece,1,765,Nikos Dabizas,2000-2001
+53,yu Yugoslavia,1,761,Slaviša Jokanović,2000-2001
+54,xc Commonwealth of Independent States,1,678,Andrei Kanchelskis,2000-2001
+55,cd Congo DR,1,582,Lomana LuaLua,2000-2001
+56,ba Bosnia and Herzegovina,1,579,Muhamed Konjić,2000-2001
+57,cg Congo,1,578,Youl Mawéné,2000-2001
+58,lr Liberia,1,475,George Weah,2000-2001
+59,nz New Zealand,1,299,Danny Hay,2000-2001
+60,hn Honduras,1,227,Iván Guerrero,2000-2001
+61,lt Lithuania,1,37,Tomas Danilevičius,2000-2001
+62,ir Iran,1,18,Karim Bagheri,2000-2001
+63,py Paraguay,1,5,Diego Gavilán,2000-2001
+1,eng England,170,264385,Kevin Phillips Alan Shearer Carlton Palmer Nick Barmby David Beckham Trevor Sinclair Michael Bridges Andy Cole Frank Lampard Kevin Campbell ...,1999-2000
+2,ie Ireland,29,48021,Niall Quinn Rory Delap Robbie Keane Ian Harte Stephen Carr Kenny Cunningham Andy O'Brien Roy Keane Thomas Butler Gary Kelly ...,1999-2000
+3,sco Scotland,29,43120,Gary McAllister Matt Elliott Don Hutchison David Weir Neil Sullivan Stuart McCall John Collins Dominic Matteo Richard Gough Alex Rae ...,1999-2000
+4,no Norway,22,30857,Steffen Iversen Gunnar Halle Trond Andersen Ole Gunnar Solskjær Tore André Flo Eirik Bakke Claus Lundekvam Jo Tessem Øyvind Leonhardsen Trond Egil Soltvedt ...,1999-2000
+5,fr France,21,32145,Thierry Henry David Ginola Patrick Vieira Emmanuel Petit Mikaël Silvestre Frank Leboeuf Gilles Grimandi Didier Domi Didier Deschamps Marcel Desailly ...,1999-2000
+6,wal Wales,18,29230,Gary Speed Ryan Giggs Rob Page Mark Pembridge Robbie Savage Mark Hughes Dean Saunders Paul Jones Mark Delaney John Hartson ...,1999-2000
+7,nl Netherlands,15,24192,Wim Jonk Ed de Goey Marc Overmars Sander Westerveld Dennis Bergkamp Jaap Stam George Boateng Gerald Sibon Nordin Wooter Raimond van der Gouw ...,1999-2000
+8,it Italy,12,15147,Paolo Di Canio Gianfranco Zola Benito Carbone Gianluca Festa Roberto Di Matteo Stefano Eranio Alessandro Pistone Gabriele Ambrosetti Francesco Baiano Massimo Taibi ...,1999-2000
+9,nir Northern Ireland,11,18867,Neil Lennon Gerry Taggart Ian Nolan Steve Lomas Aaron Hughes Peter Kennedy Mark Williams Danny Sonner Michael Hughes Aidan Davison ...,1999-2000
+10,jm Jamaica,9,19759,Marcus Gayle Jason Euell Micah Hyde Darryl Powell Frank Sinclair Robbie Earle Jamie Lawrence Deon Burton Damien Francis,1999-2000
+11,de Germany,7,9239,Christian Ziege Dietmar Hamann Steffen Freund Stefan Schnoor Stefan Malz Thomas Helmer Karl-Heinz Riedle,1999-2000
+12,dk Denmark,7,8457,Thomas Sørensen Jacob Laursen Mikkel Beck Jes Høgh Allan Nielsen Bjarne Goldbæk Carsten Fredgaard,1999-2000
+13,pt Portugal,7,3593,Abel Xavier Hélder Luís Boa Morte José Dominguez Jorge Cadete Dani Rodrigues Marco Almeida,1999-2000
+14,au Australia,6,10576,Harry Kewell Mark Schwarzer Richard Johnson Mark Bosnich John Aloisi Saša Ilić,1999-2000
+15,se Sweden,5,11119,Niclas Alexandersson Magnus Hedman Stefan Schwarz Freddie Ljungberg Tomas Antonelius,1999-2000
+16,ar Argentina,5,5964,Mauricio Taricco Horacio Carbonari Esteban Fuertes Nelson Vivas Carlos Marinelli,1999-2000
+17,ma Morocco,4,9117,Mustapha Hadji Youssef Chippo Hassan Kachloul Tahar El Khalej,1999-2000
+18,br Brazil,4,7537,Emerson Thome Juninho Paulista Sylvinho Pilo,1999-2000
+19,be Belgium,4,5833,Gilles De Bilde Cédric Roussel Branko Strupar Adrian Bakalli,1999-2000
+20,is Iceland,4,3758,Hermann Hreiðarsson Heiðar Helguson Jóhann Berg Guðmundsson Arnar Gunnlaugsson,1999-2000
+21,us United States,4,2842,Joe-Max Moore Steve Potts Ian Feuer Brad Friedel,1999-2000
+22,cz Czech Republic,3,5819,Patrik Berger Pavel Srníček Vladimír Šmicer,1999-2000
+23,tt Trinidad and Tobago,3,4993,Dwight Yorke Shaka Hislop Jlloyd Samuel,1999-2000
+24,gr Greece,3,3920,Nikos Dabizas Theodoros Zagorakis Vassilios Borbokis,1999-2000
+25,hr Croatia,3,3477,Igor Štimac Davor Šuker Silvio Marić,1999-2000
+26,il Israel,3,1418,Walid Badir Avi Nimni Najwan Ghrayib,1999-2000
+27,fi Finland,2,4225,Sami Hyypiä Peter Enckelman,1999-2000
+28,ng Nigeria,2,4216,Nwankwo Kanu Celestine Babayaro,1999-2000
+29,cm Cameroon,2,3520,Marc-Vivien Foé Rigobert Song,1999-2000
+30,za South Africa,2,3068,Lucas Radebe Quinton Fortune,1999-2000
+31,es Spain,2,2979,Albert Ferrer Marcelino Elena,1999-2000
+32,ch Switzerland,2,2829,Stéphane Henchoz Ramon Vega,1999-2000
+33,pe Peru,2,2730,Nolberto Solano Ysrael Zúñiga,1999-2000
+34,ge Georgia,2,2469,Georgi Kinkladze Temur Ketsbaia,1999-2000
+35,at Austria,2,1320,Alex Manninger Martin Hiden,1999-2000
+36,cr Costa Rica,1,2932,Paulo Wanchope,1999-2000
+37,gy Guyana,1,2869,Carl Cort,1999-2000
+38,lv Latvia,1,2778,Marians Pahars,1999-2000
+39,tr Turkey,1,2688,Muzzy Izzet,1999-2000
+40,ee Estonia,1,2520,Mart Poom,1999-2000
+41,co Colombia,1,2361,Hamilton Ricard,1999-2000
+42,uy Uruguay,1,2347,Gus Poyet,1999-2000
+43,ro Romania,1,1989,Dan Petrescu,1999-2000
+44,gn Guinea,1,1977,Titi Camara,1999-2000
+45,ua Ukraine,1,1508,Oleh Luzhny,1999-2000
+46,cd Congo DR,1,1343,Michel Ngonge,1999-2000
+47,cl Chile,1,1340,Javier Margas,1999-2000
+48,ca Canada,1,937,Craig Forrest,1999-2000
+49,lr Liberia,1,876,George Weah,1999-2000
+50,ml Mali,1,720,Frédéric Kanouté,1999-2000
+51,ba Bosnia and Herzegovina,1,243,Muhamed Konjić,1999-2000
+52,py Paraguay,1,212,Diego Gavilán,1999-2000
+53,ms Montserrat,1,98,Ruel Fox,1999-2000
+1,eng England,174,282555,Steve Guppy Michael Owen Julian Joachim David Beckham Frank Lampard Andy Cole Dion Dublin Darren Anderton Alan Shearer Jamie Redknapp ...,1998-1999
+2,sco Scotland,32,44837,Matt Elliott Don Hutchison David Hopkin Neil Sullivan Callum Davidson Gary McAllister Paul Telfer Dougie Freedman Scot Gemmill Duncan Ferguson ...,1998-1999
+3,fr France,27,34449,Nicolas Anelka David Ginola Patrick Vieira Frank Leboeuf Emmanuel Petit Laurent Charvet Olivier Dacourt Marcel Desailly Thierry Bonalair Marc Keller ...,1998-1999
+4,ie Ireland,26,45559,Ian Harte Mark Kinsella Stephen Carr Andy Townsend Kenny Cunningham Roy Keane Shay Given Denis Irwin Lee Carsley Steve Staunton ...,1998-1999
+5,no Norway,20,34907,Petter Rudi Thomas Myhre Egil Østenstad Tore André Flo Steffen Iversen Lars Bohinen Claus Lundekvam Vegard Heggem Alf-Inge Håland Trond Egil Soltvedt ...,1998-1999
+6,wal Wales,17,22736,Gary Speed John Hartson Ben Thatcher Paul Jones John Robinson Robbie Savage Ryan Giggs Nathan Blake Mark Crossley Ceri Hughes ...,1998-1999
+7,it Italy,17,19858,Gianfranco Zola Benito Carbone Roberto Di Matteo Gianluca Festa Paolo Di Canio Marco Materazzi Stefano Eranio Francesco Baiano Gianluca Vialli Pierluigi Casiraghi ...,1998-1999
+8,nl Netherlands,15,27204,Jimmy Floyd Hasselbaink Dennis Bergkamp Marc Overmars Wim Jonk George Boateng Ed de Goey Jaap Stam Pierre van Hooijdonk Ken Monkou Robert Molenaar ...,1998-1999
+9,nir Northern Ireland,10,15808,Neil Lennon Michael Hughes Steve Lomas Danny Sonner Keith Gillespie Damien Johnson Aaron Hughes Gerry Taggart Alan Fettis Jim Magilton,1998-1999
+10,se Sweden,10,15133,Magnus Hedman Niclas Alexandersson Roland Nilsson Jesper Blomqvist Martin Pringle Pontus Kåmark Andreas Andersson Freddie Ljungberg Jesper Mattsson Martin Dahlin,1998-1999
+11,au Australia,9,14265,Harry Kewell Mark Schwarzer John Filan Saša Ilić John Aloisi Mark Bosnich Stan Lazaridis Andy Petterson Chris Coyne,1998-1999
+12,jm Jamaica,8,17498,Marcus Gayle Robbie Earle Jason Euell Darryl Powell Frank Sinclair Michael Johnson Deon Burton Kevin Lisbie,1998-1999
+13,dk Denmark,7,12239,Jacob Laursen Peter Schmeichel Allan Nielsen Mikkel Beck Bjarne Goldbæk Brian Laudrup Peter Degn,1998-1999
+14,de Germany,5,6801,Dietmar Hamann Karl-Heinz Riedle Stefan Schnoor Steffen Freund Sean Dundee,1998-1999
+15,ar Argentina,5,5328,Horacio Carbonari Nelson Vivas Mauricio Taricco Juan Cobián Fabián Caballero,1998-1999
+16,us United States,4,5555,Kasey Keller Brad Friedel Steve Potts John Harkes,1998-1999
+17,gr Greece,4,4463,Nikos Dabizas Theodoros Zagorakis Georgios Georgiadis Vassilios Borbokis,1998-1999
+18,pt Portugal,4,1497,Bruno Ribeiro Hugo Porfírio José Dominguez Luís Boa Morte,1998-1999
+19,ng Nigeria,3,3913,Celestine Babayaro Efan Ekoku Nwankwo Kanu,1998-1999
+20,hr Croatia,3,2189,Igor Štimac Silvio Marić Slaven Bilić,1998-1999
+21,tt Trinidad and Tobago,2,6206,Dwight Yorke Shaka Hislop,1998-1999
+22,cz Czech Republic,2,4721,Patrik Berger Pavel Srníček,1998-1999
+23,ch Switzerland,2,4070,Stéphane Henchoz Ramon Vega,1998-1999
+24,cm Cameroon,2,2054,Marc-Vivien Foé Rigobert Song,1998-1999
+25,at Austria,2,1735,Martin Hiden Alex Manninger,1998-1999
+26,be Belgium,2,877,Philippe Clement Philippe Albert,1998-1999
+27,br Brazil,1,3272,Emerson Thome,1998-1999
+28,cr Costa Rica,1,3021,Paulo Wanchope,1998-1999
+29,co Colombia,1,2701,Hamilton Ricard,1998-1999
+30,tr Turkey,1,2690,Muzzy Izzet,1998-1999
+31,es Spain,1,2679,Albert Ferrer,1998-1999
+32,za South Africa,1,2537,Lucas Radebe,1998-1999
+33,il Israel,1,2358,Eyal Berkovic,1998-1999
+34,ro Romania,1,2160,Dan Petrescu,1998-1999
+35,pe Peru,1,1968,Nolberto Solano,1998-1999
+36,uy Uruguay,1,1903,Gus Poyet,1998-1999
+37,ma Morocco,1,1643,Hassan Kachloul,1998-1999
+38,ms Montserrat,1,1512,Ruel Fox,1998-1999
+39,ci Ivory Coast,1,1439,Ibrahima Bakayoko,1998-1999
+40,ee Estonia,1,1401,Mart Poom,1998-1999
+41,ge Georgia,1,1325,Temur Ketsbaia,1998-1999
+42,rs Serbia,1,801,Dejan Stefanović,1998-1999
+43,gy Guyana,1,652,Carl Cort,1998-1999
+44,lr Liberia,1,413,Christopher Wreh,1998-1999
+45,is Iceland,1,403,Arnar Gunnlaugsson,1998-1999
+46,lv Latvia,1,358,Marians Pahars,1998-1999
+47,fi Finland,1,349,Mikael Forssell,1998-1999
+48,gn Guinea,1,313,Kaba Diawara,1998-1999
+49,ba Bosnia and Herzegovina,1,286,Muhamed Konjić,1998-1999
+50,cl Chile,1,270,Javier Margas,1998-1999
+51,sk Slovakia,1,140,Vladimír Kinder,1998-1999
+52,ca Canada,1,123,Craig Forrest,1998-1999
+53,dz Algeria,1,104,Moussa Saïb,1998-1999
+54,xc Commonwealth of Independent States,1,90,Dmitri Kharine,1998-1999
+55,gh Ghana,1,41,Junior Agogo,1998-1999
+1,eng England,145,270282,Michael Owen Chris Sutton Dion Dublin David Beckham Steve McManaman Andy Cole Emile Heskey Alan Thompson Steve Guppy Teddy Sheringham ...,1997-1998
+2,sco Scotland,25,41100,Kevin Gallacher Matt Elliott Duncan Ferguson Paul Telfer Neil Sullivan Colin Hendry Christian Dailly Dominic Matteo David Robertson Colin Calderwood ...,1997-1998
+3,ie Ireland,23,41324,Jeff Kenna Gary Kelly Stephen Carr Lee Carsley Kenny Cunningham Keith Branagan Gary Breen Steve Staunton Denis Irwin Shay Given ...,1997-1998
+4,no Norway,21,34413,Alf-Inge Håland Egil Østenstad Øyvind Leonhardsen Tore André Flo Gunnar Halle Claus Lundekvam Trond Egil Soltvedt Henning Berg Stig Inge Bjørnebye Ole Gunnar Solskjær ...,1997-1998
+5,wal Wales,19,35405,John Hartson Nathan Blake Ryan Giggs Gary Speed Mark Hughes Paul Jones Darren Barnard Mark Pembridge Robbie Savage Ben Thatcher ...,1997-1998
+6,fr France,16,22516,David Ginola Frank Leboeuf Emmanuel Petit Patrick Vieira Nicolas Anelka Samassi Abou Mickaël Madar Gilles Grimandi Patrick Valéry Valérien Ismaël ...,1997-1998
+7,nl Netherlands,13,19812,Dennis Bergkamp Jimmy Floyd Hasselbaink Marc Overmars Ken Monkou Arjan de Zeeuw Ed de Goey Robert Molenaar George Boateng Robin van der Laan Raimond van der Gouw ...,1997-1998
+8,nir Northern Ireland,10,18449,Neil Lennon Michael Hughes Steve Lomas Keith Gillespie Ian Nolan Jim Magilton Gerry Taggart Iain Dowie Alan Fettis Keith Rowland,1997-1998
+9,it Italy,9,18484,Paolo Di Canio Benito Carbone Roberto Di Matteo Gianfranco Zola Gianluca Vialli Alessandro Pistone Attilio Lombardo Stefano Eranio Nicola Berti,1997-1998
+10,dk Denmark,8,13519,Per Frandsen Peter Schmeichel Allan Nielsen Jacob Laursen Jon Dahl Tomasson Michael Johansen Marc Rieper Claus Thomsen,1997-1998
+11,se Sweden,8,10549,Pontus Kåmark Roland Nilsson Martin Dahlin Magnus Hedman Tomas Brolin Peter Markstedt Niclas Alexandersson Andreas Andersson,1997-1998
+12,jm Jamaica,7,9370,Robbie Earle Marcus Gayle Frank Sinclair Deon Burton Jason Euell Darryl Powell Darren Byfield,1997-1998
+13,au Australia,7,9335,Harry Kewell Stan Lazaridis Mark Bosnich Kevin Muscat John Filan Robbie Slater Carl Veart,1997-1998
+14,pt Portugal,5,5572,Bruno Ribeiro Fernando Nélson José Dominguez Luís Boa Morte Paulo Alves,1997-1998
+15,rs Serbia,4,5157,Savo Milošević Dejan Stefanović Jovo Bosančić Saša Ćurčić,1997-1998
+16,cz Czech Republic,4,2406,Luděk Mikloško Patrik Berger Karel Poborský Pavel Srníček,1997-1998
+17,za South Africa,3,5982,Lucas Radebe Mark Fish Eric Tinkler,1997-1998
+18,is Iceland,3,5821,Guðni Bergsson Hermann Hreiðarsson Arnar Gunnlaugsson,1997-1998
+19,us United States,3,5328,Kasey Keller Steve Potts Brad Friedel,1997-1998
+20,tt Trinidad and Tobago,3,4718,Dwight Yorke Shaka Hislop Clint Marcelle,1997-1998
+21,de Germany,3,3632,Jürgen Klinsmann Karl-Heinz Riedle Lars Leese,1997-1998
+22,ch Switzerland,2,5123,Stéphane Henchoz Ramon Vega,1997-1998
+23,hr Croatia,2,3880,Igor Štimac Slaven Bilić,1997-1998
+24,br Brazil,2,3082,Fernando Baiano Emerson Thome,1997-1998
+25,il Israel,2,3041,Eyal Berkovic Itzik Zohar,1997-1998
+26,ro Romania,2,2885,Dan Petrescu Viorel Moldovan,1997-1998
+27,gr Greece,2,1958,Theodoros Zagorakis Nikos Dabizas,1997-1998
+28,ng Nigeria,2,1683,Efan Ekoku Celestine Babayaro,1997-1998
+29,at Austria,2,1589,Martin Hiden Alex Manninger,1997-1998
+30,ee Estonia,1,3240,Mart Poom,1997-1998
+31,tr Turkey,1,3119,Muzzy Izzet,1997-1998
+32,ms Montserrat,1,2706,Ruel Fox,1997-1998
+33,cr Costa Rica,1,2659,Paulo Wanchope,1997-1998
+34,be Belgium,1,1819,Philippe Albert,1997-1998
+35,ge Georgia,1,1649,Temur Ketsbaia,1997-1998
+36,gy Guyana,1,1484,Carl Cort,1997-1998
+37,ca Canada,1,1170,Craig Forrest,1997-1998
+38,mk North Macedonia,1,1144,Gjorgji Hristov,1997-1998
+39,uy Uruguay,1,1091,Gus Poyet,1997-1998
+40,xc Commonwealth of Independent States,1,900,Dmitri Kharine,1997-1998
+41,si Slovenia,1,895,Aleš Križan,1997-1998
+42,co Colombia,1,703,Faustino Asprilla,1997-1998
+43,lr Liberia,1,702,Christopher Wreh,1997-1998
+44,dz Algeria,1,317,Moussa Saïb,1997-1998
+45,bm Bermuda,1,200,Kyle Lightbourne,1997-1998
+1,eng England,159,282784,Alan Shearer Ian Wright Robbie Fowler Steve McManaman Les Ferdinand Dion Dublin Emile Heskey David Beckham Neal Ardley Tim Sherwood ...,1996-1997
+2,sco Scotland,27,47888,Gary McAllister Duncan Ferguson Kevin Gallacher Colin Hendry Neil Sullivan Christian Dailly Paul Telfer Colin Calderwood Steve Clarke Craig Burley ...,1996-1997
+3,ie Ireland,25,41623,Andy Townsend Jason McAteer Gary Kelly Jeff Kenna Kenny Cunningham Steve Staunton Denis Irwin Curtis Fleming Stephen Carr Paul McGrath ...,1996-1997
+4,wal Wales,20,43190,Mark Hughes Gary Speed Mark Pembridge Ian Rush John Hartson Dean Saunders Neville Southall Mark Crossley Ryan Giggs Andy Melville ...,1996-1997
+5,no Norway,16,30971,Stig Inge Bjørnebye Ole Gunnar Solskjær Egil Østenstad Henning Berg Alf-Inge Håland Øyvind Leonhardsen Claus Lundekvam Ronny Johnsen Steffen Iversen Lars Bohinen ...,1996-1997
+6,nir Northern Ireland,13,20838,Ian Nolan Neil Lennon Michael Hughes Jim Magilton Keith Gillespie Iain Dowie Maik Taylor Keith Rowland Steve Lomas Steve Morrow ...,1996-1997
+7,nl Netherlands,13,14211,Dennis Bergkamp Ulrich van Gobbel Regi Blinker Robin van der Laan Jordi Cruyff Orlando Trustfull Robert Molenaar Bryan Roy Pierre van Hooijdonk Ron Willems ...,1996-1997
+8,dk Denmark,7,14086,Jacob Laursen Peter Schmeichel Mikkel Beck Allan Nielsen Marc Rieper Claus Thomsen Per Pedersen,1996-1997
+9,jm Jamaica,7,10958,Marcus Gayle Robbie Earle Darryl Powell Frank Sinclair Jason Euell Jamie Lawrence Fitzroy Simpson,1996-1997
+10,fr France,6,13143,Eric Cantona Patrick Vieira Frank Leboeuf Lionel Pérez David Ginola Rémi Garde,1996-1997
+11,it Italy,6,13129,Fabrizio Ravanelli Gianfranco Zola Roberto Di Matteo Gianluca Vialli Benito Carbone Gianluca Festa,1996-1997
+12,au Australia,5,5507,Robbie Slater Stan Lazaridis Mark Bosnich Mark Schwarzer Steve Mautone,1996-1997
+13,hr Croatia,4,9101,Aljoša Asanović Slaven Bilić Igor Štimac Nikola Jerkan,1996-1997
+14,cz Czech Republic,4,7819,Luděk Mikloško Patrik Berger Pavel Srníček Karel Poborský,1996-1997
+15,rs Serbia,3,6345,Savo Milošević Dejan Stefanović Saša Ćurčić,1996-1997
+16,pt Portugal,3,5013,Fernando Nélson Hugo Porfírio Paulo Futre,1996-1997
+17,br Brazil,2,5833,Juninho Paulista Emerson,1996-1997
+18,tt Trinidad and Tobago,2,4632,Dwight Yorke Shaka Hislop,1996-1997
+19,us United States,2,4290,Kasey Keller Steve Potts,1996-1997
+20,ro Romania,2,3575,Dan Petrescu Florin Răducioiu,1996-1997
+21,il Israel,2,2837,Eyal Berkovic Ronny Rosenthal,1996-1997
+22,xc Commonwealth of Independent States,2,2108,Andrei Kanchelskis Dmitri Kharine,1996-1997
+23,ch Switzerland,2,1026,Ramon Vega Marc Hottiger,1996-1997
+24,tr Turkey,1,2989,Muzzy Izzet,1996-1997
+25,za South Africa,1,2485,Lucas Radebe,1996-1997
+26,pl Poland,1,2449,Dariusz Kubicki,1996-1997
+27,be Belgium,1,2407,Philippe Albert,1996-1997
+28,ng Nigeria,1,2318,Efan Ekoku,1996-1997
+29,ms Montserrat,1,1796,Ruel Fox,1996-1997
+30,co Colombia,1,1477,Faustino Asprilla,1996-1997
+31,zw Zimbabwe,1,1096,Peter Ndlovu,1996-1997
+32,gr Greece,1,1030,Giorgos Donis,1996-1997
+33,se Sweden,1,744,Pontus Kåmark,1996-1997
+34,gh Ghana,1,515,Tony Yeboah,1996-1997
+35,sk Slovakia,1,372,Vladimír Kinder,1996-1997
+36,ee Estonia,1,360,Mart Poom,1996-1997
+37,cr Costa Rica,1,232,Paulo Wanchope,1996-1997
+1,eng England,181,337577,Alan Shearer Robbie Fowler Les Ferdinand Teddy Sheringham Steve McManaman Matt Le Tissier Stan Collymore Ian Wright Paul Merson Dion Dublin ...,1995-1996
+2,ie Ireland,28,41440,Jason McAteer Andy Townsend Niall Quinn Gary Kelly Denis Irwin Roy Keane Jeff Kenna Kenny Cunningham Keith Branagan Paul McGrath ...,1995-1996
+3,sco Scotland,28,39045,Gary McAllister John Spencer Colin Hendry Paul Telfer John McGinlay Scot Gemmill Colin Calderwood Derek Whyte Duncan Ferguson Steve Clarke ...,1995-1996
+4,wal Wales,21,35710,Ryan Giggs Mark Hughes Kit Symons Mark Crossley Neville Southall Vinnie Jones Gary Speed Barry Horne Mark Pembridge Chris Coleman ...,1995-1996
+5,nir Northern Ireland,14,22805,Iain Dowie Steve Lomas Keith Gillespie Michael Hughes Jim Magilton Ian Nolan Alan McDonald Keith Rowland Nigel Worthington Gerry Taggart ...,1995-1996
+6,nl Netherlands,10,16082,Dennis Bergkamp Ruud Gullit Bryan Roy Ken Monkou Fabian de Freitas Glenn Helder Richard Sneekes Regi Blinker Hans Segers Marco Boogers,1995-1996
+7,no Norway,7,13489,Henning Berg Øyvind Leonhardsen Jan Åge Fjørtoft Lars Bohinen Erland Johnsen Alf-Inge Håland Stig Inge Bjørnebye,1995-1996
+8,au Australia,6,6656,Mark Bosnich Robbie Slater John Filan Ned Zelić Stan Lazaridis Harry Kewell,1995-1996
+9,jm Jamaica,5,8638,Robbie Earle Marcus Gayle Danny Maddix Frank Sinclair Jason Euell,1995-1996
+10,dk Denmark,4,7711,Marc Rieper Peter Schmeichel John Jensen Ronnie Ekelund,1995-1996
+11,rs Serbia,4,6920,Savo Milošević Saša Ćurčić Darko Kovačević Dejan Stefanović,1995-1996
+12,se Sweden,4,3708,Anders Limpar Tomas Brolin Klas Ingesson Niklas Gudmundsson,1995-1996
+13,de Germany,3,7251,Uwe Rösler Eike Immel Michael Frontzeck,1995-1996
+14,us United States,3,6521,Steve Potts Juergen Sommer John Harkes,1995-1996
+15,fr France,3,5792,Eric Cantona David Ginola William Prunier,1995-1996
+16,br Brazil,3,2913,Juninho Paulista Isaías Branco,1995-1996
+17,za South Africa,3,1912,Lucas Radebe Mark Stein Phil Masinga,1995-1996
+18,xc Commonwealth of Independent States,2,5125,Andrei Kanchelskis Dmitri Kharine,1995-1996
+19,tt Trinidad and Tobago,2,5072,Dwight Yorke Shaka Hislop,1995-1996
+20,be Belgium,2,4485,Marc Degryse Philippe Albert,1995-1996
+21,cz Czech Republic,2,4472,Luděk Mikloško Pavel Srníček,1995-1996
+22,ng Nigeria,2,4090,Efan Ekoku Daniel Amokachi,1995-1996
+23,ge Georgia,2,3465,Georgi Kinkladze Mikheil Kavelashvili,1995-1996
+24,ro Romania,2,3300,Dan Petrescu Ilie Dumitrescu,1995-1996
+25,zw Zimbabwe,2,2580,Peter Ndlovu Bruce Grobbelaar,1995-1996
+26,gh Ghana,2,2211,Tony Yeboah Nii Lamptey,1995-1996
+27,ch Switzerland,2,843,Marc Hottiger Giuseppe Mazzarelli,1995-1996
+28,is Iceland,1,3015,Guðni Bergsson,1995-1996
+29,ms Montserrat,1,2503,Ruel Fox,1995-1996
+30,il Israel,1,2368,Ronny Rosenthal,1995-1996
+31,hr Croatia,1,1149,Slaven Bilić,1995-1996
+32,fi Finland,1,1044,Mixu Paatelainen,1995-1996
+33,co Colombia,1,980,Faustino Asprilla,1995-1996
+34,it Italy,1,429,Andrea Silenzi,1995-1996
+35,pt Portugal,1,312,Dani,1995-1996
+36,bo Bolivia,1,239,Jaime Moreno,1995-1996
+37,bb Barbados,1,79,Gregory Goodridge,1995-1996
+1,eng England,193,390191,Alan Shearer Matt Le Tissier Chris Sutton Robbie Fowler Stan Collymore Teddy Sheringham Les Ferdinand Darren Anderton Steve McManaman Andy Cole ...,1994-1995
+2,wal Wales,30,56472,Dean Saunders Ian Rush Gary Speed Iwan Roberts Ryan Giggs Geraint Williams Mark Crossley Mark Hughes David Phillips Neville Southall ...,1994-1995
+3,ie Ireland,24,47409,Gary Kelly Denis Irwin Steve Staunton Paul McGrath Jeff Kenna Phil Babb Niall Quinn Andy Townsend John Sheridan Ray Houghton ...,1994-1995
+4,sco Scotland,24,35432,Gary McAllister Colin Hendry Brian McClair John Spencer Colin Calderwood Don Hutchison John Wark Duncan Ferguson Steve Clarke Bryan Gunn ...,1994-1995
+5,nir Northern Ireland,13,25276,Jim Magilton Ian Nolan Alan McDonald Iain Dowie Nigel Worthington Colin Hill Keith Gillespie Steve Lomas Michael Hughes Steve Morrow ...,1994-1995
+6,nl Netherlands,8,13823,Bryan Roy Ken Monkou Hans Segers Jeroen Boere Michel Vonk Glenn Helder Sieb Dijkstra Richard Witschge,1994-1995
+7,no Norway,7,15117,Henning Berg Lars Bohinen Erland Johnsen Stig Inge Bjørnebye Øyvind Leonhardsen Alf-Inge Håland Erik Thorstvedt,1994-1995
+8,dk Denmark,7,13551,Claus Thomsen Peter Schmeichel John Jensen Jakob Kjeldbjerg Ronnie Ekelund Marc Rieper Jan Mølby,1994-1995
+9,jm Jamaica,6,9784,Frank Sinclair Danny Maddix Marcus Gayle Fitzroy Simpson Jamie Lawrence Robbie Earle,1994-1995
+10,au Australia,5,4206,Mark Bosnich Robbie Slater John Filan Adem Poric Jason Kearton,1994-1995
+11,de Germany,3,7616,Jürgen Klinsmann Uwe Rösler Maurizio Gaudino,1994-1995
+12,us United States,3,7079,Steve Potts Roy Wegerle Cobi Jones,1994-1995
+13,se Sweden,3,5624,Stefan Schwarz Anders Limpar Klas Ingesson,1994-1995
+14,ro Romania,3,4690,Gheorghe Popescu Dan Petrescu Ilie Dumitrescu,1994-1995
+15,ng Nigeria,3,4483,Efan Ekoku Daniel Amokachi Ade Akinbiyi,1994-1995
+16,za South Africa,3,3939,Mark Stein Phil Masinga Lucas Radebe,1994-1995
+17,cz Czech Republic,2,7087,Luděk Mikloško Pavel Srníček,1994-1995
+18,ca Canada,2,6989,Frank Yallop Craig Forrest,1994-1995
+19,zw Zimbabwe,2,5215,Peter Ndlovu Bruce Grobbelaar,1994-1995
+20,xc Commonwealth of Independent States,2,5063,Andrei Kanchelskis Dmitri Kharine,1994-1995
+21,gh Ghana,2,1657,Tony Yeboah Nii Lamptey,1994-1995
+22,ms Montserrat,1,3485,Ruel Fox,1994-1995
+23,ch Switzerland,1,3373,Marc Hottiger,1994-1995
+24,tt Trinidad and Tobago,1,2963,Dwight Yorke,1994-1995
+25,fr France,1,1824,Eric Cantona,1994-1995
+26,be Belgium,1,1476,Philippe Albert,1994-1995
+27,il Israel,1,1376,Ronny Rosenthal,1994-1995
+28,uy Uruguay,1,1168,Adrián Paz,1994-1995
+29,kn Saint Kitts and Nevis,1,1126,Bobby Bowry,1994-1995
+30,bg Bulgaria,1,1053,Boncho Genchev,1994-1995
+31,my Malaysia,1,394,Peter Butler,1994-1995
+32,nz New Zealand,1,154,Lee Norfolk,1994-1995
+1,eng England,198,373875,Chris Sutton Andy Cole Matt Le Tissier Peter Beardsley Alan Shearer Ian Wright Brian Deane Les Ferdinand Rob Lee Rod Wallace ...,1993-1994
+2,ie Ireland,28,54993,Denis Irwin Jeff Kenna Gary Kelly Roy Keane Phil Babb Mike Milligan Andy Townsend Paul McGrath Ray Houghton Terry Phelan ...,1993-1994
+3,wal Wales,26,53175,Ian Rush Ryan Giggs Mark Hughes Gary Speed Mark Bowen Dean Saunders Jeremy Goss Neville Southall Paul Bodin Vinnie Jones ...,1993-1994
+4,sco Scotland,26,43871,Gary McAllister Graeme Sharp John Wark Bryan Gunn Gordon Strachan Steve Clarke Kevin Gallacher Paul Bernard Steve Nicol Colin Calderwood ...,1993-1994
+5,nir Northern Ireland,13,20454,Iain Dowie Kevin Horlock Nigel Worthington Lawrie Sanchez Mal Donaghy Keith Rowland Steve Lomas Jim Magilton Alan McDonald Steve Morrow ...,1993-1994
+6,no Norway,10,19353,Jostein Flo Henning Berg Jan Åge Fjørtoft Erik Thorstvedt Erland Johnsen Gunnar Halle Roger Nilsen Stig Inge Bjørnebye Tore Pedersen Kåre Ingebrigtsen,1993-1994
+7,nl Netherlands,5,13084,Hans Segers Ken Monkou Michel Vonk Luc Nijholt Alfons Groenendijk,1993-1994
+8,dk Denmark,4,9458,Peter Schmeichel Jakob Kjeldbjerg John Jensen Jan Mølby,1993-1994
+9,jm Jamaica,4,8892,Robbie Earle Frank Sinclair Fitzroy Simpson Marcus Gayle,1993-1994
+10,us United States,4,6954,Steve Potts Roy Wegerle Preki Cobi Jones,1993-1994
+11,de Germany,4,2001,Uwe Rösler Stefan Beinlich Steffen Karl Matthias Breitkreutz,1993-1994
+12,cz Czech Republic,3,7984,Luděk Mikloško Jan Stejskal Pavel Srníček,1993-1994
+13,se Sweden,3,5489,Roland Nilsson Anders Limpar Jonas Wirmola,1993-1994
+14,pl Poland,3,502,Robert Warzycha Detsi Kruszyński Dariusz Kubicki,1993-1994
+15,zw Zimbabwe,2,6176,Peter Ndlovu Bruce Grobbelaar,1993-1994
+16,xc Commonwealth of Independent States,2,5962,Dmitri Kharine Andrei Kanchelskis,1993-1994
+17,au Australia,2,2825,Mark Bosnich Adem Poric,1993-1994
+18,ca Canada,2,2702,Craig Forrest Frank Yallop,1993-1994
+19,ms Montserrat,1,3541,Ruel Fox,1993-1994
+20,fr France,1,2987,Eric Cantona,1993-1994
+21,my Malaysia,1,2271,Peter Butler,1993-1994
+22,ng Nigeria,1,1916,Efan Ekoku,1993-1994
+23,za South Africa,1,1616,Mark Stein,1993-1994
+24,il Israel,1,1108,Ronny Rosenthal,1993-1994
+25,bg Bulgaria,1,991,Boncho Genchev,1993-1994
+26,cy Cyprus,1,524,Nikki Papavasiliou,1993-1994
+27,tt Trinidad and Tobago,1,427,Dwight Yorke,1993-1994
+1,eng England,191,387505,Matt Le Tissier Teddy Sheringham Brian Deane David White Les Ferdinand Paul Wilkinson Mike Newell Jason Dozzell Peter Beardsley Stuart Ripley ...,1992-1993
+2,sco Scotland,30,54383,Brian McClair Gary McAllister John Wark Kevin Gallacher Colin Hendry Bryan Gunn Gordon Strachan Paul Bernard Don Hutchison Scot Gemmill ...,1992-1993
+3,ie Ireland,29,63698,Niall Quinn Steve Staunton Eddie McGoldrick Andy Townsend Ray Houghton Roy Keane Denis Irwin Paul McGrath Mike Milligan Terry Phelan ...,1992-1993
+4,wal Wales,26,60625,David Phillips Mark Hughes Dean Saunders Ryan Giggs Gary Speed Ian Rush Mark Bowen Eric Young Neville Southall Geraint Williams ...,1992-1993
+5,nir Northern Ireland,12,23477,Iain Dowie Alan McDonald Nigel Worthington Mal Donaghy Kevin Horlock Lawrie Sanchez Kingsley Black Danny Wilson Steve Morrow Paul Williams ...,1992-1993
+6,no Norway,8,9541,Gunnar Halle Erik Thorstvedt Erland Johnsen Stig Inge Bjørnebye Frank Strandli Pål Lydersen Kåre Ingebrigtsen Henning Berg,1992-1993
+7,jm Jamaica,4,9586,Robbie Earle Frank Sinclair Fitzroy Simpson Danny Maddix,1992-1993
+8,dk Denmark,4,8700,Peter Schmeichel John Jensen Torben Piechnik Jan Mølby,1992-1993
+9,au Australia,4,2144,Mark Bosnich Jason Kearton Vlado Bozinovski Andy Petterson,1992-1993
+10,nl Netherlands,3,9000,Hans Segers Ken Monkou Michel Vonk,1992-1993
+11,us United States,3,4615,John Harkes Roy Wegerle Preki,1992-1993
+12,se Sweden,3,4180,Roland Nilsson Anders Limpar Patrik Andersson,1992-1993
+13,zw Zimbabwe,2,2740,Peter Ndlovu Bruce Grobbelaar,1992-1993
+14,xc Commonwealth of Independent States,2,1715,Andrei Kanchelskis Dmitri Kharine,1992-1993
+15,is Iceland,2,1462,Þorvaldur Örlygsson Guðni Bergsson,1992-1993
+16,ca Canada,2,1437,Craig Forrest Frank Yallop,1992-1993
+17,de Germany,2,296,Matthias Breitkreutz Stefan Beinlich,1992-1993
+18,fr France,1,3014,Eric Cantona,1992-1993
+19,ms Montserrat,1,2884,Ruel Fox,1992-1993
+20,tt Trinidad and Tobago,1,2006,Dwight Yorke,1992-1993
+21,bg Bulgaria,1,1542,Boncho Genchev,1992-1993
+22,es Spain,1,1475,Nayim,1992-1993
+23,pl Poland,1,1464,Robert Warzycha,1992-1993
+24,il Israel,1,1404,Ronny Rosenthal,1992-1993
+25,cz Czech Republic,1,1288,Jan Stejskal,1992-1993
+26,kn Saint Kitts and Nevis,1,412,Bobby Bowry,1992-1993
+27,ng Nigeria,1,111,Efan Ekoku,1992-1993
+28,hu Hungary,1,9,István Kozma,1992-1993
